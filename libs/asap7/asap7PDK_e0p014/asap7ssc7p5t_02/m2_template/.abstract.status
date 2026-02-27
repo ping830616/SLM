@@ -1,0 +1,6 @@
+cUiSetViewStatus {m2_temp} {layout} {1}
+cUiSetViewStatus {m2_temp} {logical} {0}
+cUiSetViewStatus {m2_temp} {abstract.pin} {0}
+cUiSetViewStatus {m2_temp} {abstract.ext} {0}
+cUiSetViewStatus {m2_temp} {abstract} {0}
+cUiSetViewStatus {m2_temp} {abstract.ver} {0}

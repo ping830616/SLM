@@ -1,0 +1,70 @@
+ 
+****************************************
+Report : area
+Design : mult16
+Version: S-2021.06-SP5-4
+Date   : Sat Mar 30 16:26:25 2024
+****************************************
+
+Library(s) Used:
+
+    asap7sc7p5t_22b_INVBUF_RVT_TT_170906 (File: /home/aavyas1/libs/asap7libs/asap7libs_24/db/asap7sc7p5t_22b_INVBUF_RVT_TT_170906.db)
+    asap7sc7p5t_22b_SIMPLE_RVT_TT_170906 (File: /home/aavyas1/libs/asap7libs/asap7libs_24/db/asap7sc7p5t_22b_SIMPLE_RVT_TT_170906.db)
+    asap7sc7p5t_22b_AO_RVT_TT_170906 (File: /home/aavyas1/libs/asap7libs/asap7libs_24/db/asap7sc7p5t_22b_AO_RVT_TT_170906.db)
+    asap7sc7p5t_22b_OA_RVT_TT_170906 (File: /home/aavyas1/libs/asap7libs/asap7libs_24/db/asap7sc7p5t_22b_OA_RVT_TT_170906.db)
+    asap7sc7p5t_22b_SEQ_RVT_TT_170906 (File: /home/aavyas1/libs/asap7libs/asap7libs_24/db/asap7sc7p5t_22b_SEQ_RVT_TT_170906.db)
+
+Number of ports:                           52
+Number of nets:                          1076
+Number of cells:                          946
+Number of combinational cells:            929
+Number of sequential cells:                17
+Number of macros/black boxes:               0
+Number of buf/inv:                        344
+Number of references:                      62
+
+Combinational area:               1236.850555
+Buf/Inv area:                      246.110403
+Noncombinational area:              81.414719
+Macro/Black Box area:                0.000000
+Net Interconnect area:      undefined  (No wire load specified)
+
+Total cell area:                  1318.265273
+Total area:                 undefined
+
+Hierarchical area distribution
+------------------------------
+
+                                  Global cell area          Local cell area
+                                  ------------------  ---------------------------- 
+Hierarchical cell                 Absolute   Percent  Combi-     Noncombi-  Black-
+                                  Total      Total    national   national   boxes   Design
+--------------------------------  ---------  -------  ---------  ---------  ------  ---------
+mult16                            1318.2653    100.0  1236.8506    81.4147  0.0000  mult16
+--------------------------------  ---------  -------  ---------  ---------  ------  ---------
+Total                                                 1236.8506    81.4147  0.0000
+
+
+Area of detected synthetic parts
+--------------------------------
+  No DW parts to report!
+
+Estimated area of ungrouped synthetic parts
+-------------------------------------------
+                            Estimated  Perc. of
+  Module    Implem.  Count       Area cell area
+  --------- -------  ----- ---------- ---------
+  DW01_add      rpl      2    50.6218      3.8%
+  DW01_ash      mx2      1    62.2858      4.7%
+  DW01_cmp2     rpl      2     4.8989      0.4%
+  DW01_cmp6     rpl      8    26.5939      2.0%
+  DW01_inc      cla      1    60.1863      4.6%
+  DW01_inc      rpl      1    19.5955      1.5%
+  DW01_sub      rpl      4    87.0134      6.6%
+  DW02_mult     csa      1   743.6970     56.4%
+  --------- -------  ----- ---------- ---------
+  Total:                20  1054.8926     80.0%
+
+Total synthetic cell area:              1054.8926  80.0%  (estimated)
+
+1

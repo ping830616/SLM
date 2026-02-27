@@ -1,0 +1,26 @@
+*drcRulesFile: $PDK_DIR/calibre/ruledirs/drc/drcRules_calibre_asap7.rul
+*drcRunDir: $PWD/drc/
+*drcLayoutPaths: BUFx12f_ASAP7_75t_R.calibre.db
+*drcLayoutPrimary: BUFx12f_ASAP7_75t_R
+*drcLayoutLibrary: asap7sc7p5t_24
+*drcLayoutView: layout
+*drcLayoutGetFromViewer: 1
+*drcResultsFile: BUFx12f_ASAP7_75t_R.drc.results
+*drcDRCMaxResultsAll: 1
+*drcDRCMaxResultsCount: 10000
+*drcDRCMaxVertexAll: 1
+*drcSummaryFile: BUFx12f_ASAP7_75t_R.drc.summary
+*drcViewSummary: 0
+*drcActiveRecipe: All checks
+*drcIncrDRCSlaveHosts: {use {}} {hostName {}} {cpuCount {}} {a32a64 {}} {rsh {}} {maxMem {}} {workingDir {}} {layerDir {}} {mgcLibPath {}} {launchName {}}
+*drcIncrDRCLSFSlaveTbl: {use 1} {totalCpus 1} {minCpus 1} {architecture {{}}} {minMemory {{}}} {resourceOptions {{}}} {submitOptions {{}}}
+*drcIncrDRCGridSlaveTbl: {use 1} {totalCpus 1} {minCpus 1} {architecture {{}}} {minMemory {{}}} {resourceOptions {{}}} {submitOptions {{}}}
+*cmnShowOptions: 1
+*cmnRunHier: 0
+*cmnStartRVEAfterBatch: 1
+*cmnSlaveHosts: {use {}} {hostName {}} {cpuCount {}} {a32a64 {}} {rsh {}} {maxMem {}} {workingDir {}} {layerDir {}} {mgcLibPath {}} {launchName {}}
+*cmnLSFSlaveTbl: {use 1} {totalCpus 1} {minCpus 1} {architecture {{}}} {minMemory {{}}} {resourceOptions {{}}} {submitOptions {{}}}
+*cmnGridSlaveTbl: {use 1} {totalCpus 1} {minCpus 1} {architecture {{}}} {minMemory {{}}} {resourceOptions {{}}} {submitOptions {{}}}
+*cmnFDILayoutLibrary: asap7sc7p5t_24
+*cmnFDILayoutView: layout
+*cmnFDIDEFLayoutPath: BUFx12f_ASAP7_75t_R.def

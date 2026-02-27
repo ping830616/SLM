@@ -1,0 +1,6 @@
+cUiSetViewStatus {tapcell_01} {layout} {1}
+cUiSetViewStatus {tapcell_01} {logical} {0}
+cUiSetViewStatus {tapcell_01} {abstract.pin} {0}
+cUiSetViewStatus {tapcell_01} {abstract.ext} {0}
+cUiSetViewStatus {tapcell_01} {abstract} {0}
+cUiSetViewStatus {tapcell_01} {abstract.ver} {0}

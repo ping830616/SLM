@@ -1,0 +1,61 @@
+ 
+****************************************
+Report : area
+Design : adder
+Version: S-2021.06-SP5-4
+Date   : Thu Jul  6 00:11:41 2023
+****************************************
+
+Library(s) Used:
+
+    asap7sc7p5t_22b_SIMPLE_RVT_TT_170906 (File: /home/aavyas1/libs/asap7libs/asap7libs_24/db/asap7sc7p5t_22b_SIMPLE_RVT_TT_170906.db)
+    asap7sc7p5t_22b_AO_RVT_TT_170906 (File: /home/aavyas1/libs/asap7libs/asap7libs_24/db/asap7sc7p5t_22b_AO_RVT_TT_170906.db)
+    asap7sc7p5t_22b_SEQ_RVT_TT_170906 (File: /home/aavyas1/libs/asap7libs/asap7libs_24/db/asap7sc7p5t_22b_SEQ_RVT_TT_170906.db)
+
+Number of ports:                            8
+Number of nets:                            13
+Number of cells:                            8
+Number of combinational cells:              5
+Number of sequential cells:                 3
+Number of macros/black boxes:               0
+Number of buf/inv:                          0
+Number of references:                       5
+
+Combinational area:                  9.331200
+Buf/Inv area:                        0.000000
+Noncombinational area:              13.996799
+Macro/Black Box area:                0.000000
+Net Interconnect area:      undefined  (No wire load specified)
+
+Total cell area:                    23.327999
+Total area:                 undefined
+
+Hierarchical area distribution
+------------------------------
+
+                                  Global cell area          Local cell area
+                                  ------------------  --------------------------- 
+Hierarchical cell                 Absolute   Percent  Combi-    Noncombi-  Black-
+                                  Total      Total    national  national   boxes   Design
+--------------------------------  ---------  -------  --------  ---------  ------  ---------
+adder                               23.3280    100.0    9.3312    13.9968  0.0000  adder
+--------------------------------  ---------  -------  --------  ---------  ------  ---------
+Total                                                   9.3312    13.9968  0.0000
+
+
+Area of detected synthetic parts
+--------------------------------
+  No DW parts to report!
+
+Estimated area of ungrouped synthetic parts
+-------------------------------------------
+                           Estimated  Perc. of
+  Module   Implem.  Count       Area cell area
+  -------- -------  ----- ---------- ---------
+  DW01_add     rpl      1     8.6950     37.3%
+  -------- -------  ----- ---------- ---------
+  Total:                1     8.6950     37.3%
+
+Total synthetic cell area:              8.6950  37.3%  (estimated)
+
+1

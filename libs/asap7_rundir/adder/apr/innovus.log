@@ -1,0 +1,425 @@
+
+Cadence Innovus(TM) Implementation System.
+Copyright 2019 Cadence Design Systems, Inc. All rights reserved worldwide.
+
+Version:	v19.10-p002_1, built Fri Apr 19 15:18:11 PDT 2019
+Options:	
+Date:		Thu Jul  6 00:21:29 2023
+Host:		eceesrv02 (x86_64 w/Linux 3.10.0-1160.88.1.el7.x86_64) (10cores*40cpus*Intel(R) Xeon(R) CPU E5-2650 v3 @ 2.30GHz 25600KB)
+OS:		Red Hat Enterprise Linux Workstation release 7.9 (Maipo)
+
+License:
+		invs	Innovus Implementation System	19.1	checkout succeeded
+		8 CPU jobs allowed with the current license(s). Use setMultiCpuUsage to set your required CPU count.
+Change the soft stacksize limit to 0.2%RAM (515 mbytes). Set global soft_stack_size_limit to change the value.
+
+**INFO:  MMMC transition support version v31-84 
+
+<CMD> set_global _enable_mmmc_by_default_flow      $CTE::mmmc_default
+<CMD> suppressMessage ENCEXT-2799
+<CMD> getVersion
+[INFO] Loading PVS 19.11 fill procedures
+<CMD> win
+<CMD> set ::TimeLib::tsgMarkCellLatchConstructFlag 1
+<CMD> set conf_qxconf_file NULL
+<CMD> set conf_qxlib_file NULL
+<CMD> set defHierChar /
+<CMD> set distributed_client_message_echo 1
+<CMD> set gpsPrivate::dpgNewAddBufsDBUpdate 1
+<CMD> set gpsPrivate::lsgEnableNewDbApiInRestruct 1
+<CMD> set init_gnd_net VSS
+<CMD> set init_lef_file {/home/aavyas1/libs/asap7_rundir/adder/apr/asap7_tech_4x_170803.lef /home/aavyas1/libs/asap7_rundir/adder/apr/asap7sc7p5t_24_SRAM_4x_170912.lef}
+<CMD> set init_mmmc_file ./Default.view
+<CMD> set init_pwr_net VDD
+<CMD> set init_verilog /home/aavyas1/libs/asap7_rundir/adder/synthesis/adder.500.syn.v
+<CMD> set pegDefaultResScaleFactor 1.000000
+<CMD> set pegDetailResScaleFactor 1.000000
+<CMD> set timing_library_float_precision_tol 0.000010
+<CMD> set timing_library_load_pin_cap_indices {}
+<CMD> set tso_post_client_restore_command {update_timing ; write_eco_opt_db ;}
+<CMD> init_design
+#% Begin Load MMMC data ... (date=07/06 00:22:16, mem=475.0M)
+#% End Load MMMC data ... (date=07/06 00:22:16, total cpu=0:00:00.0, real=0:00:00.0, peak res=475.2M, current mem=475.2M)
+RC_corner_25
+
+Loading LEF file /home/aavyas1/libs/asap7_rundir/adder/apr/asap7_tech_4x_170803.lef ...
+
+Loading LEF file /home/aavyas1/libs/asap7_rundir/adder/apr/asap7sc7p5t_24_SRAM_4x_170912.lef ...
+Set DBUPerIGU to M1 pitch 576.
+**WARN: (IMPLF-45):	Macro 'A2O1A1Ixp33_ASAP7_75t_SRAM' has no SITE statement and it is a class
+CORE macro that requires a SITE statement. The SITE coreSite is
+chosen because it is a core site with height 1.0800 that matches the macro
+SIZE height.
+**WARN: (IMPLF-45):	Macro 'A2O1A1O1Ixp25_ASAP7_75t_SRAM' has no SITE statement and it is a class
+CORE macro that requires a SITE statement. The SITE coreSite is
+chosen because it is a core site with height 1.0800 that matches the macro
+SIZE height.
+**WARN: (IMPLF-45):	Macro 'AND2x2_ASAP7_75t_SRAM' has no SITE statement and it is a class
+CORE macro that requires a SITE statement. The SITE coreSite is
+chosen because it is a core site with height 1.0800 that matches the macro
+SIZE height.
+**WARN: (IMPLF-45):	Macro 'AND2x4_ASAP7_75t_SRAM' has no SITE statement and it is a class
+CORE macro that requires a SITE statement. The SITE coreSite is
+chosen because it is a core site with height 1.0800 that matches the macro
+SIZE height.
+**WARN: (IMPLF-45):	Macro 'AND2x6_ASAP7_75t_SRAM' has no SITE statement and it is a class
+CORE macro that requires a SITE statement. The SITE coreSite is
+chosen because it is a core site with height 1.0800 that matches the macro
+SIZE height.
+**WARN: (IMPLF-45):	Macro 'AND3x1_ASAP7_75t_SRAM' has no SITE statement and it is a class
+CORE macro that requires a SITE statement. The SITE coreSite is
+chosen because it is a core site with height 1.0800 that matches the macro
+SIZE height.
+**WARN: (IMPLF-45):	Macro 'AND3x2_ASAP7_75t_SRAM' has no SITE statement and it is a class
+CORE macro that requires a SITE statement. The SITE coreSite is
+chosen because it is a core site with height 1.0800 that matches the macro
+SIZE height.
+**WARN: (IMPLF-45):	Macro 'AND3x4_ASAP7_75t_SRAM' has no SITE statement and it is a class
+CORE macro that requires a SITE statement. The SITE coreSite is
+chosen because it is a core site with height 1.0800 that matches the macro
+SIZE height.
+**WARN: (IMPLF-45):	Macro 'AND4x1_ASAP7_75t_SRAM' has no SITE statement and it is a class
+CORE macro that requires a SITE statement. The SITE coreSite is
+chosen because it is a core site with height 1.0800 that matches the macro
+SIZE height.
+**WARN: (IMPLF-45):	Macro 'AND4x2_ASAP7_75t_SRAM' has no SITE statement and it is a class
+CORE macro that requires a SITE statement. The SITE coreSite is
+chosen because it is a core site with height 1.0800 that matches the macro
+SIZE height.
+**WARN: (IMPLF-45):	Macro 'AND5x1_ASAP7_75t_SRAM' has no SITE statement and it is a class
+CORE macro that requires a SITE statement. The SITE coreSite is
+chosen because it is a core site with height 1.0800 that matches the macro
+SIZE height.
+**WARN: (IMPLF-45):	Macro 'AND5x2_ASAP7_75t_SRAM' has no SITE statement and it is a class
+CORE macro that requires a SITE statement. The SITE coreSite is
+chosen because it is a core site with height 1.0800 that matches the macro
+SIZE height.
+**WARN: (IMPLF-45):	Macro 'AO211x2_ASAP7_75t_SRAM' has no SITE statement and it is a class
+CORE macro that requires a SITE statement. The SITE coreSite is
+chosen because it is a core site with height 1.0800 that matches the macro
+SIZE height.
+**WARN: (IMPLF-45):	Macro 'AO21x1_ASAP7_75t_SRAM' has no SITE statement and it is a class
+CORE macro that requires a SITE statement. The SITE coreSite is
+chosen because it is a core site with height 1.0800 that matches the macro
+SIZE height.
+**WARN: (IMPLF-45):	Macro 'AO21x2_ASAP7_75t_SRAM' has no SITE statement and it is a class
+CORE macro that requires a SITE statement. The SITE coreSite is
+chosen because it is a core site with height 1.0800 that matches the macro
+SIZE height.
+**WARN: (IMPLF-45):	Macro 'AO221x1_ASAP7_75t_SRAM' has no SITE statement and it is a class
+CORE macro that requires a SITE statement. The SITE coreSite is
+chosen because it is a core site with height 1.0800 that matches the macro
+SIZE height.
+**WARN: (IMPLF-45):	Macro 'AO221x2_ASAP7_75t_SRAM' has no SITE statement and it is a class
+CORE macro that requires a SITE statement. The SITE coreSite is
+chosen because it is a core site with height 1.0800 that matches the macro
+SIZE height.
+**WARN: (IMPLF-45):	Macro 'AO222x2_ASAP7_75t_SRAM' has no SITE statement and it is a class
+CORE macro that requires a SITE statement. The SITE coreSite is
+chosen because it is a core site with height 1.0800 that matches the macro
+SIZE height.
+**WARN: (IMPLF-45):	Macro 'AO22x1_ASAP7_75t_SRAM' has no SITE statement and it is a class
+CORE macro that requires a SITE statement. The SITE coreSite is
+chosen because it is a core site with height 1.0800 that matches the macro
+SIZE height.
+**WARN: (IMPLF-45):	Macro 'AO22x2_ASAP7_75t_SRAM' has no SITE statement and it is a class
+CORE macro that requires a SITE statement. The SITE coreSite is
+chosen because it is a core site with height 1.0800 that matches the macro
+SIZE height.
+**WARN: (EMS-27):	Message (IMPLF-45) has exceeded the current message display limit of 20.
+To increase the message display limit, refer to the product command reference manual.
+
+viaInitial starts at Thu Jul  6 00:22:17 2023
+viaInitial ends at Thu Jul  6 00:22:17 2023
+
+##  Check design process and node:  
+##  Both design process and tech node are not set.
+
+Loading view definition file from ./Default.view
+Reading libset_slow timing library '/home/aavyas1/libs/asap7libs/asap7libs_24/lib/asap7sc7p5t_24_INVBUF_RVT_TT.lib' ...
+**WARN: (TECHLIB-436):	Attribute 'max_fanout' on 'output/inout' pin 'Y' of cell 'BUFx10_ASAP7_75t_R' is not defined in the library. (File /home/aavyas1/libs/asap7libs/asap7libs_24/lib/asap7sc7p5t_24_INVBUF_RVT_TT.lib)
+**WARN: (TECHLIB-436):	Attribute 'max_fanout' on 'output/inout' pin 'Y' of cell 'BUFx12_ASAP7_75t_R' is not defined in the library. (File /home/aavyas1/libs/asap7libs/asap7libs_24/lib/asap7sc7p5t_24_INVBUF_RVT_TT.lib)
+**WARN: (TECHLIB-436):	Attribute 'max_fanout' on 'output/inout' pin 'Y' of cell 'BUFx12f_ASAP7_75t_R' is not defined in the library. (File /home/aavyas1/libs/asap7libs/asap7libs_24/lib/asap7sc7p5t_24_INVBUF_RVT_TT.lib)
+**WARN: (TECHLIB-436):	Attribute 'max_fanout' on 'output/inout' pin 'Y' of cell 'BUFx16f_ASAP7_75t_R' is not defined in the library. (File /home/aavyas1/libs/asap7libs/asap7libs_24/lib/asap7sc7p5t_24_INVBUF_RVT_TT.lib)
+**WARN: (TECHLIB-436):	Attribute 'max_fanout' on 'output/inout' pin 'Y' of cell 'BUFx24_ASAP7_75t_R' is not defined in the library. (File /home/aavyas1/libs/asap7libs/asap7libs_24/lib/asap7sc7p5t_24_INVBUF_RVT_TT.lib)
+**WARN: (TECHLIB-436):	Attribute 'max_fanout' on 'output/inout' pin 'Y' of cell 'BUFx2_ASAP7_75t_R' is not defined in the library. (File /home/aavyas1/libs/asap7libs/asap7libs_24/lib/asap7sc7p5t_24_INVBUF_RVT_TT.lib)
+**WARN: (TECHLIB-436):	Attribute 'max_fanout' on 'output/inout' pin 'Y' of cell 'BUFx3_ASAP7_75t_R' is not defined in the library. (File /home/aavyas1/libs/asap7libs/asap7libs_24/lib/asap7sc7p5t_24_INVBUF_RVT_TT.lib)
+**WARN: (TECHLIB-436):	Attribute 'max_fanout' on 'output/inout' pin 'Y' of cell 'BUFx4_ASAP7_75t_R' is not defined in the library. (File /home/aavyas1/libs/asap7libs/asap7libs_24/lib/asap7sc7p5t_24_INVBUF_RVT_TT.lib)
+**WARN: (TECHLIB-436):	Attribute 'max_fanout' on 'output/inout' pin 'Y' of cell 'BUFx4f_ASAP7_75t_R' is not defined in the library. (File /home/aavyas1/libs/asap7libs/asap7libs_24/lib/asap7sc7p5t_24_INVBUF_RVT_TT.lib)
+**WARN: (TECHLIB-436):	Attribute 'max_fanout' on 'output/inout' pin 'Y' of cell 'BUFx5_ASAP7_75t_R' is not defined in the library. (File /home/aavyas1/libs/asap7libs/asap7libs_24/lib/asap7sc7p5t_24_INVBUF_RVT_TT.lib)
+**WARN: (TECHLIB-436):	Attribute 'max_fanout' on 'output/inout' pin 'Y' of cell 'BUFx6f_ASAP7_75t_R' is not defined in the library. (File /home/aavyas1/libs/asap7libs/asap7libs_24/lib/asap7sc7p5t_24_INVBUF_RVT_TT.lib)
+**WARN: (TECHLIB-436):	Attribute 'max_fanout' on 'output/inout' pin 'Y' of cell 'BUFx8_ASAP7_75t_R' is not defined in the library. (File /home/aavyas1/libs/asap7libs/asap7libs_24/lib/asap7sc7p5t_24_INVBUF_RVT_TT.lib)
+**WARN: (TECHLIB-436):	Attribute 'max_fanout' on 'output/inout' pin 'Y' of cell 'HB1xp67_ASAP7_75t_R' is not defined in the library. (File /home/aavyas1/libs/asap7libs/asap7libs_24/lib/asap7sc7p5t_24_INVBUF_RVT_TT.lib)
+**WARN: (TECHLIB-436):	Attribute 'max_fanout' on 'output/inout' pin 'Y' of cell 'HB2xp67_ASAP7_75t_R' is not defined in the library. (File /home/aavyas1/libs/asap7libs/asap7libs_24/lib/asap7sc7p5t_24_INVBUF_RVT_TT.lib)
+**WARN: (TECHLIB-436):	Attribute 'max_fanout' on 'output/inout' pin 'Y' of cell 'HB3xp67_ASAP7_75t_R' is not defined in the library. (File /home/aavyas1/libs/asap7libs/asap7libs_24/lib/asap7sc7p5t_24_INVBUF_RVT_TT.lib)
+**WARN: (TECHLIB-436):	Attribute 'max_fanout' on 'output/inout' pin 'Y' of cell 'HB4xp67_ASAP7_75t_R' is not defined in the library. (File /home/aavyas1/libs/asap7libs/asap7libs_24/lib/asap7sc7p5t_24_INVBUF_RVT_TT.lib)
+**WARN: (TECHLIB-436):	Attribute 'max_fanout' on 'output/inout' pin 'Y' of cell 'INVx11_ASAP7_75t_R' is not defined in the library. (File /home/aavyas1/libs/asap7libs/asap7libs_24/lib/asap7sc7p5t_24_INVBUF_RVT_TT.lib)
+**WARN: (TECHLIB-436):	Attribute 'max_fanout' on 'output/inout' pin 'Y' of cell 'INVx13_ASAP7_75t_R' is not defined in the library. (File /home/aavyas1/libs/asap7libs/asap7libs_24/lib/asap7sc7p5t_24_INVBUF_RVT_TT.lib)
+**WARN: (TECHLIB-436):	Attribute 'max_fanout' on 'output/inout' pin 'Y' of cell 'INVx1_ASAP7_75t_R' is not defined in the library. (File /home/aavyas1/libs/asap7libs/asap7libs_24/lib/asap7sc7p5t_24_INVBUF_RVT_TT.lib)
+**WARN: (TECHLIB-436):	Attribute 'max_fanout' on 'output/inout' pin 'Y' of cell 'INVx2_ASAP7_75t_R' is not defined in the library. (File /home/aavyas1/libs/asap7libs/asap7libs_24/lib/asap7sc7p5t_24_INVBUF_RVT_TT.lib)
+Message <TECHLIB-436> has exceeded the message display limit of '20'. Use 'set_message -no_limit -id list_of_msgIDs' to reset the message limit.
+Read 27 cells in library 'asap7sc7p5t_22b_INVBUF_RVT_TT_170906' 
+Reading libset_slow timing library '/home/aavyas1/fir/apr/asap7sc7p5t_24_AO_RVT_TT.lib' ...
+Read 42 cells in library 'asap7sc7p5t_22b_AO_RVT_TT_170906' 
+Reading libset_slow timing library '/home/aavyas1/fir/apr/asap7sc7p5t_24_OA_RVT_TT.lib' ...
+Read 34 cells in library 'asap7sc7p5t_22b_OA_RVT_TT_170906' 
+Reading libset_slow timing library '/home/aavyas1/fir/apr/asap7sc7p5t_24_SEQ_RVT_TT.lib' ...
+Read 26 cells in library 'asap7sc7p5t_22b_SEQ_RVT_TT_170906' 
+Reading libset_slow timing library '/home/aavyas1/fir/apr/asap7sc7p5t_24_SIMPLE_RVT_TT.lib' ...
+**WARN: (TECHLIB-1277):	The attribute 'input_signal_level' has been defined for output pin 'CON'. 'input_signal_level' cannot be defined at this level and is being ignored. (File /home/aavyas1/fir/apr/asap7sc7p5t_24_SIMPLE_RVT_TT.lib, Line 11230)
+**WARN: (TECHLIB-1277):	The attribute 'input_signal_level' has been defined for output pin 'CON'. 'input_signal_level' cannot be defined at this level and is being ignored. (File /home/aavyas1/fir/apr/asap7sc7p5t_24_SIMPLE_RVT_TT.lib, Line 14483)
+Read 56 cells in library 'asap7sc7p5t_22b_SIMPLE_RVT_TT_170906' 
+Reading libset_fast timing library '/home/aavyas1/libs/asap7libs/asap7libs_24/lib/asap7sc7p5t_24_AO_RVT_TT.lib' ...
+Read 42 cells in library 'asap7sc7p5t_22b_AO_RVT_TT_170906' 
+Reading libset_fast timing library '/home/aavyas1/libs/asap7libs/asap7libs_24/lib/asap7sc7p5t_24_OA_RVT_TT.lib' ...
+Read 34 cells in library 'asap7sc7p5t_22b_OA_RVT_TT_170906' 
+Reading libset_fast timing library '/home/aavyas1/libs/asap7libs/asap7libs_24/lib/asap7sc7p5t_24_SEQ_RVT_TT.lib' ...
+Read 26 cells in library 'asap7sc7p5t_22b_SEQ_RVT_TT_170906' 
+Reading libset_fast timing library '/home/aavyas1/libs/asap7libs/asap7libs_24/lib/asap7sc7p5t_24_SIMPLE_RVT_TT.lib' ...
+**WARN: (TECHLIB-1277):	The attribute 'input_signal_level' has been defined for output pin 'CON'. 'input_signal_level' cannot be defined at this level and is being ignored. (File /home/aavyas1/libs/asap7libs/asap7libs_24/lib/asap7sc7p5t_24_SIMPLE_RVT_TT.lib, Line 11230)
+**WARN: (TECHLIB-1277):	The attribute 'input_signal_level' has been defined for output pin 'CON'. 'input_signal_level' cannot be defined at this level and is being ignored. (File /home/aavyas1/libs/asap7libs/asap7libs_24/lib/asap7sc7p5t_24_SIMPLE_RVT_TT.lib, Line 14483)
+Read 56 cells in library 'asap7sc7p5t_22b_SIMPLE_RVT_TT_170906' 
+*** End library_loading (cpu=0.09min, real=0.08min, mem=27.9M, fe_cpu=0.38min, fe_real=0.88min, fe_mem=778.4M) ***
+#% Begin Load netlist data ... (date=07/06 00:22:22, mem=500.5M)
+*** Begin netlist parsing (mem=778.4M) ***
+Created 185 new cells from 9 timing libraries.
+Reading netlist ...
+Backslashed names will retain backslash and a trailing blank character.
+Reading verilog netlist '/home/aavyas1/libs/asap7_rundir/adder/synthesis/adder.500.syn.v'
+
+*** Memory Usage v#1 (Current mem = 778.422M, initial mem = 256.707M) ***
+*** End netlist parsing (cpu=0:00:00.0, real=0:00:00.0, mem=778.4M) ***
+#% End Load netlist data ... (date=07/06 00:22:22, total cpu=0:00:00.0, real=0:00:00.0, peak res=508.4M, current mem=508.4M)
+Top level cell is adder.
+Hooked 343 DB cells to tlib cells.
+** Removed 180 unused lib cells.
+Starting recursive module instantiation check.
+No recursion found.
+Building hierarchical netlist for Cell adder ...
+*** Netlist is unique.
+**ERROR: (IMPREPO-102):	Instance sum_reg_1_0 of the cell DFFHQNx1_ASAP7_75t_R has no physical library or has wrong dimen-
+sion values (<=0). Check your design setup to make sure the physical
+ library is loaded in and the attributes specified in physical library are correct.
+Type 'man IMPREPO-102' for more detail.
+**ERROR: (IMPREPO-102):	Instance sum_reg_0_0 of the cell DFFHQNx1_ASAP7_75t_R has no physical library or has wrong dimen-
+sion values (<=0). Check your design setup to make sure the physical
+ library is loaded in and the attributes specified in physical library are correct.
+Type 'man IMPREPO-102' for more detail.
+**ERROR: (IMPREPO-102):	Instance cout_reg of the cell DFFHQNx1_ASAP7_75t_R has no physical library or has wrong dimen-
+sion values (<=0). Check your design setup to make sure the physical
+ library is loaded in and the attributes specified in physical library are correct.
+Type 'man IMPREPO-102' for more detail.
+**ERROR: (IMPREPO-102):	Instance U8 of the cell XOR2xp5_ASAP7_75t_R has no physical library or has wrong dimen-
+sion values (<=0). Check your design setup to make sure the physical
+ library is loaded in and the attributes specified in physical library are correct.
+Type 'man IMPREPO-102' for more detail.
+**ERROR: (IMPREPO-102):	Instance U9 of the cell AND2x2_ASAP7_75t_R has no physical library or has wrong dimen-
+sion values (<=0). Check your design setup to make sure the physical
+ library is loaded in and the attributes specified in physical library are correct.
+Type 'man IMPREPO-102' for more detail.
+**ERROR: (IMPREPO-102):	Instance U11 of the cell AOI32xp33_ASAP7_75t_R has no physical library or has wrong dimen-
+sion values (<=0). Check your design setup to make sure the physical
+ library is loaded in and the attributes specified in physical library are correct.
+Type 'man IMPREPO-102' for more detail.
+**ERROR: (IMPREPO-102):	Instance U12 of the cell XNOR2xp5_ASAP7_75t_R has no physical library or has wrong dimen-
+sion values (<=0). Check your design setup to make sure the physical
+ library is loaded in and the attributes specified in physical library are correct.
+Type 'man IMPREPO-102' for more detail.
+**ERROR: (IMPREPO-102):	Instance U13 of the cell XNOR2xp5_ASAP7_75t_R has no physical library or has wrong dimen-
+sion values (<=0). Check your design setup to make sure the physical
+ library is loaded in and the attributes specified in physical library are correct.
+Type 'man IMPREPO-102' for more detail.
+** info: there are 207 modules.
+** info: there are 8 stdCell insts.
+**ERROR: (IMPREPO-103):	There are 8 instances (5 cells) with no dimension defined.
+
+*** Memory Usage v#1 (Current mem = 838.848M, initial mem = 256.707M) ***
+Set Default Net Delay as 1000 ps.
+Set Default Net Load as 0.5 pF. 
+Set Default Input Pin Transition as 0.1 ps.
+Extraction setup Started 
+Initializing multi-corner RC extraction with 1 active RC Corners ...
+Captable file(s) not specified in multi-corner setup. PreRoute extraction will use technology file. For postRoute extraction, default value for effort level would be 'medium' and effort level 'low' would not be allowed.
+Generating auto layer map file.
+Importing multi-corner technology file(s) for preRoute extraction...
+/home/aavyas1/libs/asap7libs/asap7libs_24/qrc/qrcTechFile_typ03_scaled4xV06
+Generating auto layer map file.
+Completed (cpu: 0:00:03.9 real: 0:00:04.0)
+Set Shrink Factor to 1.00000
+Summary of Active RC-Corners : 
+ 
+ Analysis View: default_setup_view
+    RC-Corner Name        : RC_corner_25
+    RC-Corner Index       : 0
+    RC-Corner Temperature : 25 Celsius
+    RC-Corner Cap Table   : ''
+    RC-Corner PreRoute Res Factor         : 1
+    RC-Corner PreRoute Cap Factor         : 1
+    RC-Corner PostRoute Res Factor        : 1 {1 1 1}
+    RC-Corner PostRoute Cap Factor        : 1 {1 1 1}
+    RC-Corner PostRoute XCap Factor       : 1 {1 1 1}
+    RC-Corner PreRoute Clock Res Factor   : 1	[Derived from postRoute_res (effortLevel low)]
+    RC-Corner PreRoute Clock Cap Factor   : 1	[Derived from postRoute_cap (effortLevel low)]
+    RC-Corner PostRoute Clock Cap Factor  : 1 {1 1 1} 	[Derived from postRoute_cap (effortLevel low)]
+    RC-Corner PostRoute Clock Res Factor  : 1 {1 1 1} 	[Derived from postRoute_res (effortLevel low)]
+    RC-Corner Technology file: '/home/aavyas1/libs/asap7libs/asap7libs_24/qrc/qrcTechFile_typ03_scaled4xV06'
+ 
+ Analysis View: default_hold_view
+    RC-Corner Name        : RC_corner_25
+    RC-Corner Index       : 0
+    RC-Corner Temperature : 25 Celsius
+    RC-Corner Cap Table   : ''
+    RC-Corner PreRoute Res Factor         : 1
+    RC-Corner PreRoute Cap Factor         : 1
+    RC-Corner PostRoute Res Factor        : 1 {1 1 1}
+    RC-Corner PostRoute Cap Factor        : 1 {1 1 1}
+    RC-Corner PostRoute XCap Factor       : 1 {1 1 1}
+    RC-Corner PreRoute Clock Res Factor   : 1	[Derived from postRoute_res (effortLevel low)]
+    RC-Corner PreRoute Clock Cap Factor   : 1	[Derived from postRoute_cap (effortLevel low)]
+    RC-Corner PostRoute Clock Cap Factor  : 1 {1 1 1} 	[Derived from postRoute_cap (effortLevel low)]
+    RC-Corner PostRoute Clock Res Factor  : 1 {1 1 1} 	[Derived from postRoute_res (effortLevel low)]
+    RC-Corner Technology file: '/home/aavyas1/libs/asap7libs/asap7libs_24/qrc/qrcTechFile_typ03_scaled4xV06'
+Updating RC grid for preRoute extraction ...
+Initializing multi-corner resistance tables ...
+Default value for postRoute extraction mode's effortLevel (-effortLevel option of setExtractRCMode) changed to 'medium'.
+*Info: initialize multi-corner CTS.
+Reading timing constraints file '/home/aavyas1/libs/asap7_rundir/adder/synthesis/adder.500.syn.sdc' ...
+Current (total cpu=0:00:27.6, real=0:00:58.0, peak res=743.7M, current mem=739.3M)
+**WARN: (TCLCMD-1461):	Skipped unsupported command: set_units (File /home/aavyas1/libs/asap7_rundir/adder/synthesis/adder.500.syn.sdc, Line 8).
+
+**ERROR: (TCLCMD-221):	set_driving_cell: Could not find driving cell 'INVx3_ASAP7_75t_R' in any library (File /home/aavyas1/libs/asap7_rundir/adder/synthesis/adder.500.syn.sdc, Line 11).
+
+**ERROR: (TCLCMD-221):	set_driving_cell: Could not find driving cell 'INVx3_ASAP7_75t_R' in any library (File /home/aavyas1/libs/asap7_rundir/adder/synthesis/adder.500.syn.sdc, Line 11).
+
+**ERROR: (TCLCMD-221):	set_driving_cell: Could not find driving cell 'INVx3_ASAP7_75t_R' in any library (File /home/aavyas1/libs/asap7_rundir/adder/synthesis/adder.500.syn.sdc, Line 12).
+
+**ERROR: (TCLCMD-221):	set_driving_cell: Could not find driving cell 'INVx3_ASAP7_75t_R' in any library (File /home/aavyas1/libs/asap7_rundir/adder/synthesis/adder.500.syn.sdc, Line 12).
+
+**ERROR: (TCLCMD-221):	set_driving_cell: Could not find driving cell 'INVx3_ASAP7_75t_R' in any library (File /home/aavyas1/libs/asap7_rundir/adder/synthesis/adder.500.syn.sdc, Line 13).
+
+**ERROR: (TCLCMD-221):	set_driving_cell: Could not find driving cell 'INVx3_ASAP7_75t_R' in any library (File /home/aavyas1/libs/asap7_rundir/adder/synthesis/adder.500.syn.sdc, Line 13).
+
+**ERROR: (TCLCMD-221):	set_driving_cell: Could not find driving cell 'INVx3_ASAP7_75t_R' in any library (File /home/aavyas1/libs/asap7_rundir/adder/synthesis/adder.500.syn.sdc, Line 14).
+
+**ERROR: (TCLCMD-221):	set_driving_cell: Could not find driving cell 'INVx3_ASAP7_75t_R' in any library (File /home/aavyas1/libs/asap7_rundir/adder/synthesis/adder.500.syn.sdc, Line 14).
+
+**ERROR: (TCLCMD-221):	set_driving_cell: Could not find driving cell 'INVx3_ASAP7_75t_R' in any library (File /home/aavyas1/libs/asap7_rundir/adder/synthesis/adder.500.syn.sdc, Line 15).
+
+**ERROR: (TCLCMD-221):	set_driving_cell: Could not find driving cell 'INVx3_ASAP7_75t_R' in any library (File /home/aavyas1/libs/asap7_rundir/adder/synthesis/adder.500.syn.sdc, Line 15).
+
+INFO (CTE): Reading of timing constraints file /home/aavyas1/libs/asap7_rundir/adder/synthesis/adder.500.syn.sdc completed, with 1 Warnings and 10 Errors.
+Ending "Constraint file reading stats" (total cpu=0:00:00.0, real=0:00:00.0, peak res=757.1M, current mem=757.1M)
+Current (total cpu=0:00:27.7, real=0:00:58.0, peak res=757.1M, current mem=757.1M)
+Total number of combinational cells: 0
+Total number of sequential cells: 0
+Total number of tristate cells: 0
+Total number of level shifter cells: 0
+Total number of power gating cells: 0
+Total number of isolation cells: 0
+Total number of power switch cells: 0
+Total number of pulse generator cells: 0
+Total number of always on buffers: 0
+Total number of retention cells: 0
+List of usable buffers:
+Total number of usable buffers: 0
+List of unusable buffers:
+Total number of unusable buffers: 0
+List of usable inverters:
+Total number of usable inverters: 0
+List of unusable inverters:
+Total number of unusable inverters: 0
+List of identified usable delay cells:
+Total number of identified usable delay cells: 0
+List of identified unusable delay cells:
+Total number of identified unusable delay cells: 0
+No delay cells were detected in the set of buffers. Buffers will be used to fix hold violations.
+#% Begin Load MMMC data ... (date=07/06 00:22:27, mem=777.4M)
+#% End Load MMMC data ... (date=07/06 00:22:27, total cpu=0:00:00.0, real=0:00:00.0, peak res=777.4M, current mem=777.4M)
+
+*** Summary of all messages that are not suppressed in this session:
+Severity  ID               Count  Summary                                  
+WARNING   IMPLF-45           196  Macro '%s' has no SITE statement and it ...
+ERROR     IMPREPO-102          8  Instance %s of the cell %s has no physic...
+ERROR     IMPREPO-103          1  There are %d instances (%d cells) with n...
+ERROR     TCLCMD-221          10  %s: Could not find driving cell '%s' in ...
+WARNING   TCLCMD-1461          1  Skipped unsupported command: %s          
+WARNING   TECHLIB-436         20  Attribute '%s' on '%s' pin '%s' of cell ...
+WARNING   TECHLIB-1277         4  The %s '%s' has been defined for %s %s '...
+*** Message Summary: 221 warning(s), 19 error(s)
+
+<CMD> getIoFlowFlag
+<CMD> setIoFlowFlag 0
+<CMD> floorPlan -site coreSite -r 1 0.5 5 5 5 5
+Adjusting Core to Left to: 5.0400. Core to Bottom to: 5.0400.
+<CMD> uiSetTool select
+<CMD> getIoFlowFlag
+<CMD> fit
+<CMD> globalNetConnect VDD -type pgpin -pin VDD -inst * -module {}
+<CMD> globalNetConnect VSS -type pgpin -pin VSS -inst * -module {}
+<CMD> addWellTap -cell TAPCELL_ASAP7_75t_R -cellInterval 7.6 -inRowOffset 2 -prefix WELLTAP
+**ERROR: (IMPSP-279):	Floorplan is not properly initialized. No default techSite found.
+**ERROR: (IMPSP-280):	Check for errors during floorplanning to determine the cause.
+
+<CMD> floorPlan -site coreSite -r 1 0.5 5 5 5 5
+<CMD> uiSetTool select
+<CMD> getIoFlowFlag
+<CMD> fit
+<CMD> globalNetConnect VDD -type pgpin -pin VDD -inst * -module {}
+<CMD> globalNetConnect VSS -type pgpin -pin VSS -inst * -module {}
+<CMD> addWellTap -cell TAPCELL_ASAP7_75t_R -cellInterval 7.6 -inRowOffset 2 -prefix WELLTAP
+**ERROR: (IMPSP-279):	Floorplan is not properly initialized. No default techSite found.
+**ERROR: (IMPSP-280):	Check for errors during floorplanning to determine the cause.
+
+<CMD> set sprCreateIeRingOffset 1.0
+<CMD> set sprCreateIeRingThreshold 1.0
+<CMD> set sprCreateIeRingJogDistance 1.0
+<CMD> set sprCreateIeRingLayers {}
+<CMD> set sprCreateIeRingOffset 1.0
+<CMD> set sprCreateIeRingThreshold 1.0
+<CMD> set sprCreateIeRingJogDistance 1.0
+<CMD> set sprCreateIeRingLayers {}
+<CMD> set sprCreateIeStripeWidth 10.0
+<CMD> set sprCreateIeStripeThreshold 1.0
+<CMD> set sprCreateIeStripeWidth 10.0
+<CMD> set sprCreateIeStripeThreshold 1.0
+<CMD> set sprCreateIeRingOffset 1.0
+<CMD> set sprCreateIeRingThreshold 1.0
+<CMD> set sprCreateIeRingJogDistance 1.0
+<CMD> set sprCreateIeRingLayers {}
+<CMD> set sprCreateIeStripeWidth 10.0
+<CMD> set sprCreateIeStripeThreshold 1.0
+<CMD> setAddRingMode -ring_target default -extend_over_row 0 -ignore_rows 0 -avoid_short 0 -skip_crossing_trunks none -stacked_via_top_layer Pad -stacked_via_bottom_layer M1 -via_using_exact_crossover_size 1 -orthogonal_only true -skip_via_on_pin {  standardcell } -skip_via_on_wire_shape {  noshape }
+The ring targets are set to core/block ring wires.
+addRing command will consider rows while creating rings.
+addRing command will disallow rings to go over rows.
+addRing command will ignore shorts while creating rings.
+<CMD> addRing -nets {VDD VSS} -type core_rings -follow core -layer {top M2 bottom M2 left M3 right M3} -width {top 1.224 bottom 1.224 left 1.224 right 1.224} -spacing {top 0.5 bottom 0.5 left 0.5 right 0.5} -offset {top 1.8 bottom 1.8 left 1.8 right 1.8} -center 0 -extend_corner {} -threshold 0 -jog_distance 0 -snap_wire_center_to_grid None
+#% Begin addRing (date=07/06 00:23:31, mem=775.6M)
+
+Loading cell geometries (cpu: 0:00:00.0, real: 0:00:00.0, peak mem: 1089.1M)
+**WARN: (IMPPP-220):	The power planner does not create core rings outside the design boundary. Check the design boundary, or specify valid offsets.
+**WARN: (IMPPP-4051):	Fail to add rings. Gaps among IO cells may exist. Execute command addIoFiller to fill gaps among cells before addRing.
+#% End addRing (date=07/06 00:23:31, total cpu=0:00:00.0, real=0:00:00.0, peak res=776.1M, current mem=776.1M)
+<CMD> zoomBox -3.65000 -3.13675 14.83800 13.96400
+<CMD> zoomBox -4.92900 -4.77450 16.82175 15.34425
+<CMD> zoomBox -0.47725 0.44375 10.87700 10.94600
+<CMD> zoomBox 0.43050 1.24125 10.08175 10.16825
+<CMD> zoomBox 1.19825 1.89650 9.40200 9.48475
+<CMD> zoomBox 3.56525 3.93300 7.20575 7.30025
+<CMD> zoomBox 4.35725 4.70975 6.25775 6.46775
+<CMD> zoomBox 2.27600 2.44450 9.25150 8.89650
+<CMD> zoomBox -5.36175 -6.01250 20.23825 17.66675
+<CMD> zoomBox -2.47450 -2.25850 7.18075 6.67225
+<CMD> zoomBox -1.07425 -0.89725 2.56725 2.47100
+<CMD> zoomBox -7.69150 -7.73375 5.67350 4.62850
+<CMD> zoomBox -15.70050 -16.12900 9.90300 7.55350
+<CMD> setAddRingMode -ring_target default -extend_over_row 0 -ignore_rows 0 -avoid_short 0 -skip_crossing_trunks none -stacked_via_top_layer Pad -stacked_via_bottom_layer M1 -via_using_exact_crossover_size 1 -orthogonal_only true -skip_via_on_pin {  standardcell } -skip_via_on_wire_shape {  noshape }
+The ring targets are set to core/block ring wires.
+addRing command will consider rows while creating rings.
+addRing command will disallow rings to go over rows.
+addRing command will ignore shorts while creating rings.
+
+*** Memory Usage v#1 (Current mem = 1100.531M, initial mem = 256.707M) ***
+*** Message Summary: 223 warning(s), 23 error(s)
+
+--- Ending "Innovus" (totcpu=0:00:44.4, real=0:03:05, mem=1100.5M) ---

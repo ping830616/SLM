@@ -1,0 +1,6 @@
+cUiSetViewStatus {INVx3_ASAP7_75t} {layout} {1}
+cUiSetViewStatus {INVx3_ASAP7_75t} {logical} {0}
+cUiSetViewStatus {INVx3_ASAP7_75t} {abstract.pin} {0}
+cUiSetViewStatus {INVx3_ASAP7_75t} {abstract.ext} {0}
+cUiSetViewStatus {INVx3_ASAP7_75t} {abstract} {0}
+cUiSetViewStatus {INVx3_ASAP7_75t} {abstract.ver} {0}

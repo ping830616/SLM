@@ -1,0 +1,871 @@
+0.2
+
+Processing file: ./CLOUD/DDR4_CLOUD.csv
+training RESNET
+ResNet | Epoch 1/10 - Loss: -4492873289854388321386496.0000
+ResNet | Epoch 2/10 - Loss: -4979524455067133033840640.0000
+ResNet | Epoch 3/10 - Loss: -5078829885605888170917888.0000
+ResNet | Epoch 4/10 - Loss: -5248277414770496057114624.0000
+ResNet | Epoch 5/10 - Loss: -5304713741796361375842304.0000
+ResNet | Epoch 6/10 - Loss: -5319004337738470951747584.0000
+ResNet | Epoch 7/10 - Loss: -5324369226371901656399872.0000
+ResNet | Epoch 8/10 - Loss: -5325315897350149998903296.0000
+ResNet | Epoch 9/10 - Loss: -5325996478993060027432960.0000
+ResNet | Epoch 10/10 - Loss: -5326549306509563183235072.0000
+ResNet Model Accuracy (F1) on ./CLOUD/DDR4_CLOUD.csv: 0.4592
+0.3667
+===================
+TRAIN TABNET
+epoch 0  | loss: 0.12689 | train_accuracy: 0.96179 | valid_accuracy: 0.96233 |  0:00:38s
+epoch 1  | loss: 0.10637 | train_accuracy: 0.37418 | valid_accuracy: 0.37672 |  0:01:17s
+epoch 2  | loss: 0.10134 | train_accuracy: 0.38356 | valid_accuracy: 0.38618 |  0:01:56s
+epoch 3  | loss: 0.0984  | train_accuracy: 0.38438 | valid_accuracy: 0.38709 |  0:02:35s
+epoch 4  | loss: 0.09775 | train_accuracy: 0.62836 | valid_accuracy: 0.6294  |  0:03:14s
+epoch 5  | loss: 0.094   | train_accuracy: 0.89082 | valid_accuracy: 0.88988 |  0:03:53s
+
+Early stopping occurred at epoch 5 with best_epoch = 0 and best_valid_accuracy = 0.96233
+TabNet Model Accuracy (F1) on ./CLOUD/DDR4_CLOUD.csv: 0.9623
+0.9623
+===================
+XGB
+XGBoost Model Accuracy (F1) on ./CLOUD/DDR4_CLOUD.csv: 0.9844
+0.9844
+=========================
+
+Processing file: ./CLOUD/DDR5_CLOUD.csv
+training RESNET
+ResNet | Epoch 1/10 - Loss: -309940181997100973686784.0000
+ResNet | Epoch 2/10 - Loss: -573097046174124472270848.0000
+ResNet | Epoch 3/10 - Loss: -573244101860090525515776.0000
+ResNet | Epoch 4/10 - Loss: -579764927763177686433792.0000
+ResNet | Epoch 5/10 - Loss: -587686729385338558480384.0000
+ResNet | Epoch 6/10 - Loss: -593763648756927015419904.0000
+ResNet | Epoch 7/10 - Loss: -598043825882104690900992.0000
+ResNet | Epoch 8/10 - Loss: -596417588497220070539264.0000
+ResNet | Epoch 9/10 - Loss: -601017249570683170586624.0000
+ResNet | Epoch 10/10 - Loss: -605738380905557128118272.0000
+ResNet Model Accuracy (F1) on ./CLOUD/DDR5_CLOUD.csv: 0.6523
+0.5440
+===================
+TRAIN TABNET
+epoch 0  | loss: 0.09391 | train_accuracy: 0.90496 | valid_accuracy: 0.90536 |  0:00:41s
+epoch 1  | loss: 0.07383 | train_accuracy: 0.64515 | valid_accuracy: 0.64546 |  0:01:20s
+epoch 2  | loss: 0.0725  | train_accuracy: 0.85782 | valid_accuracy: 0.8576  |  0:02:00s
+epoch 3  | loss: 0.06742 | train_accuracy: 0.43807 | valid_accuracy: 0.43979 |  0:02:39s
+epoch 4  | loss: 0.06855 | train_accuracy: 0.65147 | valid_accuracy: 0.65206 |  0:03:18s
+epoch 5  | loss: 0.07044 | train_accuracy: 0.64617 | valid_accuracy: 0.64703 |  0:03:58s
+
+Early stopping occurred at epoch 5 with best_epoch = 0 and best_valid_accuracy = 0.90536
+TabNet Model Accuracy (F1) on ./CLOUD/DDR5_CLOUD.csv: 0.9054
+0.9047
+===================
+XGB
+XGBoost Model Accuracy (F1) on ./CLOUD/DDR5_CLOUD.csv: 0.9886
+0.9886
+=========================
+
+Processing file: ./CLOUD/COMB_CLOUD.csv
+training RESNET
+ResNet | Epoch 1/10 - Loss: -484686896669838213644288.0000
+ResNet | Epoch 2/10 - Loss: -527916390615807921487872.0000
+ResNet | Epoch 3/10 - Loss: -546931688522598947225600.0000
+ResNet | Epoch 4/10 - Loss: -554577515410347853348864.0000
+ResNet | Epoch 5/10 - Loss: -561555556848255813812224.0000
+ResNet | Epoch 6/10 - Loss: -569267065437365624373248.0000
+ResNet | Epoch 7/10 - Loss: -574684560470464205422592.0000
+ResNet | Epoch 8/10 - Loss: -580106975007007072845824.0000
+ResNet | Epoch 9/10 - Loss: -587071836201382731317248.0000
+ResNet | Epoch 10/10 - Loss: -591387565400930136358912.0000
+ResNet Model Accuracy (F1) on ./CLOUD/COMB_CLOUD.csv: 0.5316
+0.4400
+===================
+TRAIN TABNET
+epoch 0  | loss: 0.07174 | train_accuracy: 0.70559 | valid_accuracy: 0.70726 |  0:01:23s
+epoch 1  | loss: 0.03551 | train_accuracy: 0.69624 | valid_accuracy: 0.69694 |  0:02:42s
+epoch 2  | loss: 0.03055 | train_accuracy: 0.75411 | valid_accuracy: 0.75476 |  0:04:00s
+epoch 3  | loss: 0.0265  | train_accuracy: 0.77155 | valid_accuracy: 0.77372 |  0:05:19s
+epoch 4  | loss: 0.02603 | train_accuracy: 0.75958 | valid_accuracy: 0.76128 |  0:06:37s
+epoch 5  | loss: 0.02482 | train_accuracy: 0.76025 | valid_accuracy: 0.76216 |  0:07:55s
+epoch 6  | loss: 0.024   | train_accuracy: 0.8137  | valid_accuracy: 0.81442 |  0:09:14s
+epoch 7  | loss: 0.02309 | train_accuracy: 0.8573  | valid_accuracy: 0.8582  |  0:10:32s
+epoch 8  | loss: 0.02287 | train_accuracy: 0.77591 | valid_accuracy: 0.77716 |  0:11:51s
+epoch 9  | loss: 0.02179 | train_accuracy: 0.6737  | valid_accuracy: 0.67519 |  0:13:10s
+Stop training because you reached max_epochs = 10 with best_epoch = 7 and best_valid_accuracy = 0.8582
+TabNet Model Accuracy (F1) on ./CLOUD/COMB_CLOUD.csv: 0.8582
+0.8592
+===================
+XGB
+XGBoost Model Accuracy (F1) on ./CLOUD/COMB_CLOUD.csv: 0.9999
+0.9999
+=========================
+0.25
+
+Processing file: ./CLOUD/DDR4_CLOUD.csv
+training RESNET
+ResNet | Epoch 1/10 - Loss: -8305565852358127913009152.0000
+ResNet | Epoch 2/10 - Loss: -9356212623877288453210112.0000
+ResNet | Epoch 3/10 - Loss: -9347736724507674047152128.0000
+ResNet | Epoch 4/10 - Loss: -9696566102245667126640640.0000
+ResNet | Epoch 5/10 - Loss: -9761075914772957586522112.0000
+ResNet | Epoch 6/10 - Loss: -9792039104389461848358912.0000
+ResNet | Epoch 7/10 - Loss: -9868902624763538118279168.0000
+ResNet | Epoch 8/10 - Loss: -9789727017187230068244480.0000
+ResNet | Epoch 9/10 - Loss: -9781221885938433263665152.0000
+ResNet | Epoch 10/10 - Loss: -9777280071975605494611968.0000
+ResNet Model Accuracy (F1) on ./CLOUD/DDR4_CLOUD.csv: 0.3339
+0.1669
+===================
+TRAIN TABNET
+epoch 0  | loss: 0.12689 | train_accuracy: 0.96179 | valid_accuracy: 0.96233 |  0:00:39s
+epoch 1  | loss: 0.10637 | train_accuracy: 0.37418 | valid_accuracy: 0.37672 |  0:01:18s
+epoch 2  | loss: 0.10134 | train_accuracy: 0.38356 | valid_accuracy: 0.38618 |  0:01:57s
+epoch 3  | loss: 0.0984  | train_accuracy: 0.38438 | valid_accuracy: 0.38709 |  0:02:36s
+epoch 4  | loss: 0.09775 | train_accuracy: 0.62836 | valid_accuracy: 0.6294  |  0:03:15s
+epoch 5  | loss: 0.094   | train_accuracy: 0.89082 | valid_accuracy: 0.88988 |  0:03:54s
+
+Early stopping occurred at epoch 5 with best_epoch = 0 and best_valid_accuracy = 0.96233
+TabNet Model Accuracy (F1) on ./CLOUD/DDR4_CLOUD.csv: 0.9623
+0.9623
+===================
+XGB
+XGBoost Model Accuracy (F1) on ./CLOUD/DDR4_CLOUD.csv: 0.9844
+0.9844
+=========================
+
+Processing file: ./CLOUD/DDR5_CLOUD.csv
+training RESNET
+ResNet | Epoch 1/10 - Loss: -309940181997100973686784.0000
+ResNet | Epoch 2/10 - Loss: -573097046174124472270848.0000
+ResNet | Epoch 3/10 - Loss: -573244101860090525515776.0000
+ResNet | Epoch 4/10 - Loss: -579764927763177686433792.0000
+ResNet | Epoch 5/10 - Loss: -587686729385338558480384.0000
+ResNet | Epoch 6/10 - Loss: -593763648756927015419904.0000
+ResNet | Epoch 7/10 - Loss: -598043825882104690900992.0000
+ResNet | Epoch 8/10 - Loss: -596417588497220070539264.0000
+ResNet | Epoch 9/10 - Loss: -601017249570683170586624.0000
+ResNet | Epoch 10/10 - Loss: -605738380905557128118272.0000
+ResNet Model Accuracy (F1) on ./CLOUD/DDR5_CLOUD.csv: 0.6523
+0.5440
+===================
+TRAIN TABNET
+epoch 0  | loss: 0.09391 | train_accuracy: 0.90496 | valid_accuracy: 0.90536 |  0:00:41s
+epoch 1  | loss: 0.07383 | train_accuracy: 0.64515 | valid_accuracy: 0.64546 |  0:01:35s
+epoch 2  | loss: 0.0725  | train_accuracy: 0.85782 | valid_accuracy: 0.8576  |  0:02:22s
+epoch 3  | loss: 0.06742 | train_accuracy: 0.43807 | valid_accuracy: 0.43979 |  0:03:01s
+epoch 4  | loss: 0.06855 | train_accuracy: 0.65147 | valid_accuracy: 0.65206 |  0:03:41s
+epoch 5  | loss: 0.07044 | train_accuracy: 0.64617 | valid_accuracy: 0.64703 |  0:04:20s
+
+Early stopping occurred at epoch 5 with best_epoch = 0 and best_valid_accuracy = 0.90536
+TabNet Model Accuracy (F1) on ./CLOUD/DDR5_CLOUD.csv: 0.9054
+0.9047
+===================
+XGB
+XGBoost Model Accuracy (F1) on ./CLOUD/DDR5_CLOUD.csv: 0.9886
+0.9886
+=========================
+
+Processing file: ./CLOUD/COMB_CLOUD.csv
+training RESNET
+ResNet | Epoch 1/10 - Loss: -484686896669838213644288.0000
+ResNet | Epoch 2/10 - Loss: -527916390615807921487872.0000
+ResNet | Epoch 3/10 - Loss: -546931688522598947225600.0000
+ResNet | Epoch 4/10 - Loss: -554577515410347853348864.0000
+ResNet | Epoch 5/10 - Loss: -561555556848255813812224.0000
+ResNet | Epoch 6/10 - Loss: -569267065437365624373248.0000
+ResNet | Epoch 7/10 - Loss: -574684560470464205422592.0000
+ResNet | Epoch 8/10 - Loss: -580106975007007072845824.0000
+ResNet | Epoch 9/10 - Loss: -587071836201382731317248.0000
+ResNet | Epoch 10/10 - Loss: -591387565400930136358912.0000
+ResNet Model Accuracy (F1) on ./CLOUD/COMB_CLOUD.csv: 0.5316
+0.4400
+===================
+TRAIN TABNET
+epoch 0  | loss: 0.07174 | train_accuracy: 0.70559 | valid_accuracy: 0.70726 |  0:01:19s
+epoch 1  | loss: 0.03551 | train_accuracy: 0.69624 | valid_accuracy: 0.69694 |  0:02:37s
+epoch 2  | loss: 0.03055 | train_accuracy: 0.75411 | valid_accuracy: 0.75476 |  0:03:56s
+epoch 3  | loss: 0.0265  | train_accuracy: 0.77155 | valid_accuracy: 0.77372 |  0:05:15s
+epoch 4  | loss: 0.02603 | train_accuracy: 0.75958 | valid_accuracy: 0.76128 |  0:06:34s
+epoch 5  | loss: 0.02482 | train_accuracy: 0.76025 | valid_accuracy: 0.76216 |  0:07:57s
+epoch 6  | loss: 0.024   | train_accuracy: 0.8137  | valid_accuracy: 0.81442 |  0:09:15s
+epoch 7  | loss: 0.02309 | train_accuracy: 0.8573  | valid_accuracy: 0.8582  |  0:10:33s
+epoch 8  | loss: 0.02287 | train_accuracy: 0.77591 | valid_accuracy: 0.77716 |  0:11:52s
+epoch 9  | loss: 0.02179 | train_accuracy: 0.6737  | valid_accuracy: 0.67519 |  0:13:11s
+Stop training because you reached max_epochs = 10 with best_epoch = 7 and best_valid_accuracy = 0.8582
+TabNet Model Accuracy (F1) on ./CLOUD/COMB_CLOUD.csv: 0.8582
+0.8592
+===================
+XGB
+XGBoost Model Accuracy (F1) on ./CLOUD/COMB_CLOUD.csv: 0.9999
+0.9999
+=========================
+0.3
+
+Processing file: ./CLOUD/DDR4_CLOUD.csv
+training RESNET
+ResNet | Epoch 1/10 - Loss: -8305565852358127913009152.0000
+ResNet | Epoch 2/10 - Loss: -9356212623877288453210112.0000
+ResNet | Epoch 3/10 - Loss: -9347736724507674047152128.0000
+ResNet | Epoch 4/10 - Loss: -9696566102245667126640640.0000
+ResNet | Epoch 5/10 - Loss: -9761075914772957586522112.0000
+ResNet | Epoch 6/10 - Loss: -9792039104389461848358912.0000
+ResNet | Epoch 7/10 - Loss: -9868902624763538118279168.0000
+ResNet | Epoch 8/10 - Loss: -9789727017187230068244480.0000
+ResNet | Epoch 9/10 - Loss: -9781221885938433263665152.0000
+ResNet | Epoch 10/10 - Loss: -9777280071975605494611968.0000
+ResNet Model Accuracy (F1) on ./CLOUD/DDR4_CLOUD.csv: 0.3339
+0.1669
+===================
+TRAIN TABNET
+epoch 0  | loss: 0.12689 | train_accuracy: 0.96179 | valid_accuracy: 0.96233 |  0:00:39s
+epoch 1  | loss: 0.10637 | train_accuracy: 0.37418 | valid_accuracy: 0.37672 |  0:01:18s
+epoch 2  | loss: 0.10134 | train_accuracy: 0.38356 | valid_accuracy: 0.38618 |  0:02:00s
+epoch 3  | loss: 0.0984  | train_accuracy: 0.38438 | valid_accuracy: 0.38709 |  0:02:39s
+epoch 4  | loss: 0.09775 | train_accuracy: 0.62836 | valid_accuracy: 0.6294  |  0:03:18s
+epoch 5  | loss: 0.094   | train_accuracy: 0.89082 | valid_accuracy: 0.88988 |  0:04:02s
+
+Early stopping occurred at epoch 5 with best_epoch = 0 and best_valid_accuracy = 0.96233
+TabNet Model Accuracy (F1) on ./CLOUD/DDR4_CLOUD.csv: 0.9623
+0.9623
+===================
+XGB
+XGBoost Model Accuracy (F1) on ./CLOUD/DDR4_CLOUD.csv: 0.9844
+0.9844
+=========================
+
+Processing file: ./CLOUD/DDR5_CLOUD.csv
+training RESNET
+ResNet | Epoch 1/10 - Loss: -309940181997100973686784.0000
+ResNet | Epoch 2/10 - Loss: -573097046174124472270848.0000
+ResNet | Epoch 3/10 - Loss: -573244101860090525515776.0000
+ResNet | Epoch 4/10 - Loss: -579764927763177686433792.0000
+ResNet | Epoch 5/10 - Loss: -587686729385338558480384.0000
+ResNet | Epoch 6/10 - Loss: -593763648756927015419904.0000
+ResNet | Epoch 7/10 - Loss: -598043825882104690900992.0000
+ResNet | Epoch 8/10 - Loss: -596417588497220070539264.0000
+ResNet | Epoch 9/10 - Loss: -601017249570683170586624.0000
+ResNet | Epoch 10/10 - Loss: -605738380905557128118272.0000
+ResNet Model Accuracy (F1) on ./CLOUD/DDR5_CLOUD.csv: 0.6523
+0.5440
+===================
+TRAIN TABNET
+epoch 0  | loss: 0.09391 | train_accuracy: 0.90496 | valid_accuracy: 0.90536 |  0:00:39s
+epoch 1  | loss: 0.07383 | train_accuracy: 0.64515 | valid_accuracy: 0.64546 |  0:01:18s
+epoch 2  | loss: 0.0725  | train_accuracy: 0.85782 | valid_accuracy: 0.8576  |  0:01:57s
+epoch 3  | loss: 0.06742 | train_accuracy: 0.43807 | valid_accuracy: 0.43979 |  0:02:36s
+epoch 4  | loss: 0.06855 | train_accuracy: 0.65147 | valid_accuracy: 0.65206 |  0:03:15s
+epoch 5  | loss: 0.07044 | train_accuracy: 0.64617 | valid_accuracy: 0.64703 |  0:03:55s
+
+Early stopping occurred at epoch 5 with best_epoch = 0 and best_valid_accuracy = 0.90536
+TabNet Model Accuracy (F1) on ./CLOUD/DDR5_CLOUD.csv: 0.9054
+0.9047
+===================
+XGB
+XGBoost Model Accuracy (F1) on ./CLOUD/DDR5_CLOUD.csv: 0.9886
+0.9886
+=========================
+
+Processing file: ./CLOUD/COMB_CLOUD.csv
+training RESNET
+ResNet | Epoch 1/10 - Loss: -484686896669838213644288.0000
+ResNet | Epoch 2/10 - Loss: -527916390615807921487872.0000
+ResNet | Epoch 3/10 - Loss: -546931688522598947225600.0000
+ResNet | Epoch 4/10 - Loss: -554577515410347853348864.0000
+ResNet | Epoch 5/10 - Loss: -561555556848255813812224.0000
+ResNet | Epoch 6/10 - Loss: -569267065437365624373248.0000
+ResNet | Epoch 7/10 - Loss: -574684560470464205422592.0000
+ResNet | Epoch 8/10 - Loss: -580106975007007072845824.0000
+ResNet | Epoch 9/10 - Loss: -587071836201382731317248.0000
+ResNet | Epoch 10/10 - Loss: -591387565400930136358912.0000
+ResNet Model Accuracy (F1) on ./CLOUD/COMB_CLOUD.csv: 0.5316
+0.4400
+===================
+TRAIN TABNET
+epoch 0  | loss: 0.07174 | train_accuracy: 0.70559 | valid_accuracy: 0.70726 |  0:01:18s
+epoch 1  | loss: 0.03551 | train_accuracy: 0.69624 | valid_accuracy: 0.69694 |  0:02:37s
+epoch 2  | loss: 0.03055 | train_accuracy: 0.75411 | valid_accuracy: 0.75476 |  0:03:55s
+epoch 3  | loss: 0.0265  | train_accuracy: 0.77155 | valid_accuracy: 0.77372 |  0:05:13s
+epoch 4  | loss: 0.02603 | train_accuracy: 0.75958 | valid_accuracy: 0.76128 |  0:06:31s
+epoch 5  | loss: 0.02482 | train_accuracy: 0.76025 | valid_accuracy: 0.76216 |  0:07:55s
+epoch 6  | loss: 0.024   | train_accuracy: 0.8137  | valid_accuracy: 0.81442 |  0:09:13s
+epoch 7  | loss: 0.02309 | train_accuracy: 0.8573  | valid_accuracy: 0.8582  |  0:10:32s
+epoch 8  | loss: 0.02287 | train_accuracy: 0.77591 | valid_accuracy: 0.77716 |  0:11:51s
+epoch 9  | loss: 0.02179 | train_accuracy: 0.6737  | valid_accuracy: 0.67519 |  0:13:09s
+Stop training because you reached max_epochs = 10 with best_epoch = 7 and best_valid_accuracy = 0.8582
+TabNet Model Accuracy (F1) on ./CLOUD/COMB_CLOUD.csv: 0.8582
+0.8592
+===================
+XGB
+XGBoost Model Accuracy (F1) on ./CLOUD/COMB_CLOUD.csv: 0.9999
+0.9999
+=========================
+0.35
+
+Processing file: ./CLOUD/DDR4_CLOUD.csv
+training RESNET
+ResNet | Epoch 1/10 - Loss: -8305565852358127913009152.0000
+ResNet | Epoch 2/10 - Loss: -9356212623877288453210112.0000
+ResNet | Epoch 3/10 - Loss: -9347736724507674047152128.0000
+ResNet | Epoch 4/10 - Loss: -9696566102245667126640640.0000
+ResNet | Epoch 5/10 - Loss: -9761075914772957586522112.0000
+ResNet | Epoch 6/10 - Loss: -9792039104389461848358912.0000
+ResNet | Epoch 7/10 - Loss: -9868902624763538118279168.0000
+ResNet | Epoch 8/10 - Loss: -9789727017187230068244480.0000
+ResNet | Epoch 9/10 - Loss: -9781221885938433263665152.0000
+ResNet | Epoch 10/10 - Loss: -9777280071975605494611968.0000
+ResNet Model Accuracy (F1) on ./CLOUD/DDR4_CLOUD.csv: 0.3339
+0.1669
+===================
+TRAIN TABNET
+epoch 0  | loss: 0.12689 | train_accuracy: 0.96179 | valid_accuracy: 0.96233 |  0:00:38s
+epoch 1  | loss: 0.10637 | train_accuracy: 0.37418 | valid_accuracy: 0.37672 |  0:01:18s
+epoch 2  | loss: 0.10134 | train_accuracy: 0.38356 | valid_accuracy: 0.38618 |  0:02:01s
+/home/user/.local/lib/python3.8/site-packages/xgboost/core.py:265: FutureWarning: Your system has an old version of glibc (< 2.28). We will stop supporting Linux distros with glibc older than 2.28 after **May 31, 2025**. Please upgrade to a recent Linux distro (with glibc 2.28+) to use future versions of XGBoost.
+Note: You have installed the 'manylinux2014' variant of XGBoost. Certain features such as GPU algorithms or federated learning are not available. To use these features, please upgrade to a recent Linux distro with glibc 2.28+, and install the 'manylinux_2_28' variant.
+  warnings.warn(
+/home/user/.local/lib/python3.8/site-packages/pytorch_tabnet/abstract_model.py:82: UserWarning: Device used : cpu
+  warnings.warn(f"Device used : {self.device}")
+/home/user/.local/lib/python3.8/site-packages/pytorch_tabnet/callbacks.py:172: UserWarning: Best weights from best epoch are automatically used!
+  warnings.warn(wrn_msg)
+/home/user/.local/lib/python3.8/site-packages/xgboost/core.py:158: UserWarning: [08:44:33] WARNING: /workspace/src/learner.cc:740: 
+Parameters: { "use_label_encoder" } are not used.
+
+  warnings.warn(smsg, UserWarning)
+/home/user/.local/lib/python3.8/site-packages/pytorch_tabnet/abstract_model.py:82: UserWarning: Device used : cpu
+  warnings.warn(f"Device used : {self.device}")
+/home/user/.local/lib/python3.8/site-packages/pytorch_tabnet/callbacks.py:172: UserWarning: Best weights from best epoch are automatically used!
+  warnings.warn(wrn_msg)
+/home/user/.local/lib/python3.8/site-packages/xgboost/core.py:158: UserWarning: [08:55:44] WARNING: /workspace/src/learner.cc:740: 
+Parameters: { "use_label_encoder" } are not used.
+
+  warnings.warn(smsg, UserWarning)
+/home/user/.local/lib/python3.8/site-packages/pytorch_tabnet/abstract_model.py:82: UserWarning: Device used : cpu
+  warnings.warn(f"Device used : {self.device}")
+/home/user/.local/lib/python3.8/site-packages/pytorch_tabnet/callbacks.py:172: UserWarning: Best weights from best epoch are automatically used!
+  warnings.warn(wrn_msg)
+/home/user/.local/lib/python3.8/site-packages/xgboost/core.py:158: UserWarning: [09:23:54] WARNING: /workspace/src/learner.cc:740: 
+Parameters: { "use_label_encoder" } are not used.
+
+  warnings.warn(smsg, UserWarning)
+/home/user/.local/lib/python3.8/site-packages/pytorch_tabnet/abstract_model.py:82: UserWarning: Device used : cpu
+  warnings.warn(f"Device used : {self.device}")
+/home/user/.local/lib/python3.8/site-packages/pytorch_tabnet/callbacks.py:172: UserWarning: Best weights from best epoch are automatically used!
+  warnings.warn(wrn_msg)
+/home/user/.local/lib/python3.8/site-packages/xgboost/core.py:158: UserWarning: [09:34:45] WARNING: /workspace/src/learner.cc:740: 
+Parameters: { "use_label_encoder" } are not used.
+
+  warnings.warn(smsg, UserWarning)
+/home/user/.local/lib/python3.8/site-packages/pytorch_tabnet/abstract_model.py:82: UserWarning: Device used : cpu
+  warnings.warn(f"Device used : {self.device}")
+/home/user/.local/lib/python3.8/site-packages/pytorch_tabnet/callbacks.py:172: UserWarning: Best weights from best epoch are automatically used!
+  warnings.warn(wrn_msg)
+/home/user/.local/lib/python3.8/site-packages/xgboost/core.py:158: UserWarning: [09:46:10] WARNING: /workspace/src/learner.cc:740: 
+Parameters: { "use_label_encoder" } are not used.
+
+  warnings.warn(smsg, UserWarning)
+/home/user/.local/lib/python3.8/site-packages/pytorch_tabnet/abstract_model.py:82: UserWarning: Device used : cpu
+  warnings.warn(f"Device used : {self.device}")
+/home/user/.local/lib/python3.8/site-packages/pytorch_tabnet/callbacks.py:172: UserWarning: Best weights from best epoch are automatically used!
+  warnings.warn(wrn_msg)
+/home/user/.local/lib/python3.8/site-packages/xgboost/core.py:158: UserWarning: [10:14:31] WARNING: /workspace/src/learner.cc:740: 
+Parameters: { "use_label_encoder" } are not used.
+
+  warnings.warn(smsg, UserWarning)
+/home/user/.local/lib/python3.8/site-packages/pytorch_tabnet/abstract_model.py:82: UserWarning: Device used : cpu
+  warnings.warn(f"Device used : {self.device}")
+/home/user/.local/lib/python3.8/site-packages/pytorch_tabnet/callbacks.py:172: UserWarning: Best weights from best epoch are automatically used!
+  warnings.warn(wrn_msg)
+/home/user/.local/lib/python3.8/site-packages/xgboost/core.py:158: UserWarning: [10:26:33] WARNING: /workspace/src/learner.cc:740: 
+Parameters: { "use_label_encoder" } are not used.
+
+  warnings.warn(smsg, UserWarning)
+/home/user/.local/lib/python3.8/site-packages/pytorch_tabnet/abstract_model.py:82: UserWarning: Device used : cpu
+  warnings.warn(f"Device used : {self.device}")
+/home/user/.local/lib/python3.8/site-packages/pytorch_tabnet/callbacks.py:172: UserWarning: Best weights from best epoch are automatically used!
+  warnings.warn(wrn_msg)
+/home/user/.local/lib/python3.8/site-packages/xgboost/core.py:158: UserWarning: [10:37:26] WARNING: /workspace/src/learner.cc:740: 
+Parameters: { "use_label_encoder" } are not used.
+
+  warnings.warn(smsg, UserWarning)
+/home/user/.local/lib/python3.8/site-packages/pytorch_tabnet/abstract_model.py:82: UserWarning: Device used : cpu
+  warnings.warn(f"Device used : {self.device}")
+/home/user/.local/lib/python3.8/site-packages/pytorch_tabnet/callbacks.py:172: UserWarning: Best weights from best epoch are automatically used!
+  warnings.warn(wrn_msg)
+/home/user/.local/lib/python3.8/site-packages/xgboost/core.py:158: UserWarning: [11:05:10] WARNING: /workspace/src/learner.cc:740: 
+Parameters: { "use_label_encoder" } are not used.
+
+  warnings.warn(smsg, UserWarning)
+/home/user/.local/lib/python3.8/site-packages/pytorch_tabnet/abstract_model.py:82: UserWarning: Device used : cpu
+  warnings.warn(f"Device used : {self.device}")
+/home/user/.local/lib/python3.8/site-packages/pytorch_tabnet/callbacks.py:172: UserWarning: Best weights from best epoch are automatically used!
+  warnings.warn(wrn_msg)
+/home/user/.local/lib/python3.8/site-packages/xgboost/core.py:158: UserWarning: [11:16:16] WARNING: /workspace/src/learner.cc:740: 
+Parameters: { "use_label_encoder" } are not used.
+
+  warnings.warn(smsg, UserWarning)
+/home/user/.local/lib/python3.8/site-packages/pytorch_tabnet/abstract_model.py:82: UserWarning: Device used : cpu
+  warnings.warn(f"Device used : {self.device}")
+/home/user/.local/lib/python3.8/site-packages/pytorch_tabnet/callbacks.py:172: UserWarning: Best weights from best epoch are automatically used!
+  warnings.warn(wrn_msg)
+/home/user/.local/lib/python3.8/site-packages/xgboost/core.py:158: UserWarning: [11:27:28] WARNING: /workspace/src/learner.cc:740: 
+Parameters: { "use_label_encoder" } are not used.
+
+  warnings.warn(smsg, UserWarning)
+/home/user/.local/lib/python3.8/site-packages/pytorch_tabnet/abstract_model.py:82: UserWarning: Device used : cpu
+  warnings.warn(f"Device used : {self.device}")
+/home/user/.local/lib/python3.8/site-packages/pytorch_tabnet/callbacks.py:172: UserWarning: Best weights from best epoch are automatically used!
+  warnings.warn(wrn_msg)
+/home/user/.local/lib/python3.8/site-packages/xgboost/core.py:158: UserWarning: [11:56:20] WARNING: /workspace/src/learner.cc:740: 
+Parameters: { "use_label_encoder" } are not used.
+
+  warnings.warn(smsg, UserWarning)
+/home/user/.local/lib/python3.8/site-packages/pytorch_tabnet/abstract_model.py:82: UserWarning: Device used : cpu
+  warnings.warn(f"Device used : {self.device}")
+/home/user/.local/lib/python3.8/site-packages/pytorch_tabnet/callbacks.py:172: UserWarning: Best weights from best epoch are automatically used!
+  warnings.warn(wrn_msg)
+/home/user/.local/lib/python3.8/site-packages/xgboost/core.py:158: UserWarning: [12:07:17] WARNING: /workspace/src/learner.cc:740: 
+Parameters: { "use_label_encoder" } are not used.
+
+  warnings.warn(smsg, UserWarning)
+/home/user/.local/lib/python3.8/site-packages/pytorch_tabnet/abstract_model.py:82: UserWarning: Device used : cpu
+  warnings.warn(f"Device used : {self.device}")
+/home/user/.local/lib/python3.8/site-packages/pytorch_tabnet/callbacks.py:172: UserWarning: Best weights from best epoch are automatically used!
+  warnings.warn(wrn_msg)
+epoch 3  | loss: 0.0984  | train_accuracy: 0.38438 | valid_accuracy: 0.38709 |  0:02:40s
+epoch 4  | loss: 0.09775 | train_accuracy: 0.62836 | valid_accuracy: 0.6294  |  0:03:24s
+epoch 5  | loss: 0.094   | train_accuracy: 0.89082 | valid_accuracy: 0.88988 |  0:04:04s
+
+Early stopping occurred at epoch 5 with best_epoch = 0 and best_valid_accuracy = 0.96233
+TabNet Model Accuracy (F1) on ./CLOUD/DDR4_CLOUD.csv: 0.9623
+0.9623
+===================
+XGB
+XGBoost Model Accuracy (F1) on ./CLOUD/DDR4_CLOUD.csv: 0.9844
+0.9844
+=========================
+
+Processing file: ./CLOUD/DDR5_CLOUD.csv
+training RESNET
+ResNet | Epoch 1/10 - Loss: -309940181997100973686784.0000
+ResNet | Epoch 2/10 - Loss: -573097046174124472270848.0000
+ResNet | Epoch 3/10 - Loss: -573244101860090525515776.0000
+ResNet | Epoch 4/10 - Loss: -579764927763177686433792.0000
+ResNet | Epoch 5/10 - Loss: -587686729385338558480384.0000
+ResNet | Epoch 6/10 - Loss: -593763648756927015419904.0000
+ResNet | Epoch 7/10 - Loss: -598043825882104690900992.0000
+ResNet | Epoch 8/10 - Loss: -596417588497220070539264.0000
+ResNet | Epoch 9/10 - Loss: -601017249570683170586624.0000
+ResNet | Epoch 10/10 - Loss: -605738380905557128118272.0000
+ResNet Model Accuracy (F1) on ./CLOUD/DDR5_CLOUD.csv: 0.6523
+0.5440
+===================
+TRAIN TABNET
+epoch 0  | loss: 0.09391 | train_accuracy: 0.90496 | valid_accuracy: 0.90536 |  0:00:39s
+epoch 1  | loss: 0.07383 | train_accuracy: 0.64515 | valid_accuracy: 0.64546 |  0:01:18s
+epoch 2  | loss: 0.0725  | train_accuracy: 0.85782 | valid_accuracy: 0.8576  |  0:01:57s
+epoch 3  | loss: 0.06742 | train_accuracy: 0.43807 | valid_accuracy: 0.43979 |  0:02:36s
+epoch 4  | loss: 0.06855 | train_accuracy: 0.65147 | valid_accuracy: 0.65206 |  0:03:15s
+epoch 5  | loss: 0.07044 | train_accuracy: 0.64617 | valid_accuracy: 0.64703 |  0:03:54s
+
+Early stopping occurred at epoch 5 with best_epoch = 0 and best_valid_accuracy = 0.90536
+TabNet Model Accuracy (F1) on ./CLOUD/DDR5_CLOUD.csv: 0.9054
+0.9047
+===================
+XGB
+XGBoost Model Accuracy (F1) on ./CLOUD/DDR5_CLOUD.csv: 0.9886
+0.9886
+=========================
+
+Processing file: ./CLOUD/COMB_CLOUD.csv
+training RESNET
+ResNet | Epoch 1/10 - Loss: -484686896669838213644288.0000
+ResNet | Epoch 2/10 - Loss: -527916390615807921487872.0000
+ResNet | Epoch 3/10 - Loss: -546931688522598947225600.0000
+ResNet | Epoch 4/10 - Loss: -554577515410347853348864.0000
+ResNet | Epoch 5/10 - Loss: -561555556848255813812224.0000
+ResNet | Epoch 6/10 - Loss: -569267065437365624373248.0000
+ResNet | Epoch 7/10 - Loss: -574684560470464205422592.0000
+ResNet | Epoch 8/10 - Loss: -580106975007007072845824.0000
+ResNet | Epoch 9/10 - Loss: -587071836201382731317248.0000
+ResNet | Epoch 10/10 - Loss: -591387565400930136358912.0000
+ResNet Model Accuracy (F1) on ./CLOUD/COMB_CLOUD.csv: 0.5316
+0.4400
+===================
+TRAIN TABNET
+epoch 0  | loss: 0.07174 | train_accuracy: 0.70559 | valid_accuracy: 0.70726 |  0:01:18s
+epoch 1  | loss: 0.03551 | train_accuracy: 0.69624 | valid_accuracy: 0.69694 |  0:02:39s
+epoch 2  | loss: 0.03055 | train_accuracy: 0.75411 | valid_accuracy: 0.75476 |  0:03:58s
+epoch 3  | loss: 0.0265  | train_accuracy: 0.77155 | valid_accuracy: 0.77372 |  0:05:17s
+epoch 4  | loss: 0.02603 | train_accuracy: 0.75958 | valid_accuracy: 0.76128 |  0:06:36s
+epoch 5  | loss: 0.02482 | train_accuracy: 0.76025 | valid_accuracy: 0.76216 |  0:07:55s
+epoch 6  | loss: 0.024   | train_accuracy: 0.8137  | valid_accuracy: 0.81442 |  0:09:14s
+epoch 7  | loss: 0.02309 | train_accuracy: 0.8573  | valid_accuracy: 0.8582  |  0:10:33s
+epoch 8  | loss: 0.02287 | train_accuracy: 0.77591 | valid_accuracy: 0.77716 |  0:12:00s
+epoch 9  | loss: 0.02179 | train_accuracy: 0.6737  | valid_accuracy: 0.67519 |  0:13:20s
+Stop training because you reached max_epochs = 10 with best_epoch = 7 and best_valid_accuracy = 0.8582
+TabNet Model Accuracy (F1) on ./CLOUD/COMB_CLOUD.csv: 0.8582
+0.8592
+===================
+XGB
+XGBoost Model Accuracy (F1) on ./CLOUD/COMB_CLOUD.csv: 0.9999
+0.9999
+=========================
+0.4
+
+Processing file: ./CLOUD/DDR4_CLOUD.csv
+training RESNET
+ResNet | Epoch 1/10 - Loss: -8305565852358127913009152.0000
+ResNet | Epoch 2/10 - Loss: -9356212623877288453210112.0000
+ResNet | Epoch 3/10 - Loss: -9347736724507674047152128.0000
+ResNet | Epoch 4/10 - Loss: -9696566102245667126640640.0000
+ResNet | Epoch 5/10 - Loss: -9761075914772957586522112.0000
+ResNet | Epoch 6/10 - Loss: -9792039104389461848358912.0000
+ResNet | Epoch 7/10 - Loss: -9868902624763538118279168.0000
+ResNet | Epoch 8/10 - Loss: -9789727017187230068244480.0000
+ResNet | Epoch 9/10 - Loss: -9781221885938433263665152.0000
+ResNet | Epoch 10/10 - Loss: -9777280071975605494611968.0000
+ResNet Model Accuracy (F1) on ./CLOUD/DDR4_CLOUD.csv: 0.3339
+0.1669
+===================
+TRAIN TABNET
+epoch 0  | loss: 0.12689 | train_accuracy: 0.96179 | valid_accuracy: 0.96233 |  0:00:39s
+epoch 1  | loss: 0.10637 | train_accuracy: 0.37418 | valid_accuracy: 0.37672 |  0:01:23s
+epoch 2  | loss: 0.10134 | train_accuracy: 0.38356 | valid_accuracy: 0.38618 |  0:02:02s
+epoch 3  | loss: 0.0984  | train_accuracy: 0.38438 | valid_accuracy: 0.38709 |  0:02:41s
+epoch 4  | loss: 0.09775 | train_accuracy: 0.62836 | valid_accuracy: 0.6294  |  0:03:20s
+epoch 5  | loss: 0.094   | train_accuracy: 0.89082 | valid_accuracy: 0.88988 |  0:03:59s
+
+Early stopping occurred at epoch 5 with best_epoch = 0 and best_valid_accuracy = 0.96233
+TabNet Model Accuracy (F1) on ./CLOUD/DDR4_CLOUD.csv: 0.9623
+0.9623
+===================
+XGB
+XGBoost Model Accuracy (F1) on ./CLOUD/DDR4_CLOUD.csv: 0.9844
+0.9844
+=========================
+
+Processing file: ./CLOUD/DDR5_CLOUD.csv
+training RESNET
+ResNet | Epoch 1/10 - Loss: -309940181997100973686784.0000
+ResNet | Epoch 2/10 - Loss: -573097046174124472270848.0000
+ResNet | Epoch 3/10 - Loss: -573244101860090525515776.0000
+ResNet | Epoch 4/10 - Loss: -579764927763177686433792.0000
+ResNet | Epoch 5/10 - Loss: -587686729385338558480384.0000
+ResNet | Epoch 6/10 - Loss: -593763648756927015419904.0000
+ResNet | Epoch 7/10 - Loss: -598043825882104690900992.0000
+ResNet | Epoch 8/10 - Loss: -596417588497220070539264.0000
+ResNet | Epoch 9/10 - Loss: -601017249570683170586624.0000
+ResNet | Epoch 10/10 - Loss: -605738380905557128118272.0000
+ResNet Model Accuracy (F1) on ./CLOUD/DDR5_CLOUD.csv: 0.6523
+0.5440
+===================
+TRAIN TABNET
+epoch 0  | loss: 0.09391 | train_accuracy: 0.90496 | valid_accuracy: 0.90536 |  0:00:39s
+epoch 1  | loss: 0.07383 | train_accuracy: 0.64515 | valid_accuracy: 0.64546 |  0:01:18s
+epoch 2  | loss: 0.0725  | train_accuracy: 0.85782 | valid_accuracy: 0.8576  |  0:01:57s
+epoch 3  | loss: 0.06742 | train_accuracy: 0.43807 | valid_accuracy: 0.43979 |  0:02:36s
+epoch 4  | loss: 0.06855 | train_accuracy: 0.65147 | valid_accuracy: 0.65206 |  0:03:21s
+epoch 5  | loss: 0.07044 | train_accuracy: 0.64617 | valid_accuracy: 0.64703 |  0:04:00s
+
+Early stopping occurred at epoch 5 with best_epoch = 0 and best_valid_accuracy = 0.90536
+TabNet Model Accuracy (F1) on ./CLOUD/DDR5_CLOUD.csv: 0.9054
+0.9047
+===================
+XGB
+XGBoost Model Accuracy (F1) on ./CLOUD/DDR5_CLOUD.csv: 0.9886
+0.9886
+=========================
+
+Processing file: ./CLOUD/COMB_CLOUD.csv
+training RESNET
+ResNet | Epoch 1/10 - Loss: -484686896669838213644288.0000
+ResNet | Epoch 2/10 - Loss: -527916390615807921487872.0000
+ResNet | Epoch 3/10 - Loss: -546931688522598947225600.0000
+ResNet | Epoch 4/10 - Loss: -554577515410347853348864.0000
+ResNet | Epoch 5/10 - Loss: -561555556848255813812224.0000
+ResNet | Epoch 6/10 - Loss: -569267065437365624373248.0000
+ResNet | Epoch 7/10 - Loss: -574684560470464205422592.0000
+ResNet | Epoch 8/10 - Loss: -580106975007007072845824.0000
+ResNet | Epoch 9/10 - Loss: -587071836201382731317248.0000
+ResNet | Epoch 10/10 - Loss: -591387565400930136358912.0000
+ResNet Model Accuracy (F1) on ./CLOUD/COMB_CLOUD.csv: 0.5316
+0.4400
+===================
+TRAIN TABNET
+epoch 0  | loss: 0.07174 | train_accuracy: 0.70559 | valid_accuracy: 0.70726 |  0:01:18s
+epoch 1  | loss: 0.03551 | train_accuracy: 0.69624 | valid_accuracy: 0.69694 |  0:02:43s
+epoch 2  | loss: 0.03055 | train_accuracy: 0.75411 | valid_accuracy: 0.75476 |  0:04:01s
+epoch 3  | loss: 0.0265  | train_accuracy: 0.77155 | valid_accuracy: 0.77372 |  0:05:21s
+epoch 4  | loss: 0.02603 | train_accuracy: 0.75958 | valid_accuracy: 0.76128 |  0:06:40s
+epoch 5  | loss: 0.02482 | train_accuracy: 0.76025 | valid_accuracy: 0.76216 |  0:07:59s
+epoch 6  | loss: 0.024   | train_accuracy: 0.8137  | valid_accuracy: 0.81442 |  0:09:18s
+epoch 7  | loss: 0.02309 | train_accuracy: 0.8573  | valid_accuracy: 0.8582  |  0:10:37s
+epoch 8  | loss: 0.02287 | train_accuracy: 0.77591 | valid_accuracy: 0.77716 |  0:11:56s
+epoch 9  | loss: 0.02179 | train_accuracy: 0.6737  | valid_accuracy: 0.67519 |  0:13:17s
+Stop training because you reached max_epochs = 10 with best_epoch = 7 and best_valid_accuracy = 0.8582
+TabNet Model Accuracy (F1) on ./CLOUD/COMB_CLOUD.csv: 0.8582
+0.8592
+===================
+XGB
+XGBoost Model Accuracy (F1) on ./CLOUD/COMB_CLOUD.csv: 0.9999
+0.9999
+=========================
+0.45
+
+Processing file: ./CLOUD/DDR4_CLOUD.csv
+training RESNET
+ResNet | Epoch 1/10 - Loss: -8305565852358127913009152.0000
+ResNet | Epoch 2/10 - Loss: -9356212623877288453210112.0000
+ResNet | Epoch 3/10 - Loss: -9347736724507674047152128.0000
+ResNet | Epoch 4/10 - Loss: -9696566102245667126640640.0000
+ResNet | Epoch 5/10 - Loss: -9761075914772957586522112.0000
+ResNet | Epoch 6/10 - Loss: -9792039104389461848358912.0000
+ResNet | Epoch 7/10 - Loss: -9868902624763538118279168.0000
+ResNet | Epoch 8/10 - Loss: -9789727017187230068244480.0000
+ResNet | Epoch 9/10 - Loss: -9781221885938433263665152.0000
+ResNet | Epoch 10/10 - Loss: -9777280071975605494611968.0000
+ResNet Model Accuracy (F1) on ./CLOUD/DDR4_CLOUD.csv: 0.3339
+0.1669
+===================
+TRAIN TABNET
+epoch 0  | loss: 0.12689 | train_accuracy: 0.96179 | valid_accuracy: 0.96233 |  0:00:39s
+epoch 1  | loss: 0.10637 | train_accuracy: 0.37418 | valid_accuracy: 0.37672 |  0:01:18s
+epoch 2  | loss: 0.10134 | train_accuracy: 0.38356 | valid_accuracy: 0.38618 |  0:01:57s
+epoch 3  | loss: 0.0984  | train_accuracy: 0.38438 | valid_accuracy: 0.38709 |  0:02:36s
+epoch 4  | loss: 0.09775 | train_accuracy: 0.62836 | valid_accuracy: 0.6294  |  0:03:15s
+epoch 5  | loss: 0.094   | train_accuracy: 0.89082 | valid_accuracy: 0.88988 |  0:04:02s
+
+Early stopping occurred at epoch 5 with best_epoch = 0 and best_valid_accuracy = 0.96233
+TabNet Model Accuracy (F1) on ./CLOUD/DDR4_CLOUD.csv: 0.9623
+0.9623
+===================
+XGB
+XGBoost Model Accuracy (F1) on ./CLOUD/DDR4_CLOUD.csv: 0.9844
+0.9844
+=========================
+
+Processing file: ./CLOUD/DDR5_CLOUD.csv
+training RESNET
+ResNet | Epoch 1/10 - Loss: -309940181997100973686784.0000
+ResNet | Epoch 2/10 - Loss: -573097046174124472270848.0000
+ResNet | Epoch 3/10 - Loss: -573244101860090525515776.0000
+ResNet | Epoch 4/10 - Loss: -579764927763177686433792.0000
+ResNet | Epoch 5/10 - Loss: -587686729385338558480384.0000
+ResNet | Epoch 6/10 - Loss: -593763648756927015419904.0000
+ResNet | Epoch 7/10 - Loss: -598043825882104690900992.0000
+ResNet | Epoch 8/10 - Loss: -596417588497220070539264.0000
+ResNet | Epoch 9/10 - Loss: -601017249570683170586624.0000
+ResNet | Epoch 10/10 - Loss: -605738380905557128118272.0000
+ResNet Model Accuracy (F1) on ./CLOUD/DDR5_CLOUD.csv: 0.6523
+0.5440
+===================
+TRAIN TABNET
+epoch 0  | loss: 0.09391 | train_accuracy: 0.90496 | valid_accuracy: 0.90536 |  0:00:39s
+epoch 1  | loss: 0.07383 | train_accuracy: 0.64515 | valid_accuracy: 0.64546 |  0:01:18s
+epoch 2  | loss: 0.0725  | train_accuracy: 0.85782 | valid_accuracy: 0.8576  |  0:01:58s
+epoch 3  | loss: 0.06742 | train_accuracy: 0.43807 | valid_accuracy: 0.43979 |  0:02:38s
+epoch 4  | loss: 0.06855 | train_accuracy: 0.65147 | valid_accuracy: 0.65206 |  0:03:17s
+epoch 5  | loss: 0.07044 | train_accuracy: 0.64617 | valid_accuracy: 0.64703 |  0:03:57s
+
+Early stopping occurred at epoch 5 with best_epoch = 0 and best_valid_accuracy = 0.90536
+TabNet Model Accuracy (F1) on ./CLOUD/DDR5_CLOUD.csv: 0.9054
+0.9047
+===================
+XGB
+XGBoost Model Accuracy (F1) on ./CLOUD/DDR5_CLOUD.csv: 0.9886
+0.9886
+=========================
+
+Processing file: ./CLOUD/COMB_CLOUD.csv
+training RESNET
+ResNet | Epoch 1/10 - Loss: -484686896669838213644288.0000
+ResNet | Epoch 2/10 - Loss: -527916390615807921487872.0000
+ResNet | Epoch 3/10 - Loss: -546931688522598947225600.0000
+ResNet | Epoch 4/10 - Loss: -554577515410347853348864.0000
+ResNet | Epoch 5/10 - Loss: -561555556848255813812224.0000
+ResNet | Epoch 6/10 - Loss: -569267065437365624373248.0000
+ResNet | Epoch 7/10 - Loss: -574684560470464205422592.0000
+ResNet | Epoch 8/10 - Loss: -580106975007007072845824.0000
+ResNet | Epoch 9/10 - Loss: -587071836201382731317248.0000
+ResNet | Epoch 10/10 - Loss: -591387565400930136358912.0000
+ResNet Model Accuracy (F1) on ./CLOUD/COMB_CLOUD.csv: 0.5316
+0.4400
+===================
+TRAIN TABNET
+epoch 0  | loss: 0.07174 | train_accuracy: 0.70559 | valid_accuracy: 0.70726 |  0:01:18s
+epoch 1  | loss: 0.03551 | train_accuracy: 0.69624 | valid_accuracy: 0.69694 |  0:02:48s
+epoch 2  | loss: 0.03055 | train_accuracy: 0.75411 | valid_accuracy: 0.75476 |  0:04:07s
+epoch 3  | loss: 0.0265  | train_accuracy: 0.77155 | valid_accuracy: 0.77372 |  0:05:35s
+epoch 4  | loss: 0.02603 | train_accuracy: 0.75958 | valid_accuracy: 0.76128 |  0:06:53s
+epoch 5  | loss: 0.02482 | train_accuracy: 0.76025 | valid_accuracy: 0.76216 |  0:08:12s
+epoch 6  | loss: 0.024   | train_accuracy: 0.8137  | valid_accuracy: 0.81442 |  0:09:31s
+epoch 7  | loss: 0.02309 | train_accuracy: 0.8573  | valid_accuracy: 0.8582  |  0:10:49s
+epoch 8  | loss: 0.02287 | train_accuracy: 0.77591 | valid_accuracy: 0.77716 |  0:12:08s
+epoch 9  | loss: 0.02179 | train_accuracy: 0.6737  | valid_accuracy: 0.67519 |  0:13:27s
+Stop training because you reached max_epochs = 10 with best_epoch = 7 and best_valid_accuracy = 0.8582
+TabNet Model Accuracy (F1) on ./CLOUD/COMB_CLOUD.csv: 0.8582
+0.8592
+===================
+XGB
+XGBoost Model Accuracy (F1) on ./CLOUD/COMB_CLOUD.csv: 0.9999
+0.9999
+=========================
+0.5
+
+Processing file: ./CLOUD/DDR4_CLOUD.csv
+training RESNET
+ResNet | Epoch 1/10 - Loss: -8305565852358127913009152.0000
+ResNet | Epoch 2/10 - Loss: -9356212623877288453210112.0000
+ResNet | Epoch 3/10 - Loss: -9347736724507674047152128.0000
+ResNet | Epoch 4/10 - Loss: -9696566102245667126640640.0000
+ResNet | Epoch 5/10 - Loss: -9761075914772957586522112.0000
+ResNet | Epoch 6/10 - Loss: -9792039104389461848358912.0000
+ResNet | Epoch 7/10 - Loss: -9868902624763538118279168.0000
+ResNet | Epoch 8/10 - Loss: -9789727017187230068244480.0000
+ResNet | Epoch 9/10 - Loss: -9781221885938433263665152.0000
+ResNet | Epoch 10/10 - Loss: -9777280071975605494611968.0000
+ResNet Model Accuracy (F1) on ./CLOUD/DDR4_CLOUD.csv: 0.3339
+0.1669
+===================
+TRAIN TABNET
+epoch 0  | loss: 0.12689 | train_accuracy: 0.96179 | valid_accuracy: 0.96233 |  0:00:38s
+epoch 1  | loss: 0.10637 | train_accuracy: 0.37418 | valid_accuracy: 0.37672 |  0:01:18s
+epoch 2  | loss: 0.10134 | train_accuracy: 0.38356 | valid_accuracy: 0.38618 |  0:01:57s
+epoch 3  | loss: 0.0984  | train_accuracy: 0.38438 | valid_accuracy: 0.38709 |  0:02:42s
+epoch 4  | loss: 0.09775 | train_accuracy: 0.62836 | valid_accuracy: 0.6294  |  0:03:22s
+epoch 5  | loss: 0.094   | train_accuracy: 0.89082 | valid_accuracy: 0.88988 |  0:04:01s
+
+Early stopping occurred at epoch 5 with best_epoch = 0 and best_valid_accuracy = 0.96233
+TabNet Model Accuracy (F1) on ./CLOUD/DDR4_CLOUD.csv: 0.9623
+0.9623
+===================
+XGB
+XGBoost Model Accuracy (F1) on ./CLOUD/DDR4_CLOUD.csv: 0.9844
+0.9844
+=========================
+
+Processing file: ./CLOUD/DDR5_CLOUD.csv
+training RESNET
+ResNet | Epoch 1/10 - Loss: -309940181997100973686784.0000
+ResNet | Epoch 2/10 - Loss: -573097046174124472270848.0000
+ResNet | Epoch 3/10 - Loss: -573244101860090525515776.0000
+ResNet | Epoch 4/10 - Loss: -579764927763177686433792.0000
+ResNet | Epoch 5/10 - Loss: -587686729385338558480384.0000
+ResNet | Epoch 6/10 - Loss: -593763648756927015419904.0000
+ResNet | Epoch 7/10 - Loss: -598043825882104690900992.0000
+ResNet | Epoch 8/10 - Loss: -596417588497220070539264.0000
+ResNet | Epoch 9/10 - Loss: -601017249570683170586624.0000
+/home/user/.local/lib/python3.8/site-packages/xgboost/core.py:158: UserWarning: [12:18:08] WARNING: /workspace/src/learner.cc:740: 
+Parameters: { "use_label_encoder" } are not used.
+
+  warnings.warn(smsg, UserWarning)
+/home/user/.local/lib/python3.8/site-packages/pytorch_tabnet/abstract_model.py:82: UserWarning: Device used : cpu
+  warnings.warn(f"Device used : {self.device}")
+/home/user/.local/lib/python3.8/site-packages/pytorch_tabnet/callbacks.py:172: UserWarning: Best weights from best epoch are automatically used!
+  warnings.warn(wrn_msg)
+/home/user/.local/lib/python3.8/site-packages/xgboost/core.py:158: UserWarning: [12:47:18] WARNING: /workspace/src/learner.cc:740: 
+Parameters: { "use_label_encoder" } are not used.
+
+  warnings.warn(smsg, UserWarning)
+/home/user/.local/lib/python3.8/site-packages/pytorch_tabnet/abstract_model.py:82: UserWarning: Device used : cpu
+  warnings.warn(f"Device used : {self.device}")
+/home/user/.local/lib/python3.8/site-packages/pytorch_tabnet/callbacks.py:172: UserWarning: Best weights from best epoch are automatically used!
+  warnings.warn(wrn_msg)
+/home/user/.local/lib/python3.8/site-packages/xgboost/core.py:158: UserWarning: [12:58:53] WARNING: /workspace/src/learner.cc:740: 
+Parameters: { "use_label_encoder" } are not used.
+
+  warnings.warn(smsg, UserWarning)
+/home/user/.local/lib/python3.8/site-packages/pytorch_tabnet/abstract_model.py:82: UserWarning: Device used : cpu
+  warnings.warn(f"Device used : {self.device}")
+/home/user/.local/lib/python3.8/site-packages/pytorch_tabnet/callbacks.py:172: UserWarning: Best weights from best epoch are automatically used!
+  warnings.warn(wrn_msg)
+/home/user/.local/lib/python3.8/site-packages/xgboost/core.py:158: UserWarning: [13:09:42] WARNING: /workspace/src/learner.cc:740: 
+Parameters: { "use_label_encoder" } are not used.
+
+  warnings.warn(smsg, UserWarning)
+/home/user/.local/lib/python3.8/site-packages/pytorch_tabnet/abstract_model.py:82: UserWarning: Device used : cpu
+  warnings.warn(f"Device used : {self.device}")
+/home/user/.local/lib/python3.8/site-packages/pytorch_tabnet/callbacks.py:172: UserWarning: Best weights from best epoch are automatically used!
+  warnings.warn(wrn_msg)
+/home/user/.local/lib/python3.8/site-packages/xgboost/core.py:158: UserWarning: [13:38:04] WARNING: /workspace/src/learner.cc:740: 
+Parameters: { "use_label_encoder" } are not used.
+
+  warnings.warn(smsg, UserWarning)
+/home/user/.local/lib/python3.8/site-packages/pytorch_tabnet/abstract_model.py:82: UserWarning: Device used : cpu
+  warnings.warn(f"Device used : {self.device}")
+/home/user/.local/lib/python3.8/site-packages/pytorch_tabnet/callbacks.py:172: UserWarning: Best weights from best epoch are automatically used!
+  warnings.warn(wrn_msg)
+/home/user/.local/lib/python3.8/site-packages/xgboost/core.py:158: UserWarning: [13:48:47] WARNING: /workspace/src/learner.cc:740: 
+Parameters: { "use_label_encoder" } are not used.
+
+  warnings.warn(smsg, UserWarning)
+/home/user/.local/lib/python3.8/site-packages/pytorch_tabnet/abstract_model.py:82: UserWarning: Device used : cpu
+  warnings.warn(f"Device used : {self.device}")
+/home/user/.local/lib/python3.8/site-packages/pytorch_tabnet/callbacks.py:172: UserWarning: Best weights from best epoch are automatically used!
+  warnings.warn(wrn_msg)
+/home/user/.local/lib/python3.8/site-packages/xgboost/core.py:158: UserWarning: [13:59:47] WARNING: /workspace/src/learner.cc:740: 
+Parameters: { "use_label_encoder" } are not used.
+
+  warnings.warn(smsg, UserWarning)
+/home/user/.local/lib/python3.8/site-packages/pytorch_tabnet/abstract_model.py:82: UserWarning: Device used : cpu
+  warnings.warn(f"Device used : {self.device}")
+/home/user/.local/lib/python3.8/site-packages/pytorch_tabnet/callbacks.py:172: UserWarning: Best weights from best epoch are automatically used!
+  warnings.warn(wrn_msg)
+/home/user/.local/lib/python3.8/site-packages/xgboost/core.py:158: UserWarning: [14:28:56] WARNING: /workspace/src/learner.cc:740: 
+Parameters: { "use_label_encoder" } are not used.
+
+  warnings.warn(smsg, UserWarning)
+ResNet | Epoch 10/10 - Loss: -605738380905557128118272.0000
+ResNet Model Accuracy (F1) on ./CLOUD/DDR5_CLOUD.csv: 0.6523
+0.5440
+===================
+TRAIN TABNET
+epoch 0  | loss: 0.09391 | train_accuracy: 0.90496 | valid_accuracy: 0.90536 |  0:00:39s
+epoch 1  | loss: 0.07383 | train_accuracy: 0.64515 | valid_accuracy: 0.64546 |  0:01:18s
+epoch 2  | loss: 0.0725  | train_accuracy: 0.85782 | valid_accuracy: 0.8576  |  0:01:57s
+epoch 3  | loss: 0.06742 | train_accuracy: 0.43807 | valid_accuracy: 0.43979 |  0:02:37s
+epoch 4  | loss: 0.06855 | train_accuracy: 0.65147 | valid_accuracy: 0.65206 |  0:03:16s
+epoch 5  | loss: 0.07044 | train_accuracy: 0.64617 | valid_accuracy: 0.64703 |  0:03:55s
+
+Early stopping occurred at epoch 5 with best_epoch = 0 and best_valid_accuracy = 0.90536
+TabNet Model Accuracy (F1) on ./CLOUD/DDR5_CLOUD.csv: 0.9054
+0.9047
+===================
+XGB
+XGBoost Model Accuracy (F1) on ./CLOUD/DDR5_CLOUD.csv: 0.9886
+0.9886
+=========================
+
+Processing file: ./CLOUD/COMB_CLOUD.csv
+training RESNET
+ResNet | Epoch 1/10 - Loss: -484686896669838213644288.0000
+ResNet | Epoch 2/10 - Loss: -527916390615807921487872.0000
+ResNet | Epoch 3/10 - Loss: -546931688522598947225600.0000
+ResNet | Epoch 4/10 - Loss: -554577515410347853348864.0000
+ResNet | Epoch 5/10 - Loss: -561555556848255813812224.0000
+ResNet | Epoch 6/10 - Loss: -569267065437365624373248.0000
+ResNet | Epoch 7/10 - Loss: -574684560470464205422592.0000
+ResNet | Epoch 8/10 - Loss: -580106975007007072845824.0000
+ResNet | Epoch 9/10 - Loss: -587071836201382731317248.0000
+ResNet | Epoch 10/10 - Loss: -591387565400930136358912.0000
+ResNet Model Accuracy (F1) on ./CLOUD/COMB_CLOUD.csv: 0.5316
+0.4400
+===================
+TRAIN TABNET
+epoch 0  | loss: 0.07174 | train_accuracy: 0.70559 | valid_accuracy: 0.70726 |  0:01:31s
+epoch 1  | loss: 0.03551 | train_accuracy: 0.69624 | valid_accuracy: 0.69694 |  0:03:06s
+epoch 2  | loss: 0.03055 | train_accuracy: 0.75411 | valid_accuracy: 0.75476 |  0:04:29s
+epoch 3  | loss: 0.0265  | train_accuracy: 0.77155 | valid_accuracy: 0.77372 |  0:05:48s
+epoch 4  | loss: 0.02603 | train_accuracy: 0.75958 | valid_accuracy: 0.76128 |  0:07:07s
+epoch 5  | loss: 0.02482 | train_accuracy: 0.76025 | valid_accuracy: 0.76216 |  0:08:26s
+epoch 6  | loss: 0.024   | train_accuracy: 0.8137  | valid_accuracy: 0.81442 |  0:09:48s
+epoch 7  | loss: 0.02309 | train_accuracy: 0.8573  | valid_accuracy: 0.8582  |  0:11:06s
+epoch 8  | loss: 0.02287 | train_accuracy: 0.77591 | valid_accuracy: 0.77716 |  0:12:25s
+epoch 9  | loss: 0.02179 | train_accuracy: 0.6737  | valid_accuracy: 0.67519 |  0:13:45s
+Stop training because you reached max_epochs = 10 with best_epoch = 7 and best_valid_accuracy = 0.8582
+TabNet Model Accuracy (F1) on ./CLOUD/COMB_CLOUD.csv: 0.8582
+0.8592
+===================
+XGB
+XGBoost Model Accuracy (F1) on ./CLOUD/COMB_CLOUD.csv: 0.9999
+0.9999
+=========================

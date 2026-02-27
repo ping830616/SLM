@@ -1,0 +1,5400 @@
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +48.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 0:        +47.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 1:        +46.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 2:        +48.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 3:        +43.0°C  (high = +80.0°C, crit = +100.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  (crit = +119.0°C)
+temp2:        +29.8°C  (crit = +119.0°C)
+
+amdgpu-pci-0100
+Adapter: PCI adapter
+vddgfx:      750.00 mV 
+fan1:        2010 RPM  (min =    0 RPM, max = 3700 RPM)
+edge:         +40.0°C  (crit = +94.0°C, hyst = -273.1°C)
+slowPPT:      11.25 W  (cap = 127.00 W)
+
+nvme-pci-0900
+Adapter: PCI adapter
+Composite:    +32.9°C  (low  = -273.1°C, high = +84.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +32.9°C  (low  = -273.1°C, high = +65261.8°C)
+Sensor 2:     +36.9°C  (low  = -273.1°C, high = +65261.8°C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +48.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 0:        +47.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 1:        +46.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 2:        +48.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 3:        +43.0°C  (high = +80.0°C, crit = +100.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  (crit = +119.0°C)
+temp2:        +29.8°C  (crit = +119.0°C)
+
+amdgpu-pci-0100
+Adapter: PCI adapter
+vddgfx:      750.00 mV 
+fan1:        2010 RPM  (min =    0 RPM, max = 3700 RPM)
+edge:         +40.0°C  (crit = +94.0°C, hyst = -273.1°C)
+slowPPT:      11.16 W  (cap = 127.00 W)
+
+nvme-pci-0900
+Adapter: PCI adapter
+Composite:    +32.9°C  (low  = -273.1°C, high = +84.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +32.9°C  (low  = -273.1°C, high = +65261.8°C)
+Sensor 2:     +36.9°C  (low  = -273.1°C, high = +65261.8°C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +48.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 0:        +47.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 1:        +46.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 2:        +48.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 3:        +43.0°C  (high = +80.0°C, crit = +100.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  (crit = +119.0°C)
+temp2:        +29.8°C  (crit = +119.0°C)
+
+amdgpu-pci-0100
+Adapter: PCI adapter
+vddgfx:      750.00 mV 
+fan1:        2010 RPM  (min =    0 RPM, max = 3700 RPM)
+edge:         +41.0°C  (crit = +94.0°C, hyst = -273.1°C)
+slowPPT:      11.09 W  (cap = 127.00 W)
+
+nvme-pci-0900
+Adapter: PCI adapter
+Composite:    +32.9°C  (low  = -273.1°C, high = +84.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +32.9°C  (low  = -273.1°C, high = +65261.8°C)
+Sensor 2:     +36.9°C  (low  = -273.1°C, high = +65261.8°C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +48.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 0:        +47.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 1:        +46.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 2:        +48.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 3:        +43.0°C  (high = +80.0°C, crit = +100.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  (crit = +119.0°C)
+temp2:        +29.8°C  (crit = +119.0°C)
+
+amdgpu-pci-0100
+Adapter: PCI adapter
+vddgfx:      750.00 mV 
+fan1:        2010 RPM  (min =    0 RPM, max = 3700 RPM)
+edge:         +41.0°C  (crit = +94.0°C, hyst = -273.1°C)
+slowPPT:      10.18 W  (cap = 127.00 W)
+
+nvme-pci-0900
+Adapter: PCI adapter
+Composite:    +32.9°C  (low  = -273.1°C, high = +84.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +32.9°C  (low  = -273.1°C, high = +65261.8°C)
+Sensor 2:     +36.9°C  (low  = -273.1°C, high = +65261.8°C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +48.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 0:        +47.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 1:        +46.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 2:        +48.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 3:        +43.0°C  (high = +80.0°C, crit = +100.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  (crit = +119.0°C)
+temp2:        +29.8°C  (crit = +119.0°C)
+
+amdgpu-pci-0100
+Adapter: PCI adapter
+vddgfx:      750.00 mV 
+fan1:        2010 RPM  (min =    0 RPM, max = 3700 RPM)
+edge:         +41.0°C  (crit = +94.0°C, hyst = -273.1°C)
+slowPPT:      10.14 W  (cap = 127.00 W)
+
+nvme-pci-0900
+Adapter: PCI adapter
+Composite:    +32.9°C  (low  = -273.1°C, high = +84.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +32.9°C  (low  = -273.1°C, high = +65261.8°C)
+Sensor 2:     +37.9°C  (low  = -273.1°C, high = +65261.8°C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +48.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 0:        +47.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 1:        +46.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 2:        +48.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 3:        +43.0°C  (high = +80.0°C, crit = +100.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  (crit = +119.0°C)
+temp2:        +29.8°C  (crit = +119.0°C)
+
+amdgpu-pci-0100
+Adapter: PCI adapter
+vddgfx:      750.00 mV 
+fan1:        2010 RPM  (min =    0 RPM, max = 3700 RPM)
+edge:         +41.0°C  (crit = +94.0°C, hyst = -273.1°C)
+slowPPT:      10.10 W  (cap = 127.00 W)
+
+nvme-pci-0900
+Adapter: PCI adapter
+Composite:    +32.9°C  (low  = -273.1°C, high = +84.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +32.9°C  (low  = -273.1°C, high = +65261.8°C)
+Sensor 2:     +37.9°C  (low  = -273.1°C, high = +65261.8°C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +48.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 0:        +47.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 1:        +46.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 2:        +48.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 3:        +43.0°C  (high = +80.0°C, crit = +100.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  (crit = +119.0°C)
+temp2:        +29.8°C  (crit = +119.0°C)
+
+amdgpu-pci-0100
+Adapter: PCI adapter
+vddgfx:      750.00 mV 
+fan1:        2010 RPM  (min =    0 RPM, max = 3700 RPM)
+edge:         +41.0°C  (crit = +94.0°C, hyst = -273.1°C)
+slowPPT:      10.04 W  (cap = 127.00 W)
+
+nvme-pci-0900
+Adapter: PCI adapter
+Composite:    +32.9°C  (low  = -273.1°C, high = +84.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +32.9°C  (low  = -273.1°C, high = +65261.8°C)
+Sensor 2:     +37.9°C  (low  = -273.1°C, high = +65261.8°C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +48.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 0:        +47.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 1:        +46.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 2:        +48.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 3:        +43.0°C  (high = +80.0°C, crit = +100.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  (crit = +119.0°C)
+temp2:        +29.8°C  (crit = +119.0°C)
+
+amdgpu-pci-0100
+Adapter: PCI adapter
+vddgfx:      750.00 mV 
+fan1:        2010 RPM  (min =    0 RPM, max = 3700 RPM)
+edge:         +41.0°C  (crit = +94.0°C, hyst = -273.1°C)
+slowPPT:       9.26 W  (cap = 127.00 W)
+
+nvme-pci-0900
+Adapter: PCI adapter
+Composite:    +32.9°C  (low  = -273.1°C, high = +84.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +32.9°C  (low  = -273.1°C, high = +65261.8°C)
+Sensor 2:     +37.9°C  (low  = -273.1°C, high = +65261.8°C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +48.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 0:        +47.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 1:        +46.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 2:        +48.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 3:        +43.0°C  (high = +80.0°C, crit = +100.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  (crit = +119.0°C)
+temp2:        +29.8°C  (crit = +119.0°C)
+
+amdgpu-pci-0100
+Adapter: PCI adapter
+vddgfx:      750.00 mV 
+fan1:        2010 RPM  (min =    0 RPM, max = 3700 RPM)
+edge:         +41.0°C  (crit = +94.0°C, hyst = -273.1°C)
+slowPPT:       9.22 W  (cap = 127.00 W)
+
+nvme-pci-0900
+Adapter: PCI adapter
+Composite:    +32.9°C  (low  = -273.1°C, high = +84.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +32.9°C  (low  = -273.1°C, high = +65261.8°C)
+Sensor 2:     +37.9°C  (low  = -273.1°C, high = +65261.8°C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +48.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 0:        +47.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 1:        +46.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 2:        +48.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 3:        +43.0°C  (high = +80.0°C, crit = +100.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  (crit = +119.0°C)
+temp2:        +29.8°C  (crit = +119.0°C)
+
+amdgpu-pci-0100
+Adapter: PCI adapter
+vddgfx:      750.00 mV 
+fan1:        2010 RPM  (min =    0 RPM, max = 3700 RPM)
+edge:         +41.0°C  (crit = +94.0°C, hyst = -273.1°C)
+slowPPT:       9.19 W  (cap = 127.00 W)
+
+nvme-pci-0900
+Adapter: PCI adapter
+Composite:    +32.9°C  (low  = -273.1°C, high = +84.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +32.9°C  (low  = -273.1°C, high = +65261.8°C)
+Sensor 2:     +37.9°C  (low  = -273.1°C, high = +65261.8°C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +48.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 0:        +47.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 1:        +46.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 2:        +48.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 3:        +43.0°C  (high = +80.0°C, crit = +100.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  (crit = +119.0°C)
+temp2:        +29.8°C  (crit = +119.0°C)
+
+amdgpu-pci-0100
+Adapter: PCI adapter
+vddgfx:      750.00 mV 
+fan1:        2010 RPM  (min =    0 RPM, max = 3700 RPM)
+edge:         +41.0°C  (crit = +94.0°C, hyst = -273.1°C)
+slowPPT:       9.16 W  (cap = 127.00 W)
+
+nvme-pci-0900
+Adapter: PCI adapter
+Composite:    +32.9°C  (low  = -273.1°C, high = +84.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +32.9°C  (low  = -273.1°C, high = +65261.8°C)
+Sensor 2:     +37.9°C  (low  = -273.1°C, high = +65261.8°C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +48.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 0:        +47.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 1:        +46.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 2:        +48.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 3:        +43.0°C  (high = +80.0°C, crit = +100.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  (crit = +119.0°C)
+temp2:        +29.8°C  (crit = +119.0°C)
+
+amdgpu-pci-0100
+Adapter: PCI adapter
+vddgfx:      750.00 mV 
+fan1:        2010 RPM  (min =    0 RPM, max = 3700 RPM)
+edge:         +41.0°C  (crit = +94.0°C, hyst = -273.1°C)
+slowPPT:       9.14 W  (cap = 127.00 W)
+
+nvme-pci-0900
+Adapter: PCI adapter
+Composite:    +32.9°C  (low  = -273.1°C, high = +84.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +32.9°C  (low  = -273.1°C, high = +65261.8°C)
+Sensor 2:     +37.9°C  (low  = -273.1°C, high = +65261.8°C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +48.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 0:        +47.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 1:        +46.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 2:        +48.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 3:        +43.0°C  (high = +80.0°C, crit = +100.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  (crit = +119.0°C)
+temp2:        +29.8°C  (crit = +119.0°C)
+
+amdgpu-pci-0100
+Adapter: PCI adapter
+vddgfx:      750.00 mV 
+fan1:        2010 RPM  (min =    0 RPM, max = 3700 RPM)
+edge:         +41.0°C  (crit = +94.0°C, hyst = -273.1°C)
+slowPPT:       9.12 W  (cap = 127.00 W)
+
+nvme-pci-0900
+Adapter: PCI adapter
+Composite:    +32.9°C  (low  = -273.1°C, high = +84.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +32.9°C  (low  = -273.1°C, high = +65261.8°C)
+Sensor 2:     +37.9°C  (low  = -273.1°C, high = +65261.8°C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +48.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 0:        +47.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 1:        +46.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 2:        +48.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 3:        +43.0°C  (high = +80.0°C, crit = +100.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  (crit = +119.0°C)
+temp2:        +29.8°C  (crit = +119.0°C)
+
+amdgpu-pci-0100
+Adapter: PCI adapter
+vddgfx:      750.00 mV 
+fan1:        2010 RPM  (min =    0 RPM, max = 3700 RPM)
+edge:         +41.0°C  (crit = +94.0°C, hyst = -273.1°C)
+slowPPT:       9.11 W  (cap = 127.00 W)
+
+nvme-pci-0900
+Adapter: PCI adapter
+Composite:    +32.9°C  (low  = -273.1°C, high = +84.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +32.9°C  (low  = -273.1°C, high = +65261.8°C)
+Sensor 2:     +38.9°C  (low  = -273.1°C, high = +65261.8°C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +48.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 0:        +47.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 1:        +46.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 2:        +48.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 3:        +43.0°C  (high = +80.0°C, crit = +100.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  (crit = +119.0°C)
+temp2:        +29.8°C  (crit = +119.0°C)
+
+amdgpu-pci-0100
+Adapter: PCI adapter
+vddgfx:      750.00 mV 
+fan1:        2010 RPM  (min =    0 RPM, max = 3700 RPM)
+edge:         +41.0°C  (crit = +94.0°C, hyst = -273.1°C)
+slowPPT:       9.09 W  (cap = 127.00 W)
+
+nvme-pci-0900
+Adapter: PCI adapter
+Composite:    +32.9°C  (low  = -273.1°C, high = +84.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +32.9°C  (low  = -273.1°C, high = +65261.8°C)
+Sensor 2:     +38.9°C  (low  = -273.1°C, high = +65261.8°C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +48.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 0:        +47.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 1:        +46.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 2:        +48.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 3:        +43.0°C  (high = +80.0°C, crit = +100.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  (crit = +119.0°C)
+temp2:        +29.8°C  (crit = +119.0°C)
+
+amdgpu-pci-0100
+Adapter: PCI adapter
+vddgfx:      750.00 mV 
+fan1:        2010 RPM  (min =    0 RPM, max = 3700 RPM)
+edge:         +41.0°C  (crit = +94.0°C, hyst = -273.1°C)
+slowPPT:       9.07 W  (cap = 127.00 W)
+
+nvme-pci-0900
+Adapter: PCI adapter
+Composite:    +32.9°C  (low  = -273.1°C, high = +84.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +32.9°C  (low  = -273.1°C, high = +65261.8°C)
+Sensor 2:     +38.9°C  (low  = -273.1°C, high = +65261.8°C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +48.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 0:        +47.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 1:        +46.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 2:        +48.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 3:        +43.0°C  (high = +80.0°C, crit = +100.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  (crit = +119.0°C)
+temp2:        +29.8°C  (crit = +119.0°C)
+
+amdgpu-pci-0100
+Adapter: PCI adapter
+vddgfx:      750.00 mV 
+fan1:        2010 RPM  (min =    0 RPM, max = 3700 RPM)
+edge:         +41.0°C  (crit = +94.0°C, hyst = -273.1°C)
+slowPPT:       9.05 W  (cap = 127.00 W)
+
+nvme-pci-0900
+Adapter: PCI adapter
+Composite:    +32.9°C  (low  = -273.1°C, high = +84.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +32.9°C  (low  = -273.1°C, high = +65261.8°C)
+Sensor 2:     +38.9°C  (low  = -273.1°C, high = +65261.8°C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +48.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 0:        +47.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 1:        +46.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 2:        +48.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 3:        +43.0°C  (high = +80.0°C, crit = +100.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  (crit = +119.0°C)
+temp2:        +29.8°C  (crit = +119.0°C)
+
+amdgpu-pci-0100
+Adapter: PCI adapter
+vddgfx:      800.00 mV 
+fan1:        2010 RPM  (min =    0 RPM, max = 3700 RPM)
+edge:         +40.0°C  (crit = +94.0°C, hyst = -273.1°C)
+slowPPT:       9.01 W  (cap = 127.00 W)
+
+nvme-pci-0900
+Adapter: PCI adapter
+Composite:    +32.9°C  (low  = -273.1°C, high = +84.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +32.9°C  (low  = -273.1°C, high = +65261.8°C)
+Sensor 2:     +38.9°C  (low  = -273.1°C, high = +65261.8°C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +48.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 0:        +47.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 1:        +46.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 2:        +48.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 3:        +43.0°C  (high = +80.0°C, crit = +100.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  (crit = +119.0°C)
+temp2:        +29.8°C  (crit = +119.0°C)
+
+amdgpu-pci-0100
+Adapter: PCI adapter
+vddgfx:      750.00 mV 
+fan1:        2010 RPM  (min =    0 RPM, max = 3700 RPM)
+edge:         +40.0°C  (crit = +94.0°C, hyst = -273.1°C)
+slowPPT:       9.01 W  (cap = 127.00 W)
+
+nvme-pci-0900
+Adapter: PCI adapter
+Composite:    +32.9°C  (low  = -273.1°C, high = +84.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +32.9°C  (low  = -273.1°C, high = +65261.8°C)
+Sensor 2:     +38.9°C  (low  = -273.1°C, high = +65261.8°C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +48.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 0:        +47.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 1:        +46.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 2:        +48.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 3:        +43.0°C  (high = +80.0°C, crit = +100.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  (crit = +119.0°C)
+temp2:        +29.8°C  (crit = +119.0°C)
+
+amdgpu-pci-0100
+Adapter: PCI adapter
+vddgfx:      750.00 mV 
+fan1:        2010 RPM  (min =    0 RPM, max = 3700 RPM)
+edge:         +40.0°C  (crit = +94.0°C, hyst = -273.1°C)
+slowPPT:       9.01 W  (cap = 127.00 W)
+
+nvme-pci-0900
+Adapter: PCI adapter
+Composite:    +32.9°C  (low  = -273.1°C, high = +84.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +32.9°C  (low  = -273.1°C, high = +65261.8°C)
+Sensor 2:     +38.9°C  (low  = -273.1°C, high = +65261.8°C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +48.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 0:        +47.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 1:        +46.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 2:        +48.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 3:        +43.0°C  (high = +80.0°C, crit = +100.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  (crit = +119.0°C)
+temp2:        +29.8°C  (crit = +119.0°C)
+
+amdgpu-pci-0100
+Adapter: PCI adapter
+vddgfx:      750.00 mV 
+fan1:        2010 RPM  (min =    0 RPM, max = 3700 RPM)
+edge:         +40.0°C  (crit = +94.0°C, hyst = -273.1°C)
+slowPPT:       9.01 W  (cap = 127.00 W)
+
+nvme-pci-0900
+Adapter: PCI adapter
+Composite:    +32.9°C  (low  = -273.1°C, high = +84.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +32.9°C  (low  = -273.1°C, high = +65261.8°C)
+Sensor 2:     +38.9°C  (low  = -273.1°C, high = +65261.8°C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +48.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 0:        +47.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 1:        +46.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 2:        +48.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 3:        +43.0°C  (high = +80.0°C, crit = +100.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  (crit = +119.0°C)
+temp2:        +29.8°C  (crit = +119.0°C)
+
+amdgpu-pci-0100
+Adapter: PCI adapter
+vddgfx:      750.00 mV 
+fan1:        2010 RPM  (min =    0 RPM, max = 3700 RPM)
+edge:         +40.0°C  (crit = +94.0°C, hyst = -273.1°C)
+slowPPT:       9.00 W  (cap = 127.00 W)
+
+nvme-pci-0900
+Adapter: PCI adapter
+Composite:    +32.9°C  (low  = -273.1°C, high = +84.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +32.9°C  (low  = -273.1°C, high = +65261.8°C)
+Sensor 2:     +38.9°C  (low  = -273.1°C, high = +65261.8°C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +48.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 0:        +47.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 1:        +46.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 2:        +48.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 3:        +43.0°C  (high = +80.0°C, crit = +100.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  (crit = +119.0°C)
+temp2:        +29.8°C  (crit = +119.0°C)
+
+amdgpu-pci-0100
+Adapter: PCI adapter
+vddgfx:      750.00 mV 
+fan1:        2010 RPM  (min =    0 RPM, max = 3700 RPM)
+edge:         +40.0°C  (crit = +94.0°C, hyst = -273.1°C)
+slowPPT:       9.01 W  (cap = 127.00 W)
+
+nvme-pci-0900
+Adapter: PCI adapter
+Composite:    +32.9°C  (low  = -273.1°C, high = +84.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +32.9°C  (low  = -273.1°C, high = +65261.8°C)
+Sensor 2:     +38.9°C  (low  = -273.1°C, high = +65261.8°C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +48.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 0:        +47.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 1:        +46.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 2:        +48.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 3:        +43.0°C  (high = +80.0°C, crit = +100.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  (crit = +119.0°C)
+temp2:        +29.8°C  (crit = +119.0°C)
+
+amdgpu-pci-0100
+Adapter: PCI adapter
+vddgfx:      881.00 mV 
+fan1:        2010 RPM  (min =    0 RPM, max = 3700 RPM)
+edge:         +40.0°C  (crit = +94.0°C, hyst = -273.1°C)
+slowPPT:       9.10 W  (cap = 127.00 W)
+
+nvme-pci-0900
+Adapter: PCI adapter
+Composite:    +32.9°C  (low  = -273.1°C, high = +84.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +32.9°C  (low  = -273.1°C, high = +65261.8°C)
+Sensor 2:     +38.9°C  (low  = -273.1°C, high = +65261.8°C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +48.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 0:        +47.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 1:        +46.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 2:        +48.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 3:        +43.0°C  (high = +80.0°C, crit = +100.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  (crit = +119.0°C)
+temp2:        +29.8°C  (crit = +119.0°C)
+
+amdgpu-pci-0100
+Adapter: PCI adapter
+vddgfx:      881.00 mV 
+fan1:        2010 RPM  (min =    0 RPM, max = 3700 RPM)
+edge:         +40.0°C  (crit = +94.0°C, hyst = -273.1°C)
+slowPPT:       9.19 W  (cap = 127.00 W)
+
+nvme-pci-0900
+Adapter: PCI adapter
+Composite:    +32.9°C  (low  = -273.1°C, high = +84.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +32.9°C  (low  = -273.1°C, high = +65261.8°C)
+Sensor 2:     +38.9°C  (low  = -273.1°C, high = +65261.8°C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +48.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 0:        +47.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 1:        +46.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 2:        +48.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 3:        +43.0°C  (high = +80.0°C, crit = +100.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  (crit = +119.0°C)
+temp2:        +29.8°C  (crit = +119.0°C)
+
+amdgpu-pci-0100
+Adapter: PCI adapter
+vddgfx:      881.00 mV 
+fan1:        2010 RPM  (min =    0 RPM, max = 3700 RPM)
+edge:         +40.0°C  (crit = +94.0°C, hyst = -273.1°C)
+slowPPT:       9.25 W  (cap = 127.00 W)
+
+nvme-pci-0900
+Adapter: PCI adapter
+Composite:    +32.9°C  (low  = -273.1°C, high = +84.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +32.9°C  (low  = -273.1°C, high = +65261.8°C)
+Sensor 2:     +38.9°C  (low  = -273.1°C, high = +65261.8°C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +48.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 0:        +47.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 1:        +46.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 2:        +48.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 3:        +43.0°C  (high = +80.0°C, crit = +100.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  (crit = +119.0°C)
+temp2:        +29.8°C  (crit = +119.0°C)
+
+amdgpu-pci-0100
+Adapter: PCI adapter
+vddgfx:      881.00 mV 
+fan1:        2010 RPM  (min =    0 RPM, max = 3700 RPM)
+edge:         +40.0°C  (crit = +94.0°C, hyst = -273.1°C)
+slowPPT:      10.04 W  (cap = 127.00 W)
+
+nvme-pci-0900
+Adapter: PCI adapter
+Composite:    +32.9°C  (low  = -273.1°C, high = +84.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +32.9°C  (low  = -273.1°C, high = +65261.8°C)
+Sensor 2:     +38.9°C  (low  = -273.1°C, high = +65261.8°C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +48.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 0:        +47.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 1:        +46.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 2:        +48.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 3:        +43.0°C  (high = +80.0°C, crit = +100.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  (crit = +119.0°C)
+temp2:        +29.8°C  (crit = +119.0°C)
+
+amdgpu-pci-0100
+Adapter: PCI adapter
+vddgfx:      881.00 mV 
+fan1:        2010 RPM  (min =    0 RPM, max = 3700 RPM)
+edge:         +40.0°C  (crit = +94.0°C, hyst = -273.1°C)
+slowPPT:      10.11 W  (cap = 127.00 W)
+
+nvme-pci-0900
+Adapter: PCI adapter
+Composite:    +32.9°C  (low  = -273.1°C, high = +84.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +32.9°C  (low  = -273.1°C, high = +65261.8°C)
+Sensor 2:     +38.9°C  (low  = -273.1°C, high = +65261.8°C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +48.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 0:        +47.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 1:        +46.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 2:        +48.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 3:        +43.0°C  (high = +80.0°C, crit = +100.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  (crit = +119.0°C)
+temp2:        +29.8°C  (crit = +119.0°C)
+
+amdgpu-pci-0100
+Adapter: PCI adapter
+vddgfx:      881.00 mV 
+fan1:        2010 RPM  (min =    0 RPM, max = 3700 RPM)
+edge:         +40.0°C  (crit = +94.0°C, hyst = -273.1°C)
+slowPPT:      10.18 W  (cap = 127.00 W)
+
+nvme-pci-0900
+Adapter: PCI adapter
+Composite:    +32.9°C  (low  = -273.1°C, high = +84.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +32.9°C  (low  = -273.1°C, high = +65261.8°C)
+Sensor 2:     +38.9°C  (low  = -273.1°C, high = +65261.8°C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +48.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 0:        +47.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 1:        +46.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 2:        +48.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 3:        +43.0°C  (high = +80.0°C, crit = +100.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  (crit = +119.0°C)
+temp2:        +29.8°C  (crit = +119.0°C)
+
+amdgpu-pci-0100
+Adapter: PCI adapter
+vddgfx:      881.00 mV 
+fan1:        2010 RPM  (min =    0 RPM, max = 3700 RPM)
+edge:         +40.0°C  (crit = +94.0°C, hyst = -273.1°C)
+slowPPT:      10.22 W  (cap = 127.00 W)
+
+nvme-pci-0900
+Adapter: PCI adapter
+Composite:    +32.9°C  (low  = -273.1°C, high = +84.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +32.9°C  (low  = -273.1°C, high = +65261.8°C)
+Sensor 2:     +38.9°C  (low  = -273.1°C, high = +65261.8°C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +48.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 0:        +47.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 1:        +46.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 2:        +48.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 3:        +43.0°C  (high = +80.0°C, crit = +100.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  (crit = +119.0°C)
+temp2:        +29.8°C  (crit = +119.0°C)
+
+amdgpu-pci-0100
+Adapter: PCI adapter
+vddgfx:      881.00 mV 
+fan1:        2010 RPM  (min =    0 RPM, max = 3700 RPM)
+edge:         +40.0°C  (crit = +94.0°C, hyst = -273.1°C)
+slowPPT:      11.00 W  (cap = 127.00 W)
+
+nvme-pci-0900
+Adapter: PCI adapter
+Composite:    +32.9°C  (low  = -273.1°C, high = +84.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +32.9°C  (low  = -273.1°C, high = +65261.8°C)
+Sensor 2:     +38.9°C  (low  = -273.1°C, high = +65261.8°C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +48.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 0:        +47.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 1:        +46.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 2:        +48.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 3:        +43.0°C  (high = +80.0°C, crit = +100.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  (crit = +119.0°C)
+temp2:        +29.8°C  (crit = +119.0°C)
+
+amdgpu-pci-0100
+Adapter: PCI adapter
+vddgfx:      881.00 mV 
+fan1:        2010 RPM  (min =    0 RPM, max = 3700 RPM)
+edge:         +40.0°C  (crit = +94.0°C, hyst = -273.1°C)
+slowPPT:      11.05 W  (cap = 127.00 W)
+
+nvme-pci-0900
+Adapter: PCI adapter
+Composite:    +32.9°C  (low  = -273.1°C, high = +84.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +32.9°C  (low  = -273.1°C, high = +65261.8°C)
+Sensor 2:     +38.9°C  (low  = -273.1°C, high = +65261.8°C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +48.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 0:        +47.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 1:        +46.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 2:        +48.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 3:        +43.0°C  (high = +80.0°C, crit = +100.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  (crit = +119.0°C)
+temp2:        +29.8°C  (crit = +119.0°C)
+
+amdgpu-pci-0100
+Adapter: PCI adapter
+vddgfx:      750.00 mV 
+fan1:        2010 RPM  (min =    0 RPM, max = 3700 RPM)
+edge:         +40.0°C  (crit = +94.0°C, hyst = -273.1°C)
+slowPPT:      11.00 W  (cap = 127.00 W)
+
+nvme-pci-0900
+Adapter: PCI adapter
+Composite:    +32.9°C  (low  = -273.1°C, high = +84.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +32.9°C  (low  = -273.1°C, high = +65261.8°C)
+Sensor 2:     +38.9°C  (low  = -273.1°C, high = +65261.8°C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +48.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 0:        +47.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 1:        +46.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 2:        +48.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 3:        +43.0°C  (high = +80.0°C, crit = +100.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  (crit = +119.0°C)
+temp2:        +29.8°C  (crit = +119.0°C)
+
+amdgpu-pci-0100
+Adapter: PCI adapter
+vddgfx:      750.00 mV 
+fan1:        2010 RPM  (min =    0 RPM, max = 3700 RPM)
+edge:         +40.0°C  (crit = +94.0°C, hyst = -273.1°C)
+slowPPT:      10.19 W  (cap = 127.00 W)
+
+nvme-pci-0900
+Adapter: PCI adapter
+Composite:    +32.9°C  (low  = -273.1°C, high = +84.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +32.9°C  (low  = -273.1°C, high = +65261.8°C)
+Sensor 2:     +38.9°C  (low  = -273.1°C, high = +65261.8°C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +48.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 0:        +47.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 1:        +46.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 2:        +48.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 3:        +43.0°C  (high = +80.0°C, crit = +100.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  (crit = +119.0°C)
+temp2:        +29.8°C  (crit = +119.0°C)
+
+amdgpu-pci-0100
+Adapter: PCI adapter
+vddgfx:      750.00 mV 
+fan1:        2010 RPM  (min =    0 RPM, max = 3700 RPM)
+edge:         +40.0°C  (crit = +94.0°C, hyst = -273.1°C)
+slowPPT:      10.15 W  (cap = 127.00 W)
+
+nvme-pci-0900
+Adapter: PCI adapter
+Composite:    +32.9°C  (low  = -273.1°C, high = +84.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +32.9°C  (low  = -273.1°C, high = +65261.8°C)
+Sensor 2:     +38.9°C  (low  = -273.1°C, high = +65261.8°C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +48.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 0:        +47.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 1:        +46.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 2:        +48.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 3:        +43.0°C  (high = +80.0°C, crit = +100.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  (crit = +119.0°C)
+temp2:        +29.8°C  (crit = +119.0°C)
+
+amdgpu-pci-0100
+Adapter: PCI adapter
+vddgfx:      800.00 mV 
+fan1:        2010 RPM  (min =    0 RPM, max = 3700 RPM)
+edge:         +40.0°C  (crit = +94.0°C, hyst = -273.1°C)
+slowPPT:      10.12 W  (cap = 127.00 W)
+
+nvme-pci-0900
+Adapter: PCI adapter
+Composite:    +32.9°C  (low  = -273.1°C, high = +84.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +32.9°C  (low  = -273.1°C, high = +65261.8°C)
+Sensor 2:     +38.9°C  (low  = -273.1°C, high = +65261.8°C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +48.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 0:        +47.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 1:        +46.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 2:        +48.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 3:        +43.0°C  (high = +80.0°C, crit = +100.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  (crit = +119.0°C)
+temp2:        +29.8°C  (crit = +119.0°C)
+
+amdgpu-pci-0100
+Adapter: PCI adapter
+vddgfx:      750.00 mV 
+fan1:        2010 RPM  (min =    0 RPM, max = 3700 RPM)
+edge:         +40.0°C  (crit = +94.0°C, hyst = -273.1°C)
+slowPPT:      10.08 W  (cap = 127.00 W)
+
+nvme-pci-0900
+Adapter: PCI adapter
+Composite:    +32.9°C  (low  = -273.1°C, high = +84.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +32.9°C  (low  = -273.1°C, high = +65261.8°C)
+Sensor 2:     +38.9°C  (low  = -273.1°C, high = +65261.8°C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +48.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 0:        +47.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 1:        +46.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 2:        +48.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 3:        +43.0°C  (high = +80.0°C, crit = +100.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  (crit = +119.0°C)
+temp2:        +29.8°C  (crit = +119.0°C)
+
+amdgpu-pci-0100
+Adapter: PCI adapter
+vddgfx:      750.00 mV 
+fan1:        2010 RPM  (min =    0 RPM, max = 3700 RPM)
+edge:         +40.0°C  (crit = +94.0°C, hyst = -273.1°C)
+slowPPT:      10.01 W  (cap = 127.00 W)
+
+nvme-pci-0900
+Adapter: PCI adapter
+Composite:    +32.9°C  (low  = -273.1°C, high = +84.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +32.9°C  (low  = -273.1°C, high = +65261.8°C)
+Sensor 2:     +38.9°C  (low  = -273.1°C, high = +65261.8°C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +48.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 0:        +47.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 1:        +46.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 2:        +48.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 3:        +43.0°C  (high = +80.0°C, crit = +100.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  (crit = +119.0°C)
+temp2:        +29.8°C  (crit = +119.0°C)
+
+amdgpu-pci-0100
+Adapter: PCI adapter
+vddgfx:      750.00 mV 
+fan1:        2010 RPM  (min =    0 RPM, max = 3700 RPM)
+edge:         +40.0°C  (crit = +94.0°C, hyst = -273.1°C)
+slowPPT:       9.23 W  (cap = 127.00 W)
+
+nvme-pci-0900
+Adapter: PCI adapter
+Composite:    +32.9°C  (low  = -273.1°C, high = +84.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +32.9°C  (low  = -273.1°C, high = +65261.8°C)
+Sensor 2:     +38.9°C  (low  = -273.1°C, high = +65261.8°C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +48.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 0:        +47.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 1:        +46.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 2:        +48.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 3:        +43.0°C  (high = +80.0°C, crit = +100.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  (crit = +119.0°C)
+temp2:        +29.8°C  (crit = +119.0°C)
+
+amdgpu-pci-0100
+Adapter: PCI adapter
+vddgfx:      750.00 mV 
+fan1:        2010 RPM  (min =    0 RPM, max = 3700 RPM)
+edge:         +40.0°C  (crit = +94.0°C, hyst = -273.1°C)
+slowPPT:       9.21 W  (cap = 127.00 W)
+
+nvme-pci-0900
+Adapter: PCI adapter
+Composite:    +32.9°C  (low  = -273.1°C, high = +84.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +32.9°C  (low  = -273.1°C, high = +65261.8°C)
+Sensor 2:     +38.9°C  (low  = -273.1°C, high = +65261.8°C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +48.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 0:        +47.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 1:        +46.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 2:        +48.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 3:        +43.0°C  (high = +80.0°C, crit = +100.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  (crit = +119.0°C)
+temp2:        +29.8°C  (crit = +119.0°C)
+
+amdgpu-pci-0100
+Adapter: PCI adapter
+vddgfx:      750.00 mV 
+fan1:        2010 RPM  (min =    0 RPM, max = 3700 RPM)
+edge:         +40.0°C  (crit = +94.0°C, hyst = -273.1°C)
+slowPPT:       9.18 W  (cap = 127.00 W)
+
+nvme-pci-0900
+Adapter: PCI adapter
+Composite:    +32.9°C  (low  = -273.1°C, high = +84.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +32.9°C  (low  = -273.1°C, high = +65261.8°C)
+Sensor 2:     +38.9°C  (low  = -273.1°C, high = +65261.8°C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +48.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 0:        +47.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 1:        +46.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 2:        +48.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 3:        +43.0°C  (high = +80.0°C, crit = +100.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  (crit = +119.0°C)
+temp2:        +29.8°C  (crit = +119.0°C)
+
+amdgpu-pci-0100
+Adapter: PCI adapter
+vddgfx:      750.00 mV 
+fan1:        2010 RPM  (min =    0 RPM, max = 3700 RPM)
+edge:         +40.0°C  (crit = +94.0°C, hyst = -273.1°C)
+slowPPT:       9.17 W  (cap = 127.00 W)
+
+nvme-pci-0900
+Adapter: PCI adapter
+Composite:    +32.9°C  (low  = -273.1°C, high = +84.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +32.9°C  (low  = -273.1°C, high = +65261.8°C)
+Sensor 2:     +38.9°C  (low  = -273.1°C, high = +65261.8°C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +48.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 0:        +47.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 1:        +46.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 2:        +48.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 3:        +43.0°C  (high = +80.0°C, crit = +100.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  (crit = +119.0°C)
+temp2:        +29.8°C  (crit = +119.0°C)
+
+amdgpu-pci-0100
+Adapter: PCI adapter
+vddgfx:      750.00 mV 
+fan1:        2010 RPM  (min =    0 RPM, max = 3700 RPM)
+edge:         +40.0°C  (crit = +94.0°C, hyst = -273.1°C)
+slowPPT:       9.14 W  (cap = 127.00 W)
+
+nvme-pci-0900
+Adapter: PCI adapter
+Composite:    +32.9°C  (low  = -273.1°C, high = +84.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +32.9°C  (low  = -273.1°C, high = +65261.8°C)
+Sensor 2:     +38.9°C  (low  = -273.1°C, high = +65261.8°C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +48.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 0:        +47.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 1:        +46.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 2:        +48.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 3:        +43.0°C  (high = +80.0°C, crit = +100.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  (crit = +119.0°C)
+temp2:        +29.8°C  (crit = +119.0°C)
+
+amdgpu-pci-0100
+Adapter: PCI adapter
+vddgfx:      800.00 mV 
+fan1:        2010 RPM  (min =    0 RPM, max = 3700 RPM)
+edge:         +40.0°C  (crit = +94.0°C, hyst = -273.1°C)
+slowPPT:       9.13 W  (cap = 127.00 W)
+
+nvme-pci-0900
+Adapter: PCI adapter
+Composite:    +32.9°C  (low  = -273.1°C, high = +84.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +32.9°C  (low  = -273.1°C, high = +65261.8°C)
+Sensor 2:     +38.9°C  (low  = -273.1°C, high = +65261.8°C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +48.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 0:        +47.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 1:        +46.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 2:        +48.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 3:        +43.0°C  (high = +80.0°C, crit = +100.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  (crit = +119.0°C)
+temp2:        +29.8°C  (crit = +119.0°C)
+
+amdgpu-pci-0100
+Adapter: PCI adapter
+vddgfx:      750.00 mV 
+fan1:        2010 RPM  (min =    0 RPM, max = 3700 RPM)
+edge:         +40.0°C  (crit = +94.0°C, hyst = -273.1°C)
+slowPPT:       9.11 W  (cap = 127.00 W)
+
+nvme-pci-0900
+Adapter: PCI adapter
+Composite:    +32.9°C  (low  = -273.1°C, high = +84.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +32.9°C  (low  = -273.1°C, high = +65261.8°C)
+Sensor 2:     +38.9°C  (low  = -273.1°C, high = +65261.8°C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +48.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 0:        +47.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 1:        +46.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 2:        +48.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 3:        +43.0°C  (high = +80.0°C, crit = +100.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  (crit = +119.0°C)
+temp2:        +29.8°C  (crit = +119.0°C)
+
+amdgpu-pci-0100
+Adapter: PCI adapter
+vddgfx:      750.00 mV 
+fan1:        2010 RPM  (min =    0 RPM, max = 3700 RPM)
+edge:         +40.0°C  (crit = +94.0°C, hyst = -273.1°C)
+slowPPT:       9.09 W  (cap = 127.00 W)
+
+nvme-pci-0900
+Adapter: PCI adapter
+Composite:    +32.9°C  (low  = -273.1°C, high = +84.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +32.9°C  (low  = -273.1°C, high = +65261.8°C)
+Sensor 2:     +38.9°C  (low  = -273.1°C, high = +65261.8°C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +48.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 0:        +47.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 1:        +46.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 2:        +48.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 3:        +43.0°C  (high = +80.0°C, crit = +100.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  (crit = +119.0°C)
+temp2:        +29.8°C  (crit = +119.0°C)
+
+amdgpu-pci-0100
+Adapter: PCI adapter
+vddgfx:      750.00 mV 
+fan1:        2010 RPM  (min =    0 RPM, max = 3700 RPM)
+edge:         +40.0°C  (crit = +94.0°C, hyst = -273.1°C)
+slowPPT:       9.07 W  (cap = 127.00 W)
+
+nvme-pci-0900
+Adapter: PCI adapter
+Composite:    +32.9°C  (low  = -273.1°C, high = +84.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +32.9°C  (low  = -273.1°C, high = +65261.8°C)
+Sensor 2:     +39.9°C  (low  = -273.1°C, high = +65261.8°C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +48.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 0:        +47.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 1:        +46.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 2:        +48.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 3:        +43.0°C  (high = +80.0°C, crit = +100.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  (crit = +119.0°C)
+temp2:        +29.8°C  (crit = +119.0°C)
+
+amdgpu-pci-0100
+Adapter: PCI adapter
+vddgfx:      750.00 mV 
+fan1:        2010 RPM  (min =    0 RPM, max = 3700 RPM)
+edge:         +40.0°C  (crit = +94.0°C, hyst = -273.1°C)
+slowPPT:       9.05 W  (cap = 127.00 W)
+
+nvme-pci-0900
+Adapter: PCI adapter
+Composite:    +32.9°C  (low  = -273.1°C, high = +84.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +32.9°C  (low  = -273.1°C, high = +65261.8°C)
+Sensor 2:     +39.9°C  (low  = -273.1°C, high = +65261.8°C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +48.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 0:        +47.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 1:        +46.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 2:        +48.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 3:        +43.0°C  (high = +80.0°C, crit = +100.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  (crit = +119.0°C)
+temp2:        +29.8°C  (crit = +119.0°C)
+
+amdgpu-pci-0100
+Adapter: PCI adapter
+vddgfx:      750.00 mV 
+fan1:        2010 RPM  (min =    0 RPM, max = 3700 RPM)
+edge:         +40.0°C  (crit = +94.0°C, hyst = -273.1°C)
+slowPPT:       9.04 W  (cap = 127.00 W)
+
+nvme-pci-0900
+Adapter: PCI adapter
+Composite:    +32.9°C  (low  = -273.1°C, high = +84.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +32.9°C  (low  = -273.1°C, high = +65261.8°C)
+Sensor 2:     +39.9°C  (low  = -273.1°C, high = +65261.8°C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +48.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 0:        +47.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 1:        +46.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 2:        +48.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 3:        +43.0°C  (high = +80.0°C, crit = +100.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  (crit = +119.0°C)
+temp2:        +29.8°C  (crit = +119.0°C)
+
+amdgpu-pci-0100
+Adapter: PCI adapter
+vddgfx:      750.00 mV 
+fan1:        2010 RPM  (min =    0 RPM, max = 3700 RPM)
+edge:         +40.0°C  (crit = +94.0°C, hyst = -273.1°C)
+slowPPT:       9.03 W  (cap = 127.00 W)
+
+nvme-pci-0900
+Adapter: PCI adapter
+Composite:    +32.9°C  (low  = -273.1°C, high = +84.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +32.9°C  (low  = -273.1°C, high = +65261.8°C)
+Sensor 2:     +39.9°C  (low  = -273.1°C, high = +65261.8°C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +48.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 0:        +47.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 1:        +46.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 2:        +48.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 3:        +43.0°C  (high = +80.0°C, crit = +100.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  (crit = +119.0°C)
+temp2:        +29.8°C  (crit = +119.0°C)
+
+amdgpu-pci-0100
+Adapter: PCI adapter
+vddgfx:      750.00 mV 
+fan1:        2010 RPM  (min =    0 RPM, max = 3700 RPM)
+edge:         +40.0°C  (crit = +94.0°C, hyst = -273.1°C)
+slowPPT:       9.02 W  (cap = 127.00 W)
+
+nvme-pci-0900
+Adapter: PCI adapter
+Composite:    +32.9°C  (low  = -273.1°C, high = +84.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +32.9°C  (low  = -273.1°C, high = +65261.8°C)
+Sensor 2:     +39.9°C  (low  = -273.1°C, high = +65261.8°C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +48.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 0:        +47.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 1:        +46.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 2:        +48.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 3:        +43.0°C  (high = +80.0°C, crit = +100.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  (crit = +119.0°C)
+temp2:        +29.8°C  (crit = +119.0°C)
+
+amdgpu-pci-0100
+Adapter: PCI adapter
+vddgfx:      750.00 mV 
+fan1:        2010 RPM  (min =    0 RPM, max = 3700 RPM)
+edge:         +40.0°C  (crit = +94.0°C, hyst = -273.1°C)
+slowPPT:       9.00 W  (cap = 127.00 W)
+
+nvme-pci-0900
+Adapter: PCI adapter
+Composite:    +32.9°C  (low  = -273.1°C, high = +84.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +32.9°C  (low  = -273.1°C, high = +65261.8°C)
+Sensor 2:     +39.9°C  (low  = -273.1°C, high = +65261.8°C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +48.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 0:        +47.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 1:        +46.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 2:        +48.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 3:        +43.0°C  (high = +80.0°C, crit = +100.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  (crit = +119.0°C)
+temp2:        +29.8°C  (crit = +119.0°C)
+
+amdgpu-pci-0100
+Adapter: PCI adapter
+vddgfx:      750.00 mV 
+fan1:        2010 RPM  (min =    0 RPM, max = 3700 RPM)
+edge:         +40.0°C  (crit = +94.0°C, hyst = -273.1°C)
+slowPPT:       8.25 W  (cap = 127.00 W)
+
+nvme-pci-0900
+Adapter: PCI adapter
+Composite:    +32.9°C  (low  = -273.1°C, high = +84.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +32.9°C  (low  = -273.1°C, high = +65261.8°C)
+Sensor 2:     +39.9°C  (low  = -273.1°C, high = +65261.8°C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +48.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 0:        +47.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 1:        +46.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 2:        +48.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 3:        +43.0°C  (high = +80.0°C, crit = +100.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  (crit = +119.0°C)
+temp2:        +29.8°C  (crit = +119.0°C)
+
+amdgpu-pci-0100
+Adapter: PCI adapter
+vddgfx:      750.00 mV 
+fan1:        2010 RPM  (min =    0 RPM, max = 3700 RPM)
+edge:         +40.0°C  (crit = +94.0°C, hyst = -273.1°C)
+slowPPT:       8.25 W  (cap = 127.00 W)
+
+nvme-pci-0900
+Adapter: PCI adapter
+Composite:    +32.9°C  (low  = -273.1°C, high = +84.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +32.9°C  (low  = -273.1°C, high = +65261.8°C)
+Sensor 2:     +39.9°C  (low  = -273.1°C, high = +65261.8°C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +48.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 0:        +47.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 1:        +46.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 2:        +48.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 3:        +43.0°C  (high = +80.0°C, crit = +100.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  (crit = +119.0°C)
+temp2:        +29.8°C  (crit = +119.0°C)
+
+amdgpu-pci-0100
+Adapter: PCI adapter
+vddgfx:      750.00 mV 
+fan1:        2010 RPM  (min =    0 RPM, max = 3700 RPM)
+edge:         +40.0°C  (crit = +94.0°C, hyst = -273.1°C)
+slowPPT:       8.24 W  (cap = 127.00 W)
+
+nvme-pci-0900
+Adapter: PCI adapter
+Composite:    +32.9°C  (low  = -273.1°C, high = +84.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +32.9°C  (low  = -273.1°C, high = +65261.8°C)
+Sensor 2:     +39.9°C  (low  = -273.1°C, high = +65261.8°C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +48.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 0:        +47.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 1:        +46.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 2:        +48.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 3:        +43.0°C  (high = +80.0°C, crit = +100.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  (crit = +119.0°C)
+temp2:        +29.8°C  (crit = +119.0°C)
+
+amdgpu-pci-0100
+Adapter: PCI adapter
+vddgfx:      750.00 mV 
+fan1:        2010 RPM  (min =    0 RPM, max = 3700 RPM)
+edge:         +40.0°C  (crit = +94.0°C, hyst = -273.1°C)
+slowPPT:       8.25 W  (cap = 127.00 W)
+
+nvme-pci-0900
+Adapter: PCI adapter
+Composite:    +32.9°C  (low  = -273.1°C, high = +84.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +32.9°C  (low  = -273.1°C, high = +65261.8°C)
+Sensor 2:     +39.9°C  (low  = -273.1°C, high = +65261.8°C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +48.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 0:        +47.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 1:        +46.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 2:        +48.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 3:        +43.0°C  (high = +80.0°C, crit = +100.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  (crit = +119.0°C)
+temp2:        +29.8°C  (crit = +119.0°C)
+
+amdgpu-pci-0100
+Adapter: PCI adapter
+vddgfx:      750.00 mV 
+fan1:        2010 RPM  (min =    0 RPM, max = 3700 RPM)
+edge:         +40.0°C  (crit = +94.0°C, hyst = -273.1°C)
+slowPPT:       9.01 W  (cap = 127.00 W)
+
+nvme-pci-0900
+Adapter: PCI adapter
+Composite:    +32.9°C  (low  = -273.1°C, high = +84.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +32.9°C  (low  = -273.1°C, high = +65261.8°C)
+Sensor 2:     +39.9°C  (low  = -273.1°C, high = +65261.8°C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +48.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 0:        +47.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 1:        +46.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 2:        +48.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 3:        +43.0°C  (high = +80.0°C, crit = +100.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  (crit = +119.0°C)
+temp2:        +29.8°C  (crit = +119.0°C)
+
+amdgpu-pci-0100
+Adapter: PCI adapter
+vddgfx:      750.00 mV 
+fan1:        2010 RPM  (min =    0 RPM, max = 3700 RPM)
+edge:         +40.0°C  (crit = +94.0°C, hyst = -273.1°C)
+slowPPT:       9.01 W  (cap = 127.00 W)
+
+nvme-pci-0900
+Adapter: PCI adapter
+Composite:    +32.9°C  (low  = -273.1°C, high = +84.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +32.9°C  (low  = -273.1°C, high = +65261.8°C)
+Sensor 2:     +39.9°C  (low  = -273.1°C, high = +65261.8°C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +48.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 0:        +47.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 1:        +46.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 2:        +48.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 3:        +43.0°C  (high = +80.0°C, crit = +100.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  (crit = +119.0°C)
+temp2:        +29.8°C  (crit = +119.0°C)
+
+amdgpu-pci-0100
+Adapter: PCI adapter
+vddgfx:      750.00 mV 
+fan1:        2010 RPM  (min =    0 RPM, max = 3700 RPM)
+edge:         +40.0°C  (crit = +94.0°C, hyst = -273.1°C)
+slowPPT:       9.01 W  (cap = 127.00 W)
+
+nvme-pci-0900
+Adapter: PCI adapter
+Composite:    +32.9°C  (low  = -273.1°C, high = +84.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +32.9°C  (low  = -273.1°C, high = +65261.8°C)
+Sensor 2:     +39.9°C  (low  = -273.1°C, high = +65261.8°C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +48.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 0:        +47.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 1:        +46.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 2:        +48.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 3:        +43.0°C  (high = +80.0°C, crit = +100.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  (crit = +119.0°C)
+temp2:        +29.8°C  (crit = +119.0°C)
+
+amdgpu-pci-0100
+Adapter: PCI adapter
+vddgfx:      800.00 mV 
+fan1:        2010 RPM  (min =    0 RPM, max = 3700 RPM)
+edge:         +40.0°C  (crit = +94.0°C, hyst = -273.1°C)
+slowPPT:       9.04 W  (cap = 127.00 W)
+
+nvme-pci-0900
+Adapter: PCI adapter
+Composite:    +32.9°C  (low  = -273.1°C, high = +84.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +32.9°C  (low  = -273.1°C, high = +65261.8°C)
+Sensor 2:     +39.9°C  (low  = -273.1°C, high = +65261.8°C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +48.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 0:        +47.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 1:        +46.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 2:        +48.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 3:        +43.0°C  (high = +80.0°C, crit = +100.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  (crit = +119.0°C)
+temp2:        +29.8°C  (crit = +119.0°C)
+
+amdgpu-pci-0100
+Adapter: PCI adapter
+vddgfx:      750.00 mV 
+fan1:        2010 RPM  (min =    0 RPM, max = 3700 RPM)
+edge:         +40.0°C  (crit = +94.0°C, hyst = -273.1°C)
+slowPPT:       9.05 W  (cap = 127.00 W)
+
+nvme-pci-0900
+Adapter: PCI adapter
+Composite:    +32.9°C  (low  = -273.1°C, high = +84.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +32.9°C  (low  = -273.1°C, high = +65261.8°C)
+Sensor 2:     +39.9°C  (low  = -273.1°C, high = +65261.8°C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +48.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 0:        +47.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 1:        +46.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 2:        +48.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 3:        +43.0°C  (high = +80.0°C, crit = +100.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  (crit = +119.0°C)
+temp2:        +29.8°C  (crit = +119.0°C)
+
+amdgpu-pci-0100
+Adapter: PCI adapter
+vddgfx:      750.00 mV 
+fan1:        2010 RPM  (min =    0 RPM, max = 3700 RPM)
+edge:         +40.0°C  (crit = +94.0°C, hyst = -273.1°C)
+slowPPT:       9.04 W  (cap = 127.00 W)
+
+nvme-pci-0900
+Adapter: PCI adapter
+Composite:    +32.9°C  (low  = -273.1°C, high = +84.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +32.9°C  (low  = -273.1°C, high = +65261.8°C)
+Sensor 2:     +39.9°C  (low  = -273.1°C, high = +65261.8°C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +48.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 0:        +47.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 1:        +46.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 2:        +48.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 3:        +43.0°C  (high = +80.0°C, crit = +100.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  (crit = +119.0°C)
+temp2:        +29.8°C  (crit = +119.0°C)
+
+amdgpu-pci-0100
+Adapter: PCI adapter
+vddgfx:      750.00 mV 
+fan1:        2010 RPM  (min =    0 RPM, max = 3700 RPM)
+edge:         +40.0°C  (crit = +94.0°C, hyst = -273.1°C)
+slowPPT:       9.04 W  (cap = 127.00 W)
+
+nvme-pci-0900
+Adapter: PCI adapter
+Composite:    +32.9°C  (low  = -273.1°C, high = +84.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +32.9°C  (low  = -273.1°C, high = +65261.8°C)
+Sensor 2:     +39.9°C  (low  = -273.1°C, high = +65261.8°C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +48.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 0:        +47.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 1:        +46.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 2:        +48.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 3:        +43.0°C  (high = +80.0°C, crit = +100.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  (crit = +119.0°C)
+temp2:        +29.8°C  (crit = +119.0°C)
+
+amdgpu-pci-0100
+Adapter: PCI adapter
+vddgfx:      750.00 mV 
+fan1:        2010 RPM  (min =    0 RPM, max = 3700 RPM)
+edge:         +40.0°C  (crit = +94.0°C, hyst = -273.1°C)
+slowPPT:       9.02 W  (cap = 127.00 W)
+
+nvme-pci-0900
+Adapter: PCI adapter
+Composite:    +32.9°C  (low  = -273.1°C, high = +84.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +32.9°C  (low  = -273.1°C, high = +65261.8°C)
+Sensor 2:     +39.9°C  (low  = -273.1°C, high = +65261.8°C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +48.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 0:        +47.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 1:        +46.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 2:        +48.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 3:        +43.0°C  (high = +80.0°C, crit = +100.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  (crit = +119.0°C)
+temp2:        +29.8°C  (crit = +119.0°C)
+
+amdgpu-pci-0100
+Adapter: PCI adapter
+vddgfx:      750.00 mV 
+fan1:        2010 RPM  (min =    0 RPM, max = 3700 RPM)
+edge:         +40.0°C  (crit = +94.0°C, hyst = -273.1°C)
+slowPPT:       9.00 W  (cap = 127.00 W)
+
+nvme-pci-0900
+Adapter: PCI adapter
+Composite:    +32.9°C  (low  = -273.1°C, high = +84.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +32.9°C  (low  = -273.1°C, high = +65261.8°C)
+Sensor 2:     +39.9°C  (low  = -273.1°C, high = +65261.8°C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +48.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 0:        +47.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 1:        +46.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 2:        +48.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 3:        +43.0°C  (high = +80.0°C, crit = +100.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  (crit = +119.0°C)
+temp2:        +29.8°C  (crit = +119.0°C)
+
+amdgpu-pci-0100
+Adapter: PCI adapter
+vddgfx:      750.00 mV 
+fan1:        2010 RPM  (min =    0 RPM, max = 3700 RPM)
+edge:         +40.0°C  (crit = +94.0°C, hyst = -273.1°C)
+slowPPT:       8.25 W  (cap = 127.00 W)
+
+nvme-pci-0900
+Adapter: PCI adapter
+Composite:    +32.9°C  (low  = -273.1°C, high = +84.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +32.9°C  (low  = -273.1°C, high = +65261.8°C)
+Sensor 2:     +39.9°C  (low  = -273.1°C, high = +65261.8°C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +48.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 0:        +47.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 1:        +46.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 2:        +48.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 3:        +43.0°C  (high = +80.0°C, crit = +100.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  (crit = +119.0°C)
+temp2:        +29.8°C  (crit = +119.0°C)
+
+amdgpu-pci-0100
+Adapter: PCI adapter
+vddgfx:      800.00 mV 
+fan1:        2010 RPM  (min =    0 RPM, max = 3700 RPM)
+edge:         +40.0°C  (crit = +94.0°C, hyst = -273.1°C)
+slowPPT:       8.24 W  (cap = 127.00 W)
+
+nvme-pci-0900
+Adapter: PCI adapter
+Composite:    +32.9°C  (low  = -273.1°C, high = +84.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +32.9°C  (low  = -273.1°C, high = +65261.8°C)
+Sensor 2:     +39.9°C  (low  = -273.1°C, high = +65261.8°C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +48.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 0:        +47.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 1:        +46.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 2:        +48.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 3:        +43.0°C  (high = +80.0°C, crit = +100.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  (crit = +119.0°C)
+temp2:        +29.8°C  (crit = +119.0°C)
+
+amdgpu-pci-0100
+Adapter: PCI adapter
+vddgfx:      750.00 mV 
+fan1:        2010 RPM  (min =    0 RPM, max = 3700 RPM)
+edge:         +40.0°C  (crit = +94.0°C, hyst = -273.1°C)
+slowPPT:       8.23 W  (cap = 127.00 W)
+
+nvme-pci-0900
+Adapter: PCI adapter
+Composite:    +32.9°C  (low  = -273.1°C, high = +84.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +32.9°C  (low  = -273.1°C, high = +65261.8°C)
+Sensor 2:     +39.9°C  (low  = -273.1°C, high = +65261.8°C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +48.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 0:        +47.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 1:        +46.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 2:        +48.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 3:        +43.0°C  (high = +80.0°C, crit = +100.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  (crit = +119.0°C)
+temp2:        +29.8°C  (crit = +119.0°C)
+
+amdgpu-pci-0100
+Adapter: PCI adapter
+vddgfx:      750.00 mV 
+fan1:        2010 RPM  (min =    0 RPM, max = 3700 RPM)
+edge:         +40.0°C  (crit = +94.0°C, hyst = -273.1°C)
+slowPPT:       8.24 W  (cap = 127.00 W)
+
+nvme-pci-0900
+Adapter: PCI adapter
+Composite:    +32.9°C  (low  = -273.1°C, high = +84.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +32.9°C  (low  = -273.1°C, high = +65261.8°C)
+Sensor 2:     +39.9°C  (low  = -273.1°C, high = +65261.8°C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +48.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 0:        +47.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 1:        +46.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 2:        +48.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 3:        +43.0°C  (high = +80.0°C, crit = +100.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  (crit = +119.0°C)
+temp2:        +29.8°C  (crit = +119.0°C)
+
+amdgpu-pci-0100
+Adapter: PCI adapter
+vddgfx:      750.00 mV 
+fan1:        2010 RPM  (min =    0 RPM, max = 3700 RPM)
+edge:         +40.0°C  (crit = +94.0°C, hyst = -273.1°C)
+slowPPT:       8.23 W  (cap = 127.00 W)
+
+nvme-pci-0900
+Adapter: PCI adapter
+Composite:    +32.9°C  (low  = -273.1°C, high = +84.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +32.9°C  (low  = -273.1°C, high = +65261.8°C)
+Sensor 2:     +39.9°C  (low  = -273.1°C, high = +65261.8°C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +48.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 0:        +47.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 1:        +46.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 2:        +48.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 3:        +43.0°C  (high = +80.0°C, crit = +100.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  (crit = +119.0°C)
+temp2:        +29.8°C  (crit = +119.0°C)
+
+amdgpu-pci-0100
+Adapter: PCI adapter
+vddgfx:      750.00 mV 
+fan1:        2010 RPM  (min =    0 RPM, max = 3700 RPM)
+edge:         +40.0°C  (crit = +94.0°C, hyst = -273.1°C)
+slowPPT:       8.23 W  (cap = 127.00 W)
+
+nvme-pci-0900
+Adapter: PCI adapter
+Composite:    +32.9°C  (low  = -273.1°C, high = +84.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +32.9°C  (low  = -273.1°C, high = +65261.8°C)
+Sensor 2:     +39.9°C  (low  = -273.1°C, high = +65261.8°C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +48.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 0:        +47.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 1:        +46.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 2:        +48.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 3:        +43.0°C  (high = +80.0°C, crit = +100.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  (crit = +119.0°C)
+temp2:        +29.8°C  (crit = +119.0°C)
+
+amdgpu-pci-0100
+Adapter: PCI adapter
+vddgfx:      750.00 mV 
+fan1:        2010 RPM  (min =    0 RPM, max = 3700 RPM)
+edge:         +40.0°C  (crit = +94.0°C, hyst = -273.1°C)
+slowPPT:       8.22 W  (cap = 127.00 W)
+
+nvme-pci-0900
+Adapter: PCI adapter
+Composite:    +32.9°C  (low  = -273.1°C, high = +84.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +32.9°C  (low  = -273.1°C, high = +65261.8°C)
+Sensor 2:     +39.9°C  (low  = -273.1°C, high = +65261.8°C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +50.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 0:        +50.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 1:        +50.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 2:        +45.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 3:        +45.0°C  (high = +80.0°C, crit = +100.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  (crit = +119.0°C)
+temp2:        +29.8°C  (crit = +119.0°C)
+
+amdgpu-pci-0100
+Adapter: PCI adapter
+vddgfx:      750.00 mV 
+fan1:        2010 RPM  (min =    0 RPM, max = 3700 RPM)
+edge:         +40.0°C  (crit = +94.0°C, hyst = -273.1°C)
+slowPPT:       8.21 W  (cap = 127.00 W)
+
+nvme-pci-0900
+Adapter: PCI adapter
+Composite:    +32.9°C  (low  = -273.1°C, high = +84.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +32.9°C  (low  = -273.1°C, high = +65261.8°C)
+Sensor 2:     +39.9°C  (low  = -273.1°C, high = +65261.8°C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +50.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 0:        +50.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 1:        +50.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 2:        +45.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 3:        +45.0°C  (high = +80.0°C, crit = +100.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  (crit = +119.0°C)
+temp2:        +29.8°C  (crit = +119.0°C)
+
+amdgpu-pci-0100
+Adapter: PCI adapter
+vddgfx:      750.00 mV 
+fan1:        2010 RPM  (min =    0 RPM, max = 3700 RPM)
+edge:         +40.0°C  (crit = +94.0°C, hyst = -273.1°C)
+slowPPT:       8.21 W  (cap = 127.00 W)
+
+nvme-pci-0900
+Adapter: PCI adapter
+Composite:    +32.9°C  (low  = -273.1°C, high = +84.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +32.9°C  (low  = -273.1°C, high = +65261.8°C)
+Sensor 2:     +39.9°C  (low  = -273.1°C, high = +65261.8°C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +50.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 0:        +50.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 1:        +50.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 2:        +45.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 3:        +45.0°C  (high = +80.0°C, crit = +100.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  (crit = +119.0°C)
+temp2:        +29.8°C  (crit = +119.0°C)
+
+amdgpu-pci-0100
+Adapter: PCI adapter
+vddgfx:      750.00 mV 
+fan1:        2010 RPM  (min =    0 RPM, max = 3700 RPM)
+edge:         +40.0°C  (crit = +94.0°C, hyst = -273.1°C)
+slowPPT:       8.21 W  (cap = 127.00 W)
+
+nvme-pci-0900
+Adapter: PCI adapter
+Composite:    +32.9°C  (low  = -273.1°C, high = +84.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +32.9°C  (low  = -273.1°C, high = +65261.8°C)
+Sensor 2:     +39.9°C  (low  = -273.1°C, high = +65261.8°C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +50.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 0:        +50.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 1:        +50.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 2:        +45.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 3:        +45.0°C  (high = +80.0°C, crit = +100.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  (crit = +119.0°C)
+temp2:        +29.8°C  (crit = +119.0°C)
+
+amdgpu-pci-0100
+Adapter: PCI adapter
+vddgfx:      750.00 mV 
+fan1:        2010 RPM  (min =    0 RPM, max = 3700 RPM)
+edge:         +40.0°C  (crit = +94.0°C, hyst = -273.1°C)
+slowPPT:       8.21 W  (cap = 127.00 W)
+
+nvme-pci-0900
+Adapter: PCI adapter
+Composite:    +32.9°C  (low  = -273.1°C, high = +84.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +32.9°C  (low  = -273.1°C, high = +65261.8°C)
+Sensor 2:     +39.9°C  (low  = -273.1°C, high = +65261.8°C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +50.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 0:        +50.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 1:        +50.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 2:        +45.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 3:        +45.0°C  (high = +80.0°C, crit = +100.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  (crit = +119.0°C)
+temp2:        +29.8°C  (crit = +119.0°C)
+
+amdgpu-pci-0100
+Adapter: PCI adapter
+vddgfx:      750.00 mV 
+fan1:        2010 RPM  (min =    0 RPM, max = 3700 RPM)
+edge:         +40.0°C  (crit = +94.0°C, hyst = -273.1°C)
+slowPPT:       8.21 W  (cap = 127.00 W)
+
+nvme-pci-0900
+Adapter: PCI adapter
+Composite:    +32.9°C  (low  = -273.1°C, high = +84.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +32.9°C  (low  = -273.1°C, high = +65261.8°C)
+Sensor 2:     +39.9°C  (low  = -273.1°C, high = +65261.8°C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +50.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 0:        +50.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 1:        +50.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 2:        +45.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 3:        +45.0°C  (high = +80.0°C, crit = +100.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  (crit = +119.0°C)
+temp2:        +29.8°C  (crit = +119.0°C)
+
+amdgpu-pci-0100
+Adapter: PCI adapter
+vddgfx:      750.00 mV 
+fan1:        2010 RPM  (min =    0 RPM, max = 3700 RPM)
+edge:         +40.0°C  (crit = +94.0°C, hyst = -273.1°C)
+slowPPT:       8.21 W  (cap = 127.00 W)
+
+nvme-pci-0900
+Adapter: PCI adapter
+Composite:    +32.9°C  (low  = -273.1°C, high = +84.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +32.9°C  (low  = -273.1°C, high = +65261.8°C)
+Sensor 2:     +39.9°C  (low  = -273.1°C, high = +65261.8°C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +50.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 0:        +50.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 1:        +50.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 2:        +45.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 3:        +45.0°C  (high = +80.0°C, crit = +100.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  (crit = +119.0°C)
+temp2:        +29.8°C  (crit = +119.0°C)
+
+amdgpu-pci-0100
+Adapter: PCI adapter
+vddgfx:      750.00 mV 
+fan1:        2010 RPM  (min =    0 RPM, max = 3700 RPM)
+edge:         +40.0°C  (crit = +94.0°C, hyst = -273.1°C)
+slowPPT:       8.21 W  (cap = 127.00 W)
+
+nvme-pci-0900
+Adapter: PCI adapter
+Composite:    +32.9°C  (low  = -273.1°C, high = +84.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +32.9°C  (low  = -273.1°C, high = +65261.8°C)
+Sensor 2:     +39.9°C  (low  = -273.1°C, high = +65261.8°C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +50.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 0:        +50.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 1:        +50.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 2:        +45.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 3:        +45.0°C  (high = +80.0°C, crit = +100.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  (crit = +119.0°C)
+temp2:        +29.8°C  (crit = +119.0°C)
+
+amdgpu-pci-0100
+Adapter: PCI adapter
+vddgfx:      750.00 mV 
+fan1:        2010 RPM  (min =    0 RPM, max = 3700 RPM)
+edge:         +40.0°C  (crit = +94.0°C, hyst = -273.1°C)
+slowPPT:       8.21 W  (cap = 127.00 W)
+
+nvme-pci-0900
+Adapter: PCI adapter
+Composite:    +32.9°C  (low  = -273.1°C, high = +84.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +32.9°C  (low  = -273.1°C, high = +65261.8°C)
+Sensor 2:     +39.9°C  (low  = -273.1°C, high = +65261.8°C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +50.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 0:        +50.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 1:        +50.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 2:        +45.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 3:        +45.0°C  (high = +80.0°C, crit = +100.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  (crit = +119.0°C)
+temp2:        +29.8°C  (crit = +119.0°C)
+
+amdgpu-pci-0100
+Adapter: PCI adapter
+vddgfx:      750.00 mV 
+fan1:        2010 RPM  (min =    0 RPM, max = 3700 RPM)
+edge:         +40.0°C  (crit = +94.0°C, hyst = -273.1°C)
+slowPPT:       8.21 W  (cap = 127.00 W)
+
+nvme-pci-0900
+Adapter: PCI adapter
+Composite:    +32.9°C  (low  = -273.1°C, high = +84.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +32.9°C  (low  = -273.1°C, high = +65261.8°C)
+Sensor 2:     +39.9°C  (low  = -273.1°C, high = +65261.8°C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +50.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 0:        +50.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 1:        +50.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 2:        +45.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 3:        +45.0°C  (high = +80.0°C, crit = +100.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  (crit = +119.0°C)
+temp2:        +29.8°C  (crit = +119.0°C)
+
+amdgpu-pci-0100
+Adapter: PCI adapter
+vddgfx:      750.00 mV 
+fan1:        2010 RPM  (min =    0 RPM, max = 3700 RPM)
+edge:         +40.0°C  (crit = +94.0°C, hyst = -273.1°C)
+slowPPT:       8.21 W  (cap = 127.00 W)
+
+nvme-pci-0900
+Adapter: PCI adapter
+Composite:    +32.9°C  (low  = -273.1°C, high = +84.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +32.9°C  (low  = -273.1°C, high = +65261.8°C)
+Sensor 2:     +39.9°C  (low  = -273.1°C, high = +65261.8°C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +50.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 0:        +50.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 1:        +50.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 2:        +45.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 3:        +45.0°C  (high = +80.0°C, crit = +100.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  (crit = +119.0°C)
+temp2:        +29.8°C  (crit = +119.0°C)
+
+amdgpu-pci-0100
+Adapter: PCI adapter
+vddgfx:      750.00 mV 
+fan1:        2010 RPM  (min =    0 RPM, max = 3700 RPM)
+edge:         +40.0°C  (crit = +94.0°C, hyst = -273.1°C)
+slowPPT:       8.21 W  (cap = 127.00 W)
+
+nvme-pci-0900
+Adapter: PCI adapter
+Composite:    +32.9°C  (low  = -273.1°C, high = +84.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +32.9°C  (low  = -273.1°C, high = +65261.8°C)
+Sensor 2:     +39.9°C  (low  = -273.1°C, high = +65261.8°C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +50.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 0:        +50.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 1:        +50.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 2:        +45.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 3:        +45.0°C  (high = +80.0°C, crit = +100.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  (crit = +119.0°C)
+temp2:        +29.8°C  (crit = +119.0°C)
+
+amdgpu-pci-0100
+Adapter: PCI adapter
+vddgfx:      750.00 mV 
+fan1:        2010 RPM  (min =    0 RPM, max = 3700 RPM)
+edge:         +40.0°C  (crit = +94.0°C, hyst = -273.1°C)
+slowPPT:       8.21 W  (cap = 127.00 W)
+
+nvme-pci-0900
+Adapter: PCI adapter
+Composite:    +32.9°C  (low  = -273.1°C, high = +84.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +32.9°C  (low  = -273.1°C, high = +65261.8°C)
+Sensor 2:     +39.9°C  (low  = -273.1°C, high = +65261.8°C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +50.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 0:        +50.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 1:        +50.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 2:        +45.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 3:        +45.0°C  (high = +80.0°C, crit = +100.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  (crit = +119.0°C)
+temp2:        +29.8°C  (crit = +119.0°C)
+
+amdgpu-pci-0100
+Adapter: PCI adapter
+vddgfx:      750.00 mV 
+fan1:        2010 RPM  (min =    0 RPM, max = 3700 RPM)
+edge:         +40.0°C  (crit = +94.0°C, hyst = -273.1°C)
+slowPPT:       8.22 W  (cap = 127.00 W)
+
+nvme-pci-0900
+Adapter: PCI adapter
+Composite:    +32.9°C  (low  = -273.1°C, high = +84.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +32.9°C  (low  = -273.1°C, high = +65261.8°C)
+Sensor 2:     +39.9°C  (low  = -273.1°C, high = +65261.8°C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +50.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 0:        +50.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 1:        +50.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 2:        +45.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 3:        +45.0°C  (high = +80.0°C, crit = +100.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  (crit = +119.0°C)
+temp2:        +29.8°C  (crit = +119.0°C)
+
+amdgpu-pci-0100
+Adapter: PCI adapter
+vddgfx:      750.00 mV 
+fan1:        2010 RPM  (min =    0 RPM, max = 3700 RPM)
+edge:         +40.0°C  (crit = +94.0°C, hyst = -273.1°C)
+slowPPT:       8.21 W  (cap = 127.00 W)
+
+nvme-pci-0900
+Adapter: PCI adapter
+Composite:    +32.9°C  (low  = -273.1°C, high = +84.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +32.9°C  (low  = -273.1°C, high = +65261.8°C)
+Sensor 2:     +39.9°C  (low  = -273.1°C, high = +65261.8°C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +50.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 0:        +50.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 1:        +50.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 2:        +45.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 3:        +45.0°C  (high = +80.0°C, crit = +100.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  (crit = +119.0°C)
+temp2:        +29.8°C  (crit = +119.0°C)
+
+amdgpu-pci-0100
+Adapter: PCI adapter
+vddgfx:      750.00 mV 
+fan1:        2010 RPM  (min =    0 RPM, max = 3700 RPM)
+edge:         +40.0°C  (crit = +94.0°C, hyst = -273.1°C)
+slowPPT:       8.21 W  (cap = 127.00 W)
+
+nvme-pci-0900
+Adapter: PCI adapter
+Composite:    +32.9°C  (low  = -273.1°C, high = +84.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +32.9°C  (low  = -273.1°C, high = +65261.8°C)
+Sensor 2:     +39.9°C  (low  = -273.1°C, high = +65261.8°C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +50.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 0:        +50.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 1:        +50.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 2:        +45.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 3:        +45.0°C  (high = +80.0°C, crit = +100.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  (crit = +119.0°C)
+temp2:        +29.8°C  (crit = +119.0°C)
+
+amdgpu-pci-0100
+Adapter: PCI adapter
+vddgfx:      750.00 mV 
+fan1:        2010 RPM  (min =    0 RPM, max = 3700 RPM)
+edge:         +40.0°C  (crit = +94.0°C, hyst = -273.1°C)
+slowPPT:       8.21 W  (cap = 127.00 W)
+
+nvme-pci-0900
+Adapter: PCI adapter
+Composite:    +32.9°C  (low  = -273.1°C, high = +84.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +32.9°C  (low  = -273.1°C, high = +65261.8°C)
+Sensor 2:     +39.9°C  (low  = -273.1°C, high = +65261.8°C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +50.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 0:        +50.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 1:        +50.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 2:        +45.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 3:        +45.0°C  (high = +80.0°C, crit = +100.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  (crit = +119.0°C)
+temp2:        +29.8°C  (crit = +119.0°C)
+
+amdgpu-pci-0100
+Adapter: PCI adapter
+vddgfx:      750.00 mV 
+fan1:        2010 RPM  (min =    0 RPM, max = 3700 RPM)
+edge:         +40.0°C  (crit = +94.0°C, hyst = -273.1°C)
+slowPPT:       8.21 W  (cap = 127.00 W)
+
+nvme-pci-0900
+Adapter: PCI adapter
+Composite:    +32.9°C  (low  = -273.1°C, high = +84.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +32.9°C  (low  = -273.1°C, high = +65261.8°C)
+Sensor 2:     +39.9°C  (low  = -273.1°C, high = +65261.8°C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +50.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 0:        +50.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 1:        +50.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 2:        +45.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 3:        +45.0°C  (high = +80.0°C, crit = +100.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  (crit = +119.0°C)
+temp2:        +29.8°C  (crit = +119.0°C)
+
+amdgpu-pci-0100
+Adapter: PCI adapter
+vddgfx:      750.00 mV 
+fan1:        2010 RPM  (min =    0 RPM, max = 3700 RPM)
+edge:         +40.0°C  (crit = +94.0°C, hyst = -273.1°C)
+slowPPT:       8.21 W  (cap = 127.00 W)
+
+nvme-pci-0900
+Adapter: PCI adapter
+Composite:    +32.9°C  (low  = -273.1°C, high = +84.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +32.9°C  (low  = -273.1°C, high = +65261.8°C)
+Sensor 2:     +39.9°C  (low  = -273.1°C, high = +65261.8°C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +50.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 0:        +50.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 1:        +50.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 2:        +45.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 3:        +45.0°C  (high = +80.0°C, crit = +100.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  (crit = +119.0°C)
+temp2:        +29.8°C  (crit = +119.0°C)
+
+amdgpu-pci-0100
+Adapter: PCI adapter
+vddgfx:      750.00 mV 
+fan1:        2010 RPM  (min =    0 RPM, max = 3700 RPM)
+edge:         +40.0°C  (crit = +94.0°C, hyst = -273.1°C)
+slowPPT:       8.21 W  (cap = 127.00 W)
+
+nvme-pci-0900
+Adapter: PCI adapter
+Composite:    +32.9°C  (low  = -273.1°C, high = +84.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +32.9°C  (low  = -273.1°C, high = +65261.8°C)
+Sensor 2:     +39.9°C  (low  = -273.1°C, high = +65261.8°C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +50.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 0:        +50.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 1:        +50.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 2:        +45.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 3:        +45.0°C  (high = +80.0°C, crit = +100.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  (crit = +119.0°C)
+temp2:        +29.8°C  (crit = +119.0°C)
+
+amdgpu-pci-0100
+Adapter: PCI adapter
+vddgfx:      750.00 mV 
+fan1:        2010 RPM  (min =    0 RPM, max = 3700 RPM)
+edge:         +40.0°C  (crit = +94.0°C, hyst = -273.1°C)
+slowPPT:       8.21 W  (cap = 127.00 W)
+
+nvme-pci-0900
+Adapter: PCI adapter
+Composite:    +32.9°C  (low  = -273.1°C, high = +84.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +32.9°C  (low  = -273.1°C, high = +65261.8°C)
+Sensor 2:     +39.9°C  (low  = -273.1°C, high = +65261.8°C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +50.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 0:        +50.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 1:        +50.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 2:        +45.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 3:        +45.0°C  (high = +80.0°C, crit = +100.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  (crit = +119.0°C)
+temp2:        +29.8°C  (crit = +119.0°C)
+
+amdgpu-pci-0100
+Adapter: PCI adapter
+vddgfx:      750.00 mV 
+fan1:        2010 RPM  (min =    0 RPM, max = 3700 RPM)
+edge:         +40.0°C  (crit = +94.0°C, hyst = -273.1°C)
+slowPPT:       8.21 W  (cap = 127.00 W)
+
+nvme-pci-0900
+Adapter: PCI adapter
+Composite:    +32.9°C  (low  = -273.1°C, high = +84.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +32.9°C  (low  = -273.1°C, high = +65261.8°C)
+Sensor 2:     +40.9°C  (low  = -273.1°C, high = +65261.8°C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +50.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 0:        +50.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 1:        +50.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 2:        +45.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 3:        +45.0°C  (high = +80.0°C, crit = +100.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  (crit = +119.0°C)
+temp2:        +29.8°C  (crit = +119.0°C)
+
+amdgpu-pci-0100
+Adapter: PCI adapter
+vddgfx:      750.00 mV 
+fan1:        2010 RPM  (min =    0 RPM, max = 3700 RPM)
+edge:         +40.0°C  (crit = +94.0°C, hyst = -273.1°C)
+slowPPT:       8.21 W  (cap = 127.00 W)
+
+nvme-pci-0900
+Adapter: PCI adapter
+Composite:    +32.9°C  (low  = -273.1°C, high = +84.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +32.9°C  (low  = -273.1°C, high = +65261.8°C)
+Sensor 2:     +40.9°C  (low  = -273.1°C, high = +65261.8°C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +50.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 0:        +50.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 1:        +50.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 2:        +45.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 3:        +45.0°C  (high = +80.0°C, crit = +100.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  (crit = +119.0°C)
+temp2:        +29.8°C  (crit = +119.0°C)
+
+amdgpu-pci-0100
+Adapter: PCI adapter
+vddgfx:      881.00 mV 
+fan1:        2010 RPM  (min =    0 RPM, max = 3700 RPM)
+edge:         +40.0°C  (crit = +94.0°C, hyst = -273.1°C)
+slowPPT:       9.02 W  (cap = 127.00 W)
+
+nvme-pci-0900
+Adapter: PCI adapter
+Composite:    +32.9°C  (low  = -273.1°C, high = +84.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +32.9°C  (low  = -273.1°C, high = +65261.8°C)
+Sensor 2:     +40.9°C  (low  = -273.1°C, high = +65261.8°C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +50.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 0:        +50.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 1:        +50.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 2:        +45.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 3:        +45.0°C  (high = +80.0°C, crit = +100.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  (crit = +119.0°C)
+temp2:        +29.8°C  (crit = +119.0°C)
+
+amdgpu-pci-0100
+Adapter: PCI adapter
+vddgfx:      881.00 mV 
+fan1:        2010 RPM  (min =    0 RPM, max = 3700 RPM)
+edge:         +40.0°C  (crit = +94.0°C, hyst = -273.1°C)
+slowPPT:       9.11 W  (cap = 127.00 W)
+
+nvme-pci-0900
+Adapter: PCI adapter
+Composite:    +32.9°C  (low  = -273.1°C, high = +84.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +32.9°C  (low  = -273.1°C, high = +65261.8°C)
+Sensor 2:     +40.9°C  (low  = -273.1°C, high = +65261.8°C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +50.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 0:        +50.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 1:        +50.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 2:        +45.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 3:        +45.0°C  (high = +80.0°C, crit = +100.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  (crit = +119.0°C)
+temp2:        +29.8°C  (crit = +119.0°C)
+
+amdgpu-pci-0100
+Adapter: PCI adapter
+vddgfx:      881.00 mV 
+fan1:        2010 RPM  (min =    0 RPM, max = 3700 RPM)
+edge:         +40.0°C  (crit = +94.0°C, hyst = -273.1°C)
+slowPPT:       9.19 W  (cap = 127.00 W)
+
+nvme-pci-0900
+Adapter: PCI adapter
+Composite:    +32.9°C  (low  = -273.1°C, high = +84.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +32.9°C  (low  = -273.1°C, high = +65261.8°C)
+Sensor 2:     +40.9°C  (low  = -273.1°C, high = +65261.8°C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +50.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 0:        +50.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 1:        +50.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 2:        +45.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 3:        +45.0°C  (high = +80.0°C, crit = +100.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  (crit = +119.0°C)
+temp2:        +29.8°C  (crit = +119.0°C)
+
+amdgpu-pci-0100
+Adapter: PCI adapter
+vddgfx:      881.00 mV 
+fan1:        2010 RPM  (min =    0 RPM, max = 3700 RPM)
+edge:         +40.0°C  (crit = +94.0°C, hyst = -273.1°C)
+slowPPT:       9.25 W  (cap = 127.00 W)
+
+nvme-pci-0900
+Adapter: PCI adapter
+Composite:    +32.9°C  (low  = -273.1°C, high = +84.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +32.9°C  (low  = -273.1°C, high = +65261.8°C)
+Sensor 2:     +40.9°C  (low  = -273.1°C, high = +65261.8°C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +50.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 0:        +50.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 1:        +50.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 2:        +45.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 3:        +45.0°C  (high = +80.0°C, crit = +100.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  (crit = +119.0°C)
+temp2:        +29.8°C  (crit = +119.0°C)
+
+amdgpu-pci-0100
+Adapter: PCI adapter
+vddgfx:      881.00 mV 
+fan1:        2010 RPM  (min =    0 RPM, max = 3700 RPM)
+edge:         +40.0°C  (crit = +94.0°C, hyst = -273.1°C)
+slowPPT:      10.04 W  (cap = 127.00 W)
+
+nvme-pci-0900
+Adapter: PCI adapter
+Composite:    +32.9°C  (low  = -273.1°C, high = +84.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +32.9°C  (low  = -273.1°C, high = +65261.8°C)
+Sensor 2:     +40.9°C  (low  = -273.1°C, high = +65261.8°C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +50.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 0:        +50.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 1:        +50.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 2:        +45.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 3:        +45.0°C  (high = +80.0°C, crit = +100.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  (crit = +119.0°C)
+temp2:        +29.8°C  (crit = +119.0°C)
+
+amdgpu-pci-0100
+Adapter: PCI adapter
+vddgfx:      881.00 mV 
+fan1:        2010 RPM  (min =    0 RPM, max = 3700 RPM)
+edge:         +40.0°C  (crit = +94.0°C, hyst = -273.1°C)
+slowPPT:      10.10 W  (cap = 127.00 W)
+
+nvme-pci-0900
+Adapter: PCI adapter
+Composite:    +32.9°C  (low  = -273.1°C, high = +84.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +32.9°C  (low  = -273.1°C, high = +65261.8°C)
+Sensor 2:     +40.9°C  (low  = -273.1°C, high = +65261.8°C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +50.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 0:        +50.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 1:        +50.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 2:        +45.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 3:        +45.0°C  (high = +80.0°C, crit = +100.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  (crit = +119.0°C)
+temp2:        +29.8°C  (crit = +119.0°C)
+
+amdgpu-pci-0100
+Adapter: PCI adapter
+vddgfx:      881.00 mV 
+fan1:        2010 RPM  (min =    0 RPM, max = 3700 RPM)
+edge:         +40.0°C  (crit = +94.0°C, hyst = -273.1°C)
+slowPPT:      10.15 W  (cap = 127.00 W)
+
+nvme-pci-0900
+Adapter: PCI adapter
+Composite:    +32.9°C  (low  = -273.1°C, high = +84.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +32.9°C  (low  = -273.1°C, high = +65261.8°C)
+Sensor 2:     +40.9°C  (low  = -273.1°C, high = +65261.8°C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +50.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 0:        +50.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 1:        +50.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 2:        +45.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 3:        +45.0°C  (high = +80.0°C, crit = +100.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  (crit = +119.0°C)
+temp2:        +29.8°C  (crit = +119.0°C)
+
+amdgpu-pci-0100
+Adapter: PCI adapter
+vddgfx:      881.00 mV 
+fan1:        2010 RPM  (min =    0 RPM, max = 3700 RPM)
+edge:         +40.0°C  (crit = +94.0°C, hyst = -273.1°C)
+slowPPT:      10.19 W  (cap = 127.00 W)
+
+nvme-pci-0900
+Adapter: PCI adapter
+Composite:    +32.9°C  (low  = -273.1°C, high = +84.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +32.9°C  (low  = -273.1°C, high = +65261.8°C)
+Sensor 2:     +40.9°C  (low  = -273.1°C, high = +65261.8°C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +50.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 0:        +50.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 1:        +50.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 2:        +45.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 3:        +45.0°C  (high = +80.0°C, crit = +100.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  (crit = +119.0°C)
+temp2:        +29.8°C  (crit = +119.0°C)
+
+amdgpu-pci-0100
+Adapter: PCI adapter
+vddgfx:      881.00 mV 
+fan1:        2010 RPM  (min =    0 RPM, max = 3700 RPM)
+edge:         +40.0°C  (crit = +94.0°C, hyst = -273.1°C)
+slowPPT:      10.25 W  (cap = 127.00 W)
+
+nvme-pci-0900
+Adapter: PCI adapter
+Composite:    +32.9°C  (low  = -273.1°C, high = +84.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +32.9°C  (low  = -273.1°C, high = +65261.8°C)
+Sensor 2:     +40.9°C  (low  = -273.1°C, high = +65261.8°C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +50.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 0:        +50.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 1:        +50.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 2:        +45.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 3:        +45.0°C  (high = +80.0°C, crit = +100.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  (crit = +119.0°C)
+temp2:        +29.8°C  (crit = +119.0°C)
+
+amdgpu-pci-0100
+Adapter: PCI adapter
+vddgfx:      750.00 mV 
+fan1:        2010 RPM  (min =    0 RPM, max = 3700 RPM)
+edge:         +40.0°C  (crit = +94.0°C, hyst = -273.1°C)
+slowPPT:      10.21 W  (cap = 127.00 W)
+
+nvme-pci-0900
+Adapter: PCI adapter
+Composite:    +32.9°C  (low  = -273.1°C, high = +84.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +32.9°C  (low  = -273.1°C, high = +65261.8°C)
+Sensor 2:     +40.9°C  (low  = -273.1°C, high = +65261.8°C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +50.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 0:        +50.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 1:        +50.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 2:        +45.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 3:        +45.0°C  (high = +80.0°C, crit = +100.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  (crit = +119.0°C)
+temp2:        +29.8°C  (crit = +119.0°C)
+
+amdgpu-pci-0100
+Adapter: PCI adapter
+vddgfx:      750.00 mV 
+fan1:        2010 RPM  (min =    0 RPM, max = 3700 RPM)
+edge:         +40.0°C  (crit = +94.0°C, hyst = -273.1°C)
+slowPPT:      10.15 W  (cap = 127.00 W)
+
+nvme-pci-0900
+Adapter: PCI adapter
+Composite:    +32.9°C  (low  = -273.1°C, high = +84.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +32.9°C  (low  = -273.1°C, high = +65261.8°C)
+Sensor 2:     +40.9°C  (low  = -273.1°C, high = +65261.8°C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +50.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 0:        +50.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 1:        +50.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 2:        +45.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 3:        +45.0°C  (high = +80.0°C, crit = +100.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  (crit = +119.0°C)
+temp2:        +29.8°C  (crit = +119.0°C)
+
+amdgpu-pci-0100
+Adapter: PCI adapter
+vddgfx:      750.00 mV 
+fan1:        2010 RPM  (min =    0 RPM, max = 3700 RPM)
+edge:         +40.0°C  (crit = +94.0°C, hyst = -273.1°C)
+slowPPT:      10.10 W  (cap = 127.00 W)
+
+nvme-pci-0900
+Adapter: PCI adapter
+Composite:    +32.9°C  (low  = -273.1°C, high = +84.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +32.9°C  (low  = -273.1°C, high = +65261.8°C)
+Sensor 2:     +40.9°C  (low  = -273.1°C, high = +65261.8°C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +50.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 0:        +50.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 1:        +50.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 2:        +45.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 3:        +45.0°C  (high = +80.0°C, crit = +100.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  (crit = +119.0°C)
+temp2:        +29.8°C  (crit = +119.0°C)
+
+amdgpu-pci-0100
+Adapter: PCI adapter
+vddgfx:      750.00 mV 
+fan1:        2010 RPM  (min =    0 RPM, max = 3700 RPM)
+edge:         +40.0°C  (crit = +94.0°C, hyst = -273.1°C)
+slowPPT:      10.05 W  (cap = 127.00 W)
+
+nvme-pci-0900
+Adapter: PCI adapter
+Composite:    +32.9°C  (low  = -273.1°C, high = +84.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +32.9°C  (low  = -273.1°C, high = +65261.8°C)
+Sensor 2:     +40.9°C  (low  = -273.1°C, high = +65261.8°C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +50.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 0:        +50.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 1:        +50.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 2:        +45.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 3:        +45.0°C  (high = +80.0°C, crit = +100.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  (crit = +119.0°C)
+temp2:        +29.8°C  (crit = +119.0°C)
+
+amdgpu-pci-0100
+Adapter: PCI adapter
+vddgfx:      750.00 mV 
+fan1:        2010 RPM  (min =    0 RPM, max = 3700 RPM)
+edge:         +40.0°C  (crit = +94.0°C, hyst = -273.1°C)
+slowPPT:      10.01 W  (cap = 127.00 W)
+
+nvme-pci-0900
+Adapter: PCI adapter
+Composite:    +32.9°C  (low  = -273.1°C, high = +84.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +32.9°C  (low  = -273.1°C, high = +65261.8°C)
+Sensor 2:     +40.9°C  (low  = -273.1°C, high = +65261.8°C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +50.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 0:        +50.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 1:        +50.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 2:        +45.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 3:        +45.0°C  (high = +80.0°C, crit = +100.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  (crit = +119.0°C)
+temp2:        +29.8°C  (crit = +119.0°C)
+
+amdgpu-pci-0100
+Adapter: PCI adapter
+vddgfx:      750.00 mV 
+fan1:        2010 RPM  (min =    0 RPM, max = 3700 RPM)
+edge:         +40.0°C  (crit = +94.0°C, hyst = -273.1°C)
+slowPPT:       9.23 W  (cap = 127.00 W)
+
+nvme-pci-0900
+Adapter: PCI adapter
+Composite:    +32.9°C  (low  = -273.1°C, high = +84.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +32.9°C  (low  = -273.1°C, high = +65261.8°C)
+Sensor 2:     +40.9°C  (low  = -273.1°C, high = +65261.8°C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +50.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 0:        +50.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 1:        +50.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 2:        +45.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 3:        +45.0°C  (high = +80.0°C, crit = +100.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  (crit = +119.0°C)
+temp2:        +29.8°C  (crit = +119.0°C)
+
+amdgpu-pci-0100
+Adapter: PCI adapter
+vddgfx:      750.00 mV 
+fan1:        2010 RPM  (min =    0 RPM, max = 3700 RPM)
+edge:         +40.0°C  (crit = +94.0°C, hyst = -273.1°C)
+slowPPT:       9.21 W  (cap = 127.00 W)
+
+nvme-pci-0900
+Adapter: PCI adapter
+Composite:    +32.9°C  (low  = -273.1°C, high = +84.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +32.9°C  (low  = -273.1°C, high = +65261.8°C)
+Sensor 2:     +40.9°C  (low  = -273.1°C, high = +65261.8°C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +50.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 0:        +50.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 1:        +50.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 2:        +45.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 3:        +45.0°C  (high = +80.0°C, crit = +100.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  (crit = +119.0°C)
+temp2:        +29.8°C  (crit = +119.0°C)
+
+amdgpu-pci-0100
+Adapter: PCI adapter
+vddgfx:      750.00 mV 
+fan1:        2010 RPM  (min =    0 RPM, max = 3700 RPM)
+edge:         +40.0°C  (crit = +94.0°C, hyst = -273.1°C)
+slowPPT:       9.15 W  (cap = 127.00 W)
+
+nvme-pci-0900
+Adapter: PCI adapter
+Composite:    +32.9°C  (low  = -273.1°C, high = +84.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +32.9°C  (low  = -273.1°C, high = +65261.8°C)
+Sensor 2:     +40.9°C  (low  = -273.1°C, high = +65261.8°C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +50.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 0:        +50.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 1:        +50.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 2:        +45.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 3:        +45.0°C  (high = +80.0°C, crit = +100.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  (crit = +119.0°C)
+temp2:        +29.8°C  (crit = +119.0°C)
+
+amdgpu-pci-0100
+Adapter: PCI adapter
+vddgfx:      750.00 mV 
+fan1:        2010 RPM  (min =    0 RPM, max = 3700 RPM)
+edge:         +40.0°C  (crit = +94.0°C, hyst = -273.1°C)
+slowPPT:       9.13 W  (cap = 127.00 W)
+
+nvme-pci-0900
+Adapter: PCI adapter
+Composite:    +32.9°C  (low  = -273.1°C, high = +84.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +32.9°C  (low  = -273.1°C, high = +65261.8°C)
+Sensor 2:     +40.9°C  (low  = -273.1°C, high = +65261.8°C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +50.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 0:        +50.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 1:        +50.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 2:        +45.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 3:        +45.0°C  (high = +80.0°C, crit = +100.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  (crit = +119.0°C)
+temp2:        +29.8°C  (crit = +119.0°C)
+
+amdgpu-pci-0100
+Adapter: PCI adapter
+vddgfx:      750.00 mV 
+fan1:        2010 RPM  (min =    0 RPM, max = 3700 RPM)
+edge:         +40.0°C  (crit = +94.0°C, hyst = -273.1°C)
+slowPPT:       9.11 W  (cap = 127.00 W)
+
+nvme-pci-0900
+Adapter: PCI adapter
+Composite:    +32.9°C  (low  = -273.1°C, high = +84.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +32.9°C  (low  = -273.1°C, high = +65261.8°C)
+Sensor 2:     +40.9°C  (low  = -273.1°C, high = +65261.8°C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +50.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 0:        +50.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 1:        +50.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 2:        +45.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 3:        +45.0°C  (high = +80.0°C, crit = +100.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  (crit = +119.0°C)
+temp2:        +29.8°C  (crit = +119.0°C)
+
+amdgpu-pci-0100
+Adapter: PCI adapter
+vddgfx:      750.00 mV 
+fan1:        2010 RPM  (min =    0 RPM, max = 3700 RPM)
+edge:         +40.0°C  (crit = +94.0°C, hyst = -273.1°C)
+slowPPT:       9.09 W  (cap = 127.00 W)
+
+nvme-pci-0900
+Adapter: PCI adapter
+Composite:    +32.9°C  (low  = -273.1°C, high = +84.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +32.9°C  (low  = -273.1°C, high = +65261.8°C)
+Sensor 2:     +40.9°C  (low  = -273.1°C, high = +65261.8°C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +50.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 0:        +50.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 1:        +50.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 2:        +45.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 3:        +45.0°C  (high = +80.0°C, crit = +100.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  (crit = +119.0°C)
+temp2:        +29.8°C  (crit = +119.0°C)
+
+amdgpu-pci-0100
+Adapter: PCI adapter
+vddgfx:      750.00 mV 
+fan1:        2010 RPM  (min =    0 RPM, max = 3700 RPM)
+edge:         +40.0°C  (crit = +94.0°C, hyst = -273.1°C)
+slowPPT:       9.07 W  (cap = 127.00 W)
+
+nvme-pci-0900
+Adapter: PCI adapter
+Composite:    +32.9°C  (low  = -273.1°C, high = +84.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +32.9°C  (low  = -273.1°C, high = +65261.8°C)
+Sensor 2:     +40.9°C  (low  = -273.1°C, high = +65261.8°C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +50.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 0:        +50.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 1:        +50.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 2:        +45.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 3:        +45.0°C  (high = +80.0°C, crit = +100.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  (crit = +119.0°C)
+temp2:        +29.8°C  (crit = +119.0°C)
+
+amdgpu-pci-0100
+Adapter: PCI adapter
+vddgfx:      750.00 mV 
+fan1:        2010 RPM  (min =    0 RPM, max = 3700 RPM)
+edge:         +40.0°C  (crit = +94.0°C, hyst = -273.1°C)
+slowPPT:       9.05 W  (cap = 127.00 W)
+
+nvme-pci-0900
+Adapter: PCI adapter
+Composite:    +32.9°C  (low  = -273.1°C, high = +84.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +32.9°C  (low  = -273.1°C, high = +65261.8°C)
+Sensor 2:     +40.9°C  (low  = -273.1°C, high = +65261.8°C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +50.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 0:        +50.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 1:        +50.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 2:        +45.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 3:        +45.0°C  (high = +80.0°C, crit = +100.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  (crit = +119.0°C)
+temp2:        +29.8°C  (crit = +119.0°C)
+
+amdgpu-pci-0100
+Adapter: PCI adapter
+vddgfx:      750.00 mV 
+fan1:        2010 RPM  (min =    0 RPM, max = 3700 RPM)
+edge:         +40.0°C  (crit = +94.0°C, hyst = -273.1°C)
+slowPPT:       9.04 W  (cap = 127.00 W)
+
+nvme-pci-0900
+Adapter: PCI adapter
+Composite:    +32.9°C  (low  = -273.1°C, high = +84.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +32.9°C  (low  = -273.1°C, high = +65261.8°C)
+Sensor 2:     +40.9°C  (low  = -273.1°C, high = +65261.8°C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +50.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 0:        +50.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 1:        +50.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 2:        +45.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 3:        +45.0°C  (high = +80.0°C, crit = +100.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  (crit = +119.0°C)
+temp2:        +29.8°C  (crit = +119.0°C)
+
+amdgpu-pci-0100
+Adapter: PCI adapter
+vddgfx:      750.00 mV 
+fan1:        2010 RPM  (min =    0 RPM, max = 3700 RPM)
+edge:         +40.0°C  (crit = +94.0°C, hyst = -273.1°C)
+slowPPT:       9.05 W  (cap = 127.00 W)
+
+nvme-pci-0900
+Adapter: PCI adapter
+Composite:    +32.9°C  (low  = -273.1°C, high = +84.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +32.9°C  (low  = -273.1°C, high = +65261.8°C)
+Sensor 2:     +40.9°C  (low  = -273.1°C, high = +65261.8°C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +50.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 0:        +50.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 1:        +50.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 2:        +45.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 3:        +45.0°C  (high = +80.0°C, crit = +100.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  (crit = +119.0°C)
+temp2:        +29.8°C  (crit = +119.0°C)
+
+amdgpu-pci-0100
+Adapter: PCI adapter
+vddgfx:      750.00 mV 
+fan1:        2010 RPM  (min =    0 RPM, max = 3700 RPM)
+edge:         +40.0°C  (crit = +94.0°C, hyst = -273.1°C)
+slowPPT:       9.04 W  (cap = 127.00 W)
+
+nvme-pci-0900
+Adapter: PCI adapter
+Composite:    +32.9°C  (low  = -273.1°C, high = +84.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +32.9°C  (low  = -273.1°C, high = +65261.8°C)
+Sensor 2:     +40.9°C  (low  = -273.1°C, high = +65261.8°C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +50.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 0:        +50.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 1:        +50.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 2:        +45.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 3:        +45.0°C  (high = +80.0°C, crit = +100.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  (crit = +119.0°C)
+temp2:        +29.8°C  (crit = +119.0°C)
+
+amdgpu-pci-0100
+Adapter: PCI adapter
+vddgfx:      750.00 mV 
+fan1:        2010 RPM  (min =    0 RPM, max = 3700 RPM)
+edge:         +40.0°C  (crit = +94.0°C, hyst = -273.1°C)
+slowPPT:       9.03 W  (cap = 127.00 W)
+
+nvme-pci-0900
+Adapter: PCI adapter
+Composite:    +32.9°C  (low  = -273.1°C, high = +84.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +32.9°C  (low  = -273.1°C, high = +65261.8°C)
+Sensor 2:     +40.9°C  (low  = -273.1°C, high = +65261.8°C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +50.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 0:        +50.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 1:        +50.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 2:        +45.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 3:        +45.0°C  (high = +80.0°C, crit = +100.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  (crit = +119.0°C)
+temp2:        +29.8°C  (crit = +119.0°C)
+
+amdgpu-pci-0100
+Adapter: PCI adapter
+vddgfx:      750.00 mV 
+fan1:        2010 RPM  (min =    0 RPM, max = 3700 RPM)
+edge:         +40.0°C  (crit = +94.0°C, hyst = -273.1°C)
+slowPPT:       9.02 W  (cap = 127.00 W)
+
+nvme-pci-0900
+Adapter: PCI adapter
+Composite:    +32.9°C  (low  = -273.1°C, high = +84.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +32.9°C  (low  = -273.1°C, high = +65261.8°C)
+Sensor 2:     +40.9°C  (low  = -273.1°C, high = +65261.8°C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +50.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 0:        +50.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 1:        +50.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 2:        +45.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 3:        +45.0°C  (high = +80.0°C, crit = +100.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  (crit = +119.0°C)
+temp2:        +29.8°C  (crit = +119.0°C)
+
+amdgpu-pci-0100
+Adapter: PCI adapter
+vddgfx:      750.00 mV 
+fan1:        2010 RPM  (min =    0 RPM, max = 3700 RPM)
+edge:         +40.0°C  (crit = +94.0°C, hyst = -273.1°C)
+slowPPT:       9.01 W  (cap = 127.00 W)
+
+nvme-pci-0900
+Adapter: PCI adapter
+Composite:    +32.9°C  (low  = -273.1°C, high = +84.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +32.9°C  (low  = -273.1°C, high = +65261.8°C)
+Sensor 2:     +40.9°C  (low  = -273.1°C, high = +65261.8°C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +50.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 0:        +50.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 1:        +50.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 2:        +45.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 3:        +45.0°C  (high = +80.0°C, crit = +100.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  (crit = +119.0°C)
+temp2:        +29.8°C  (crit = +119.0°C)
+
+amdgpu-pci-0100
+Adapter: PCI adapter
+vddgfx:      750.00 mV 
+fan1:        2010 RPM  (min =    0 RPM, max = 3700 RPM)
+edge:         +40.0°C  (crit = +94.0°C, hyst = -273.1°C)
+slowPPT:       9.01 W  (cap = 127.00 W)
+
+nvme-pci-0900
+Adapter: PCI adapter
+Composite:    +32.9°C  (low  = -273.1°C, high = +84.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +32.9°C  (low  = -273.1°C, high = +65261.8°C)
+Sensor 2:     +40.9°C  (low  = -273.1°C, high = +65261.8°C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +50.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 0:        +50.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 1:        +50.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 2:        +45.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 3:        +45.0°C  (high = +80.0°C, crit = +100.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  (crit = +119.0°C)
+temp2:        +29.8°C  (crit = +119.0°C)
+
+amdgpu-pci-0100
+Adapter: PCI adapter
+vddgfx:      750.00 mV 
+fan1:        2010 RPM  (min =    0 RPM, max = 3700 RPM)
+edge:         +40.0°C  (crit = +94.0°C, hyst = -273.1°C)
+slowPPT:       9.01 W  (cap = 127.00 W)
+
+nvme-pci-0900
+Adapter: PCI adapter
+Composite:    +32.9°C  (low  = -273.1°C, high = +84.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +32.9°C  (low  = -273.1°C, high = +65261.8°C)
+Sensor 2:     +40.9°C  (low  = -273.1°C, high = +65261.8°C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +50.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 0:        +50.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 1:        +50.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 2:        +45.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 3:        +45.0°C  (high = +80.0°C, crit = +100.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  (crit = +119.0°C)
+temp2:        +29.8°C  (crit = +119.0°C)
+
+amdgpu-pci-0100
+Adapter: PCI adapter
+vddgfx:      750.00 mV 
+fan1:        2010 RPM  (min =    0 RPM, max = 3700 RPM)
+edge:         +40.0°C  (crit = +94.0°C, hyst = -273.1°C)
+slowPPT:       9.01 W  (cap = 127.00 W)
+
+nvme-pci-0900
+Adapter: PCI adapter
+Composite:    +32.9°C  (low  = -273.1°C, high = +84.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +32.9°C  (low  = -273.1°C, high = +65261.8°C)
+Sensor 2:     +40.9°C  (low  = -273.1°C, high = +65261.8°C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +50.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 0:        +50.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 1:        +50.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 2:        +45.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 3:        +45.0°C  (high = +80.0°C, crit = +100.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  (crit = +119.0°C)
+temp2:        +29.8°C  (crit = +119.0°C)
+
+amdgpu-pci-0100
+Adapter: PCI adapter
+vddgfx:      750.00 mV 
+fan1:        2010 RPM  (min =    0 RPM, max = 3700 RPM)
+edge:         +40.0°C  (crit = +94.0°C, hyst = -273.1°C)
+slowPPT:       9.00 W  (cap = 127.00 W)
+
+nvme-pci-0900
+Adapter: PCI adapter
+Composite:    +32.9°C  (low  = -273.1°C, high = +84.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +32.9°C  (low  = -273.1°C, high = +65261.8°C)
+Sensor 2:     +40.9°C  (low  = -273.1°C, high = +65261.8°C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +50.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 0:        +50.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 1:        +50.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 2:        +45.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 3:        +45.0°C  (high = +80.0°C, crit = +100.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  (crit = +119.0°C)
+temp2:        +29.8°C  (crit = +119.0°C)
+
+amdgpu-pci-0100
+Adapter: PCI adapter
+vddgfx:      750.00 mV 
+fan1:        2010 RPM  (min =    0 RPM, max = 3700 RPM)
+edge:         +40.0°C  (crit = +94.0°C, hyst = -273.1°C)
+slowPPT:       9.01 W  (cap = 127.00 W)
+
+nvme-pci-0900
+Adapter: PCI adapter
+Composite:    +32.9°C  (low  = -273.1°C, high = +84.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +32.9°C  (low  = -273.1°C, high = +65261.8°C)
+Sensor 2:     +40.9°C  (low  = -273.1°C, high = +65261.8°C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +50.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 0:        +50.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 1:        +50.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 2:        +45.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 3:        +45.0°C  (high = +80.0°C, crit = +100.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  (crit = +119.0°C)
+temp2:        +29.8°C  (crit = +119.0°C)
+
+amdgpu-pci-0100
+Adapter: PCI adapter
+vddgfx:      750.00 mV 
+fan1:        2010 RPM  (min =    0 RPM, max = 3700 RPM)
+edge:         +40.0°C  (crit = +94.0°C, hyst = -273.1°C)
+slowPPT:       8.25 W  (cap = 127.00 W)
+
+nvme-pci-0900
+Adapter: PCI adapter
+Composite:    +32.9°C  (low  = -273.1°C, high = +84.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +32.9°C  (low  = -273.1°C, high = +65261.8°C)
+Sensor 2:     +40.9°C  (low  = -273.1°C, high = +65261.8°C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +50.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 0:        +50.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 1:        +50.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 2:        +45.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 3:        +45.0°C  (high = +80.0°C, crit = +100.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  (crit = +119.0°C)
+temp2:        +29.8°C  (crit = +119.0°C)
+
+amdgpu-pci-0100
+Adapter: PCI adapter
+vddgfx:      750.00 mV 
+fan1:        2010 RPM  (min =    0 RPM, max = 3700 RPM)
+edge:         +40.0°C  (crit = +94.0°C, hyst = -273.1°C)
+slowPPT:       8.26 W  (cap = 127.00 W)
+
+nvme-pci-0900
+Adapter: PCI adapter
+Composite:    +32.9°C  (low  = -273.1°C, high = +84.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +32.9°C  (low  = -273.1°C, high = +65261.8°C)
+Sensor 2:     +40.9°C  (low  = -273.1°C, high = +65261.8°C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +50.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 0:        +50.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 1:        +50.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 2:        +45.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 3:        +45.0°C  (high = +80.0°C, crit = +100.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  (crit = +119.0°C)
+temp2:        +29.8°C  (crit = +119.0°C)
+
+amdgpu-pci-0100
+Adapter: PCI adapter
+vddgfx:      750.00 mV 
+fan1:        2010 RPM  (min =    0 RPM, max = 3700 RPM)
+edge:         +40.0°C  (crit = +94.0°C, hyst = -273.1°C)
+slowPPT:       8.25 W  (cap = 127.00 W)
+
+nvme-pci-0900
+Adapter: PCI adapter
+Composite:    +32.9°C  (low  = -273.1°C, high = +84.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +32.9°C  (low  = -273.1°C, high = +65261.8°C)
+Sensor 2:     +40.9°C  (low  = -273.1°C, high = +65261.8°C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +50.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 0:        +50.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 1:        +50.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 2:        +45.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 3:        +45.0°C  (high = +80.0°C, crit = +100.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  (crit = +119.0°C)
+temp2:        +29.8°C  (crit = +119.0°C)
+
+amdgpu-pci-0100
+Adapter: PCI adapter
+vddgfx:      881.00 mV 
+fan1:        2010 RPM  (min =    0 RPM, max = 3700 RPM)
+edge:         +40.0°C  (crit = +94.0°C, hyst = -273.1°C)
+slowPPT:       9.04 W  (cap = 127.00 W)
+
+nvme-pci-0900
+Adapter: PCI adapter
+Composite:    +32.9°C  (low  = -273.1°C, high = +84.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +32.9°C  (low  = -273.1°C, high = +65261.8°C)
+Sensor 2:     +40.9°C  (low  = -273.1°C, high = +65261.8°C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +50.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 0:        +50.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 1:        +50.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 2:        +45.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 3:        +45.0°C  (high = +80.0°C, crit = +100.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  (crit = +119.0°C)
+temp2:        +29.8°C  (crit = +119.0°C)
+
+amdgpu-pci-0100
+Adapter: PCI adapter
+vddgfx:      881.00 mV 
+fan1:        2010 RPM  (min =    0 RPM, max = 3700 RPM)
+edge:         +40.0°C  (crit = +94.0°C, hyst = -273.1°C)
+slowPPT:       9.11 W  (cap = 127.00 W)
+
+nvme-pci-0900
+Adapter: PCI adapter
+Composite:    +32.9°C  (low  = -273.1°C, high = +84.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +32.9°C  (low  = -273.1°C, high = +65261.8°C)
+Sensor 2:     +40.9°C  (low  = -273.1°C, high = +65261.8°C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +50.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 0:        +50.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 1:        +50.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 2:        +45.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 3:        +45.0°C  (high = +80.0°C, crit = +100.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  (crit = +119.0°C)
+temp2:        +29.8°C  (crit = +119.0°C)
+
+amdgpu-pci-0100
+Adapter: PCI adapter
+vddgfx:      881.00 mV 
+fan1:        2010 RPM  (min =    0 RPM, max = 3700 RPM)
+edge:         +40.0°C  (crit = +94.0°C, hyst = -273.1°C)
+slowPPT:       9.19 W  (cap = 127.00 W)
+
+nvme-pci-0900
+Adapter: PCI adapter
+Composite:    +32.9°C  (low  = -273.1°C, high = +84.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +32.9°C  (low  = -273.1°C, high = +65261.8°C)
+Sensor 2:     +40.9°C  (low  = -273.1°C, high = +65261.8°C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +50.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 0:        +50.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 1:        +50.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 2:        +45.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 3:        +45.0°C  (high = +80.0°C, crit = +100.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  (crit = +119.0°C)
+temp2:        +29.8°C  (crit = +119.0°C)
+
+amdgpu-pci-0100
+Adapter: PCI adapter
+vddgfx:      881.00 mV 
+fan1:        2010 RPM  (min =    0 RPM, max = 3700 RPM)
+edge:         +40.0°C  (crit = +94.0°C, hyst = -273.1°C)
+slowPPT:       9.25 W  (cap = 127.00 W)
+
+nvme-pci-0900
+Adapter: PCI adapter
+Composite:    +32.9°C  (low  = -273.1°C, high = +84.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +32.9°C  (low  = -273.1°C, high = +65261.8°C)
+Sensor 2:     +40.9°C  (low  = -273.1°C, high = +65261.8°C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +50.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 0:        +50.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 1:        +50.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 2:        +45.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 3:        +45.0°C  (high = +80.0°C, crit = +100.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  (crit = +119.0°C)
+temp2:        +29.8°C  (crit = +119.0°C)
+
+amdgpu-pci-0100
+Adapter: PCI adapter
+vddgfx:      881.00 mV 
+fan1:        2010 RPM  (min =    0 RPM, max = 3700 RPM)
+edge:         +40.0°C  (crit = +94.0°C, hyst = -273.1°C)
+slowPPT:      10.06 W  (cap = 127.00 W)
+
+nvme-pci-0900
+Adapter: PCI adapter
+Composite:    +32.9°C  (low  = -273.1°C, high = +84.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +32.9°C  (low  = -273.1°C, high = +65261.8°C)
+Sensor 2:     +40.9°C  (low  = -273.1°C, high = +65261.8°C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +50.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 0:        +50.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 1:        +50.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 2:        +45.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 3:        +45.0°C  (high = +80.0°C, crit = +100.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  (crit = +119.0°C)
+temp2:        +29.8°C  (crit = +119.0°C)
+
+amdgpu-pci-0100
+Adapter: PCI adapter
+vddgfx:      881.00 mV 
+fan1:        2010 RPM  (min =    0 RPM, max = 3700 RPM)
+edge:         +40.0°C  (crit = +94.0°C, hyst = -273.1°C)
+slowPPT:      10.21 W  (cap = 127.00 W)
+
+nvme-pci-0900
+Adapter: PCI adapter
+Composite:    +32.9°C  (low  = -273.1°C, high = +84.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +32.9°C  (low  = -273.1°C, high = +65261.8°C)
+Sensor 2:     +40.9°C  (low  = -273.1°C, high = +65261.8°C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +50.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 0:        +50.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 1:        +50.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 2:        +45.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 3:        +45.0°C  (high = +80.0°C, crit = +100.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  (crit = +119.0°C)
+temp2:        +29.8°C  (crit = +119.0°C)
+
+amdgpu-pci-0100
+Adapter: PCI adapter
+vddgfx:      881.00 mV 
+fan1:        2010 RPM  (min =    0 RPM, max = 3700 RPM)
+edge:         +40.0°C  (crit = +94.0°C, hyst = -273.1°C)
+slowPPT:      10.25 W  (cap = 127.00 W)
+
+nvme-pci-0900
+Adapter: PCI adapter
+Composite:    +32.9°C  (low  = -273.1°C, high = +84.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +32.9°C  (low  = -273.1°C, high = +65261.8°C)
+Sensor 2:     +40.9°C  (low  = -273.1°C, high = +65261.8°C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +50.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 0:        +50.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 1:        +50.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 2:        +45.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 3:        +45.0°C  (high = +80.0°C, crit = +100.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  (crit = +119.0°C)
+temp2:        +29.8°C  (crit = +119.0°C)
+
+amdgpu-pci-0100
+Adapter: PCI adapter
+vddgfx:      881.00 mV 
+fan1:        2010 RPM  (min =    0 RPM, max = 3700 RPM)
+edge:         +40.0°C  (crit = +94.0°C, hyst = -273.1°C)
+slowPPT:      11.01 W  (cap = 127.00 W)
+
+nvme-pci-0900
+Adapter: PCI adapter
+Composite:    +32.9°C  (low  = -273.1°C, high = +84.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +32.9°C  (low  = -273.1°C, high = +65261.8°C)
+Sensor 2:     +40.9°C  (low  = -273.1°C, high = +65261.8°C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +50.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 0:        +50.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 1:        +50.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 2:        +45.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 3:        +45.0°C  (high = +80.0°C, crit = +100.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  (crit = +119.0°C)
+temp2:        +29.8°C  (crit = +119.0°C)
+
+amdgpu-pci-0100
+Adapter: PCI adapter
+vddgfx:      881.00 mV 
+fan1:        2010 RPM  (min =    0 RPM, max = 3700 RPM)
+edge:         +40.0°C  (crit = +94.0°C, hyst = -273.1°C)
+slowPPT:      11.02 W  (cap = 127.00 W)
+
+nvme-pci-0900
+Adapter: PCI adapter
+Composite:    +32.9°C  (low  = -273.1°C, high = +84.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +32.9°C  (low  = -273.1°C, high = +65261.8°C)
+Sensor 2:     +40.9°C  (low  = -273.1°C, high = +65261.8°C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +50.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 0:        +50.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 1:        +50.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 2:        +45.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 3:        +45.0°C  (high = +80.0°C, crit = +100.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  (crit = +119.0°C)
+temp2:        +29.8°C  (crit = +119.0°C)
+
+amdgpu-pci-0100
+Adapter: PCI adapter
+vddgfx:      881.00 mV 
+fan1:        2010 RPM  (min =    0 RPM, max = 3700 RPM)
+edge:         +40.0°C  (crit = +94.0°C, hyst = -273.1°C)
+slowPPT:      11.04 W  (cap = 127.00 W)
+
+nvme-pci-0900
+Adapter: PCI adapter
+Composite:    +32.9°C  (low  = -273.1°C, high = +84.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +32.9°C  (low  = -273.1°C, high = +65261.8°C)
+Sensor 2:     +40.9°C  (low  = -273.1°C, high = +65261.8°C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +50.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 0:        +50.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 1:        +50.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 2:        +45.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 3:        +45.0°C  (high = +80.0°C, crit = +100.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  (crit = +119.0°C)
+temp2:        +29.8°C  (crit = +119.0°C)
+
+amdgpu-pci-0100
+Adapter: PCI adapter
+vddgfx:      881.00 mV 
+fan1:        2010 RPM  (min =    0 RPM, max = 3700 RPM)
+edge:         +40.0°C  (crit = +94.0°C, hyst = -273.1°C)
+slowPPT:      11.09 W  (cap = 127.00 W)
+
+nvme-pci-0900
+Adapter: PCI adapter
+Composite:    +32.9°C  (low  = -273.1°C, high = +84.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +32.9°C  (low  = -273.1°C, high = +65261.8°C)
+Sensor 2:     +40.9°C  (low  = -273.1°C, high = +65261.8°C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +50.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 0:        +50.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 1:        +50.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 2:        +45.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 3:        +45.0°C  (high = +80.0°C, crit = +100.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  (crit = +119.0°C)
+temp2:        +29.8°C  (crit = +119.0°C)
+
+amdgpu-pci-0100
+Adapter: PCI adapter
+vddgfx:      881.00 mV 
+fan1:        2010 RPM  (min =    0 RPM, max = 3700 RPM)
+edge:         +40.0°C  (crit = +94.0°C, hyst = -273.1°C)
+slowPPT:      11.13 W  (cap = 127.00 W)
+
+nvme-pci-0900
+Adapter: PCI adapter
+Composite:    +32.9°C  (low  = -273.1°C, high = +84.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +32.9°C  (low  = -273.1°C, high = +65261.8°C)
+Sensor 2:     +40.9°C  (low  = -273.1°C, high = +65261.8°C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +50.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 0:        +50.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 1:        +50.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 2:        +45.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 3:        +45.0°C  (high = +80.0°C, crit = +100.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  (crit = +119.0°C)
+temp2:        +29.8°C  (crit = +119.0°C)
+
+amdgpu-pci-0100
+Adapter: PCI adapter
+vddgfx:      881.00 mV 
+fan1:        2010 RPM  (min =    0 RPM, max = 3700 RPM)
+edge:         +40.0°C  (crit = +94.0°C, hyst = -273.1°C)
+slowPPT:      11.16 W  (cap = 127.00 W)
+
+nvme-pci-0900
+Adapter: PCI adapter
+Composite:    +32.9°C  (low  = -273.1°C, high = +84.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +32.9°C  (low  = -273.1°C, high = +65261.8°C)
+Sensor 2:     +40.9°C  (low  = -273.1°C, high = +65261.8°C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +50.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 0:        +50.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 1:        +50.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 2:        +45.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 3:        +45.0°C  (high = +80.0°C, crit = +100.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  (crit = +119.0°C)
+temp2:        +29.8°C  (crit = +119.0°C)
+
+amdgpu-pci-0100
+Adapter: PCI adapter
+vddgfx:      881.00 mV 
+fan1:        2010 RPM  (min =    0 RPM, max = 3700 RPM)
+edge:         +40.0°C  (crit = +94.0°C, hyst = -273.1°C)
+slowPPT:      11.19 W  (cap = 127.00 W)
+
+nvme-pci-0900
+Adapter: PCI adapter
+Composite:    +32.9°C  (low  = -273.1°C, high = +84.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +32.9°C  (low  = -273.1°C, high = +65261.8°C)
+Sensor 2:     +40.9°C  (low  = -273.1°C, high = +65261.8°C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +50.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 0:        +50.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 1:        +50.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 2:        +45.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 3:        +45.0°C  (high = +80.0°C, crit = +100.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  (crit = +119.0°C)
+temp2:        +29.8°C  (crit = +119.0°C)
+
+amdgpu-pci-0100
+Adapter: PCI adapter
+vddgfx:      750.00 mV 
+fan1:        2010 RPM  (min =    0 RPM, max = 3700 RPM)
+edge:         +40.0°C  (crit = +94.0°C, hyst = -273.1°C)
+slowPPT:      11.19 W  (cap = 127.00 W)
+
+nvme-pci-0900
+Adapter: PCI adapter
+Composite:    +32.9°C  (low  = -273.1°C, high = +84.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +32.9°C  (low  = -273.1°C, high = +65261.8°C)
+Sensor 2:     +40.9°C  (low  = -273.1°C, high = +65261.8°C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +50.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 0:        +50.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 1:        +50.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 2:        +45.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 3:        +45.0°C  (high = +80.0°C, crit = +100.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  (crit = +119.0°C)
+temp2:        +29.8°C  (crit = +119.0°C)
+
+amdgpu-pci-0100
+Adapter: PCI adapter
+vddgfx:      750.00 mV 
+fan1:        2010 RPM  (min =    0 RPM, max = 3700 RPM)
+edge:         +40.0°C  (crit = +94.0°C, hyst = -273.1°C)
+slowPPT:      11.08 W  (cap = 127.00 W)
+
+nvme-pci-0900
+Adapter: PCI adapter
+Composite:    +32.9°C  (low  = -273.1°C, high = +84.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +32.9°C  (low  = -273.1°C, high = +65261.8°C)
+Sensor 2:     +40.9°C  (low  = -273.1°C, high = +65261.8°C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +50.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 0:        +50.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 1:        +50.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 2:        +45.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 3:        +45.0°C  (high = +80.0°C, crit = +100.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  (crit = +119.0°C)
+temp2:        +29.8°C  (crit = +119.0°C)
+
+amdgpu-pci-0100
+Adapter: PCI adapter
+vddgfx:      750.00 mV 
+fan1:        2010 RPM  (min =    0 RPM, max = 3700 RPM)
+edge:         +40.0°C  (crit = +94.0°C, hyst = -273.1°C)
+slowPPT:      11.01 W  (cap = 127.00 W)
+
+nvme-pci-0900
+Adapter: PCI adapter
+Composite:    +32.9°C  (low  = -273.1°C, high = +84.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +32.9°C  (low  = -273.1°C, high = +65261.8°C)
+Sensor 2:     +40.9°C  (low  = -273.1°C, high = +65261.8°C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +50.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 0:        +50.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 1:        +50.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 2:        +45.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 3:        +45.0°C  (high = +80.0°C, crit = +100.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  (crit = +119.0°C)
+temp2:        +29.8°C  (crit = +119.0°C)
+
+amdgpu-pci-0100
+Adapter: PCI adapter
+vddgfx:      750.00 mV 
+fan1:        2010 RPM  (min =    0 RPM, max = 3700 RPM)
+edge:         +40.0°C  (crit = +94.0°C, hyst = -273.1°C)
+slowPPT:      10.18 W  (cap = 127.00 W)
+
+nvme-pci-0900
+Adapter: PCI adapter
+Composite:    +32.9°C  (low  = -273.1°C, high = +84.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +32.9°C  (low  = -273.1°C, high = +65261.8°C)
+Sensor 2:     +40.9°C  (low  = -273.1°C, high = +65261.8°C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +50.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 0:        +50.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 1:        +50.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 2:        +45.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 3:        +45.0°C  (high = +80.0°C, crit = +100.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  (crit = +119.0°C)
+temp2:        +29.8°C  (crit = +119.0°C)
+
+amdgpu-pci-0100
+Adapter: PCI adapter
+vddgfx:      750.00 mV 
+fan1:        2010 RPM  (min =    0 RPM, max = 3700 RPM)
+edge:         +40.0°C  (crit = +94.0°C, hyst = -273.1°C)
+slowPPT:      10.12 W  (cap = 127.00 W)
+
+nvme-pci-0900
+Adapter: PCI adapter
+Composite:    +32.9°C  (low  = -273.1°C, high = +84.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +32.9°C  (low  = -273.1°C, high = +65261.8°C)
+Sensor 2:     +40.9°C  (low  = -273.1°C, high = +65261.8°C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +50.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 0:        +50.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 1:        +50.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 2:        +45.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 3:        +45.0°C  (high = +80.0°C, crit = +100.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  (crit = +119.0°C)
+temp2:        +29.8°C  (crit = +119.0°C)
+
+amdgpu-pci-0100
+Adapter: PCI adapter
+vddgfx:      750.00 mV 
+fan1:        2010 RPM  (min =    0 RPM, max = 3700 RPM)
+edge:         +40.0°C  (crit = +94.0°C, hyst = -273.1°C)
+slowPPT:      10.07 W  (cap = 127.00 W)
+
+nvme-pci-0900
+Adapter: PCI adapter
+Composite:    +32.9°C  (low  = -273.1°C, high = +84.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +32.9°C  (low  = -273.1°C, high = +65261.8°C)
+Sensor 2:     +40.9°C  (low  = -273.1°C, high = +65261.8°C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +50.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 0:        +50.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 1:        +50.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 2:        +45.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 3:        +45.0°C  (high = +80.0°C, crit = +100.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  (crit = +119.0°C)
+temp2:        +29.8°C  (crit = +119.0°C)
+
+amdgpu-pci-0100
+Adapter: PCI adapter
+vddgfx:      750.00 mV 
+fan1:        2010 RPM  (min =    0 RPM, max = 3700 RPM)
+edge:         +40.0°C  (crit = +94.0°C, hyst = -273.1°C)
+slowPPT:      10.03 W  (cap = 127.00 W)
+
+nvme-pci-0900
+Adapter: PCI adapter
+Composite:    +32.9°C  (low  = -273.1°C, high = +84.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +32.9°C  (low  = -273.1°C, high = +65261.8°C)
+Sensor 2:     +40.9°C  (low  = -273.1°C, high = +65261.8°C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +51.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 0:        +51.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 1:        +42.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 2:        +40.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 3:        +51.0°C  (high = +80.0°C, crit = +100.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  (crit = +119.0°C)
+temp2:        +29.8°C  (crit = +119.0°C)
+
+amdgpu-pci-0100
+Adapter: PCI adapter
+vddgfx:      750.00 mV 
+fan1:        2010 RPM  (min =    0 RPM, max = 3700 RPM)
+edge:         +40.0°C  (crit = +94.0°C, hyst = -273.1°C)
+slowPPT:       9.24 W  (cap = 127.00 W)
+
+nvme-pci-0900
+Adapter: PCI adapter
+Composite:    +32.9°C  (low  = -273.1°C, high = +84.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +32.9°C  (low  = -273.1°C, high = +65261.8°C)
+Sensor 2:     +40.9°C  (low  = -273.1°C, high = +65261.8°C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +51.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 0:        +51.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 1:        +42.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 2:        +40.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 3:        +51.0°C  (high = +80.0°C, crit = +100.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  (crit = +119.0°C)
+temp2:        +29.8°C  (crit = +119.0°C)
+
+amdgpu-pci-0100
+Adapter: PCI adapter
+vddgfx:      750.00 mV 
+fan1:        2010 RPM  (min =    0 RPM, max = 3700 RPM)
+edge:         +40.0°C  (crit = +94.0°C, hyst = -273.1°C)
+slowPPT:       9.18 W  (cap = 127.00 W)
+
+nvme-pci-0900
+Adapter: PCI adapter
+Composite:    +32.9°C  (low  = -273.1°C, high = +84.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +32.9°C  (low  = -273.1°C, high = +65261.8°C)
+Sensor 2:     +40.9°C  (low  = -273.1°C, high = +65261.8°C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +51.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 0:        +51.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 1:        +42.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 2:        +40.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 3:        +51.0°C  (high = +80.0°C, crit = +100.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  (crit = +119.0°C)
+temp2:        +29.8°C  (crit = +119.0°C)
+
+amdgpu-pci-0100
+Adapter: PCI adapter
+vddgfx:      750.00 mV 
+fan1:        2010 RPM  (min =    0 RPM, max = 3700 RPM)
+edge:         +40.0°C  (crit = +94.0°C, hyst = -273.1°C)
+slowPPT:       9.17 W  (cap = 127.00 W)
+
+nvme-pci-0900
+Adapter: PCI adapter
+Composite:    +32.9°C  (low  = -273.1°C, high = +84.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +32.9°C  (low  = -273.1°C, high = +65261.8°C)
+Sensor 2:     +40.9°C  (low  = -273.1°C, high = +65261.8°C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +51.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 0:        +51.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 1:        +42.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 2:        +40.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 3:        +51.0°C  (high = +80.0°C, crit = +100.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  (crit = +119.0°C)
+temp2:        +29.8°C  (crit = +119.0°C)
+
+amdgpu-pci-0100
+Adapter: PCI adapter
+vddgfx:      750.00 mV 
+fan1:        2010 RPM  (min =    0 RPM, max = 3700 RPM)
+edge:         +40.0°C  (crit = +94.0°C, hyst = -273.1°C)
+slowPPT:       9.14 W  (cap = 127.00 W)
+
+nvme-pci-0900
+Adapter: PCI adapter
+Composite:    +32.9°C  (low  = -273.1°C, high = +84.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +32.9°C  (low  = -273.1°C, high = +65261.8°C)
+Sensor 2:     +40.9°C  (low  = -273.1°C, high = +65261.8°C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +51.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 0:        +51.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 1:        +42.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 2:        +40.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 3:        +51.0°C  (high = +80.0°C, crit = +100.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  (crit = +119.0°C)
+temp2:        +29.8°C  (crit = +119.0°C)
+
+amdgpu-pci-0100
+Adapter: PCI adapter
+vddgfx:      750.00 mV 
+fan1:        2010 RPM  (min =    0 RPM, max = 3700 RPM)
+edge:         +40.0°C  (crit = +94.0°C, hyst = -273.1°C)
+slowPPT:       9.13 W  (cap = 127.00 W)
+
+nvme-pci-0900
+Adapter: PCI adapter
+Composite:    +32.9°C  (low  = -273.1°C, high = +84.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +32.9°C  (low  = -273.1°C, high = +65261.8°C)
+Sensor 2:     +40.9°C  (low  = -273.1°C, high = +65261.8°C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +51.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 0:        +51.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 1:        +42.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 2:        +40.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 3:        +51.0°C  (high = +80.0°C, crit = +100.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  (crit = +119.0°C)
+temp2:        +29.8°C  (crit = +119.0°C)
+
+amdgpu-pci-0100
+Adapter: PCI adapter
+vddgfx:      750.00 mV 
+fan1:        2010 RPM  (min =    0 RPM, max = 3700 RPM)
+edge:         +40.0°C  (crit = +94.0°C, hyst = -273.1°C)
+slowPPT:       9.11 W  (cap = 127.00 W)
+
+nvme-pci-0900
+Adapter: PCI adapter
+Composite:    +32.9°C  (low  = -273.1°C, high = +84.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +32.9°C  (low  = -273.1°C, high = +65261.8°C)
+Sensor 2:     +40.9°C  (low  = -273.1°C, high = +65261.8°C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +51.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 0:        +51.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 1:        +42.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 2:        +40.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 3:        +51.0°C  (high = +80.0°C, crit = +100.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  (crit = +119.0°C)
+temp2:        +29.8°C  (crit = +119.0°C)
+
+amdgpu-pci-0100
+Adapter: PCI adapter
+vddgfx:      750.00 mV 
+fan1:        2010 RPM  (min =    0 RPM, max = 3700 RPM)
+edge:         +40.0°C  (crit = +94.0°C, hyst = -273.1°C)
+slowPPT:       9.07 W  (cap = 127.00 W)
+
+nvme-pci-0900
+Adapter: PCI adapter
+Composite:    +32.9°C  (low  = -273.1°C, high = +84.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +32.9°C  (low  = -273.1°C, high = +65261.8°C)
+Sensor 2:     +40.9°C  (low  = -273.1°C, high = +65261.8°C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +51.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 0:        +51.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 1:        +42.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 2:        +40.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 3:        +51.0°C  (high = +80.0°C, crit = +100.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  (crit = +119.0°C)
+temp2:        +29.8°C  (crit = +119.0°C)
+
+amdgpu-pci-0100
+Adapter: PCI adapter
+vddgfx:      750.00 mV 
+fan1:        2010 RPM  (min =    0 RPM, max = 3700 RPM)
+edge:         +40.0°C  (crit = +94.0°C, hyst = -273.1°C)
+slowPPT:       9.05 W  (cap = 127.00 W)
+
+nvme-pci-0900
+Adapter: PCI adapter
+Composite:    +32.9°C  (low  = -273.1°C, high = +84.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +32.9°C  (low  = -273.1°C, high = +65261.8°C)
+Sensor 2:     +40.9°C  (low  = -273.1°C, high = +65261.8°C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +51.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 0:        +51.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 1:        +42.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 2:        +40.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 3:        +51.0°C  (high = +80.0°C, crit = +100.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  (crit = +119.0°C)
+temp2:        +29.8°C  (crit = +119.0°C)
+
+amdgpu-pci-0100
+Adapter: PCI adapter
+vddgfx:      750.00 mV 
+fan1:        2010 RPM  (min =    0 RPM, max = 3700 RPM)
+edge:         +40.0°C  (crit = +94.0°C, hyst = -273.1°C)
+slowPPT:       9.04 W  (cap = 127.00 W)
+
+nvme-pci-0900
+Adapter: PCI adapter
+Composite:    +32.9°C  (low  = -273.1°C, high = +84.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +32.9°C  (low  = -273.1°C, high = +65261.8°C)
+Sensor 2:     +40.9°C  (low  = -273.1°C, high = +65261.8°C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +51.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 0:        +51.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 1:        +42.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 2:        +40.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 3:        +51.0°C  (high = +80.0°C, crit = +100.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  (crit = +119.0°C)
+temp2:        +29.8°C  (crit = +119.0°C)
+
+amdgpu-pci-0100
+Adapter: PCI adapter
+vddgfx:      750.00 mV 
+fan1:        2010 RPM  (min =    0 RPM, max = 3700 RPM)
+edge:         +40.0°C  (crit = +94.0°C, hyst = -273.1°C)
+slowPPT:       9.04 W  (cap = 127.00 W)
+
+nvme-pci-0900
+Adapter: PCI adapter
+Composite:    +32.9°C  (low  = -273.1°C, high = +84.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +32.9°C  (low  = -273.1°C, high = +65261.8°C)
+Sensor 2:     +40.9°C  (low  = -273.1°C, high = +65261.8°C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +51.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 0:        +51.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 1:        +42.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 2:        +40.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 3:        +51.0°C  (high = +80.0°C, crit = +100.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  (crit = +119.0°C)
+temp2:        +29.8°C  (crit = +119.0°C)
+
+amdgpu-pci-0100
+Adapter: PCI adapter
+vddgfx:      750.00 mV 
+fan1:        2010 RPM  (min =    0 RPM, max = 3700 RPM)
+edge:         +40.0°C  (crit = +94.0°C, hyst = -273.1°C)
+slowPPT:       9.03 W  (cap = 127.00 W)
+
+nvme-pci-0900
+Adapter: PCI adapter
+Composite:    +32.9°C  (low  = -273.1°C, high = +84.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +32.9°C  (low  = -273.1°C, high = +65261.8°C)
+Sensor 2:     +40.9°C  (low  = -273.1°C, high = +65261.8°C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +51.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 0:        +51.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 1:        +42.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 2:        +40.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 3:        +51.0°C  (high = +80.0°C, crit = +100.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  (crit = +119.0°C)
+temp2:        +29.8°C  (crit = +119.0°C)
+
+amdgpu-pci-0100
+Adapter: PCI adapter
+vddgfx:      750.00 mV 
+fan1:        2010 RPM  (min =    0 RPM, max = 3700 RPM)
+edge:         +40.0°C  (crit = +94.0°C, hyst = -273.1°C)
+slowPPT:       9.02 W  (cap = 127.00 W)
+
+nvme-pci-0900
+Adapter: PCI adapter
+Composite:    +32.9°C  (low  = -273.1°C, high = +84.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +32.9°C  (low  = -273.1°C, high = +65261.8°C)
+Sensor 2:     +40.9°C  (low  = -273.1°C, high = +65261.8°C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +51.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 0:        +51.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 1:        +42.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 2:        +40.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 3:        +51.0°C  (high = +80.0°C, crit = +100.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  (crit = +119.0°C)
+temp2:        +29.8°C  (crit = +119.0°C)
+
+amdgpu-pci-0100
+Adapter: PCI adapter
+vddgfx:      750.00 mV 
+fan1:        2010 RPM  (min =    0 RPM, max = 3700 RPM)
+edge:         +40.0°C  (crit = +94.0°C, hyst = -273.1°C)
+slowPPT:       9.03 W  (cap = 127.00 W)
+
+nvme-pci-0900
+Adapter: PCI adapter
+Composite:    +32.9°C  (low  = -273.1°C, high = +84.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +32.9°C  (low  = -273.1°C, high = +65261.8°C)
+Sensor 2:     +40.9°C  (low  = -273.1°C, high = +65261.8°C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +51.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 0:        +51.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 1:        +42.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 2:        +40.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 3:        +51.0°C  (high = +80.0°C, crit = +100.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  (crit = +119.0°C)
+temp2:        +29.8°C  (crit = +119.0°C)
+
+amdgpu-pci-0100
+Adapter: PCI adapter
+vddgfx:      750.00 mV 
+fan1:        2010 RPM  (min =    0 RPM, max = 3700 RPM)
+edge:         +40.0°C  (crit = +94.0°C, hyst = -273.1°C)
+slowPPT:       9.03 W  (cap = 127.00 W)
+
+nvme-pci-0900
+Adapter: PCI adapter
+Composite:    +32.9°C  (low  = -273.1°C, high = +84.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +32.9°C  (low  = -273.1°C, high = +65261.8°C)
+Sensor 2:     +40.9°C  (low  = -273.1°C, high = +65261.8°C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +51.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 0:        +51.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 1:        +42.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 2:        +40.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 3:        +51.0°C  (high = +80.0°C, crit = +100.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  (crit = +119.0°C)
+temp2:        +29.8°C  (crit = +119.0°C)
+
+amdgpu-pci-0100
+Adapter: PCI adapter
+vddgfx:      750.00 mV 
+fan1:        2010 RPM  (min =    0 RPM, max = 3700 RPM)
+edge:         +40.0°C  (crit = +94.0°C, hyst = -273.1°C)
+slowPPT:       9.02 W  (cap = 127.00 W)
+
+nvme-pci-0900
+Adapter: PCI adapter
+Composite:    +32.9°C  (low  = -273.1°C, high = +84.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +32.9°C  (low  = -273.1°C, high = +65261.8°C)
+Sensor 2:     +40.9°C  (low  = -273.1°C, high = +65261.8°C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +51.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 0:        +51.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 1:        +42.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 2:        +40.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 3:        +51.0°C  (high = +80.0°C, crit = +100.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  (crit = +119.0°C)
+temp2:        +29.8°C  (crit = +119.0°C)
+
+amdgpu-pci-0100
+Adapter: PCI adapter
+vddgfx:      750.00 mV 
+fan1:        2010 RPM  (min =    0 RPM, max = 3700 RPM)
+edge:         +40.0°C  (crit = +94.0°C, hyst = -273.1°C)
+slowPPT:       9.01 W  (cap = 127.00 W)
+
+nvme-pci-0900
+Adapter: PCI adapter
+Composite:    +32.9°C  (low  = -273.1°C, high = +84.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +32.9°C  (low  = -273.1°C, high = +65261.8°C)
+Sensor 2:     +40.9°C  (low  = -273.1°C, high = +65261.8°C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +51.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 0:        +51.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 1:        +42.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 2:        +40.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 3:        +51.0°C  (high = +80.0°C, crit = +100.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  (crit = +119.0°C)
+temp2:        +29.8°C  (crit = +119.0°C)
+
+amdgpu-pci-0100
+Adapter: PCI adapter
+vddgfx:      750.00 mV 
+fan1:        2010 RPM  (min =    0 RPM, max = 3700 RPM)
+edge:         +40.0°C  (crit = +94.0°C, hyst = -273.1°C)
+slowPPT:       9.02 W  (cap = 127.00 W)
+
+nvme-pci-0900
+Adapter: PCI adapter
+Composite:    +32.9°C  (low  = -273.1°C, high = +84.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +32.9°C  (low  = -273.1°C, high = +65261.8°C)
+Sensor 2:     +40.9°C  (low  = -273.1°C, high = +65261.8°C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +51.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 0:        +51.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 1:        +42.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 2:        +40.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 3:        +51.0°C  (high = +80.0°C, crit = +100.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  (crit = +119.0°C)
+temp2:        +29.8°C  (crit = +119.0°C)
+
+amdgpu-pci-0100
+Adapter: PCI adapter
+vddgfx:      750.00 mV 
+fan1:        2010 RPM  (min =    0 RPM, max = 3700 RPM)
+edge:         +40.0°C  (crit = +94.0°C, hyst = -273.1°C)
+slowPPT:       9.01 W  (cap = 127.00 W)
+
+nvme-pci-0900
+Adapter: PCI adapter
+Composite:    +32.9°C  (low  = -273.1°C, high = +84.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +32.9°C  (low  = -273.1°C, high = +65261.8°C)
+Sensor 2:     +40.9°C  (low  = -273.1°C, high = +65261.8°C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +51.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 0:        +51.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 1:        +42.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 2:        +40.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 3:        +51.0°C  (high = +80.0°C, crit = +100.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  (crit = +119.0°C)
+temp2:        +29.8°C  (crit = +119.0°C)
+
+amdgpu-pci-0100
+Adapter: PCI adapter
+vddgfx:      750.00 mV 
+fan1:        2010 RPM  (min =    0 RPM, max = 3700 RPM)
+edge:         +40.0°C  (crit = +94.0°C, hyst = -273.1°C)
+slowPPT:       9.00 W  (cap = 127.00 W)
+
+nvme-pci-0900
+Adapter: PCI adapter
+Composite:    +32.9°C  (low  = -273.1°C, high = +84.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +32.9°C  (low  = -273.1°C, high = +65261.8°C)
+Sensor 2:     +40.9°C  (low  = -273.1°C, high = +65261.8°C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +51.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 0:        +51.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 1:        +42.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 2:        +40.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 3:        +51.0°C  (high = +80.0°C, crit = +100.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  (crit = +119.0°C)
+temp2:        +29.8°C  (crit = +119.0°C)
+
+amdgpu-pci-0100
+Adapter: PCI adapter
+vddgfx:      750.00 mV 
+fan1:        2010 RPM  (min =    0 RPM, max = 3700 RPM)
+edge:         +40.0°C  (crit = +94.0°C, hyst = -273.1°C)
+slowPPT:       8.25 W  (cap = 127.00 W)
+
+nvme-pci-0900
+Adapter: PCI adapter
+Composite:    +32.9°C  (low  = -273.1°C, high = +84.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +32.9°C  (low  = -273.1°C, high = +65261.8°C)
+Sensor 2:     +40.9°C  (low  = -273.1°C, high = +65261.8°C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +51.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 0:        +51.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 1:        +42.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 2:        +40.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 3:        +51.0°C  (high = +80.0°C, crit = +100.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  (crit = +119.0°C)
+temp2:        +29.8°C  (crit = +119.0°C)
+
+amdgpu-pci-0100
+Adapter: PCI adapter
+vddgfx:      750.00 mV 
+fan1:        2010 RPM  (min =    0 RPM, max = 3700 RPM)
+edge:         +40.0°C  (crit = +94.0°C, hyst = -273.1°C)
+slowPPT:       8.26 W  (cap = 127.00 W)
+
+nvme-pci-0900
+Adapter: PCI adapter
+Composite:    +32.9°C  (low  = -273.1°C, high = +84.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +32.9°C  (low  = -273.1°C, high = +65261.8°C)
+Sensor 2:     +40.9°C  (low  = -273.1°C, high = +65261.8°C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +51.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 0:        +51.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 1:        +42.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 2:        +40.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 3:        +51.0°C  (high = +80.0°C, crit = +100.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  (crit = +119.0°C)
+temp2:        +29.8°C  (crit = +119.0°C)
+
+amdgpu-pci-0100
+Adapter: PCI adapter
+vddgfx:      750.00 mV 
+fan1:        2010 RPM  (min =    0 RPM, max = 3700 RPM)
+edge:         +40.0°C  (crit = +94.0°C, hyst = -273.1°C)
+slowPPT:       8.25 W  (cap = 127.00 W)
+
+nvme-pci-0900
+Adapter: PCI adapter
+Composite:    +32.9°C  (low  = -273.1°C, high = +84.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +32.9°C  (low  = -273.1°C, high = +65261.8°C)
+Sensor 2:     +40.9°C  (low  = -273.1°C, high = +65261.8°C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +51.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 0:        +51.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 1:        +42.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 2:        +40.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 3:        +51.0°C  (high = +80.0°C, crit = +100.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  (crit = +119.0°C)
+temp2:        +29.8°C  (crit = +119.0°C)
+
+amdgpu-pci-0100
+Adapter: PCI adapter
+vddgfx:      750.00 mV 
+fan1:        2010 RPM  (min =    0 RPM, max = 3700 RPM)
+edge:         +40.0°C  (crit = +94.0°C, hyst = -273.1°C)
+slowPPT:       8.25 W  (cap = 127.00 W)
+
+nvme-pci-0900
+Adapter: PCI adapter
+Composite:    +32.9°C  (low  = -273.1°C, high = +84.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +32.9°C  (low  = -273.1°C, high = +65261.8°C)
+Sensor 2:     +41.9°C  (low  = -273.1°C, high = +65261.8°C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +51.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 0:        +51.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 1:        +42.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 2:        +40.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 3:        +51.0°C  (high = +80.0°C, crit = +100.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  (crit = +119.0°C)
+temp2:        +29.8°C  (crit = +119.0°C)
+
+amdgpu-pci-0100
+Adapter: PCI adapter
+vddgfx:      750.00 mV 
+fan1:        2010 RPM  (min =    0 RPM, max = 3700 RPM)
+edge:         +40.0°C  (crit = +94.0°C, hyst = -273.1°C)
+slowPPT:       8.24 W  (cap = 127.00 W)
+
+nvme-pci-0900
+Adapter: PCI adapter
+Composite:    +32.9°C  (low  = -273.1°C, high = +84.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +32.9°C  (low  = -273.1°C, high = +65261.8°C)
+Sensor 2:     +40.9°C  (low  = -273.1°C, high = +65261.8°C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +51.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 0:        +51.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 1:        +42.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 2:        +40.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 3:        +51.0°C  (high = +80.0°C, crit = +100.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  (crit = +119.0°C)
+temp2:        +29.8°C  (crit = +119.0°C)
+
+amdgpu-pci-0100
+Adapter: PCI adapter
+vddgfx:      750.00 mV 
+fan1:        2010 RPM  (min =    0 RPM, max = 3700 RPM)
+edge:         +40.0°C  (crit = +94.0°C, hyst = -273.1°C)
+slowPPT:       8.24 W  (cap = 127.00 W)
+
+nvme-pci-0900
+Adapter: PCI adapter
+Composite:    +32.9°C  (low  = -273.1°C, high = +84.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +32.9°C  (low  = -273.1°C, high = +65261.8°C)
+Sensor 2:     +40.9°C  (low  = -273.1°C, high = +65261.8°C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +51.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 0:        +51.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 1:        +42.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 2:        +40.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 3:        +51.0°C  (high = +80.0°C, crit = +100.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  (crit = +119.0°C)
+temp2:        +29.8°C  (crit = +119.0°C)
+
+amdgpu-pci-0100
+Adapter: PCI adapter
+vddgfx:      750.00 mV 
+fan1:        2010 RPM  (min =    0 RPM, max = 3700 RPM)
+edge:         +40.0°C  (crit = +94.0°C, hyst = -273.1°C)
+slowPPT:       8.25 W  (cap = 127.00 W)
+
+nvme-pci-0900
+Adapter: PCI adapter
+Composite:    +32.9°C  (low  = -273.1°C, high = +84.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +32.9°C  (low  = -273.1°C, high = +65261.8°C)
+Sensor 2:     +41.9°C  (low  = -273.1°C, high = +65261.8°C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +51.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 0:        +51.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 1:        +42.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 2:        +40.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 3:        +51.0°C  (high = +80.0°C, crit = +100.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  (crit = +119.0°C)
+temp2:        +29.8°C  (crit = +119.0°C)
+
+amdgpu-pci-0100
+Adapter: PCI adapter
+vddgfx:      750.00 mV 
+fan1:        2010 RPM  (min =    0 RPM, max = 3700 RPM)
+edge:         +40.0°C  (crit = +94.0°C, hyst = -273.1°C)
+slowPPT:       8.24 W  (cap = 127.00 W)
+
+nvme-pci-0900
+Adapter: PCI adapter
+Composite:    +32.9°C  (low  = -273.1°C, high = +84.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +32.9°C  (low  = -273.1°C, high = +65261.8°C)
+Sensor 2:     +41.9°C  (low  = -273.1°C, high = +65261.8°C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +51.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 0:        +51.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 1:        +42.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 2:        +40.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 3:        +51.0°C  (high = +80.0°C, crit = +100.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  (crit = +119.0°C)
+temp2:        +29.8°C  (crit = +119.0°C)
+
+amdgpu-pci-0100
+Adapter: PCI adapter
+vddgfx:      750.00 mV 
+fan1:        2010 RPM  (min =    0 RPM, max = 3700 RPM)
+edge:         +40.0°C  (crit = +94.0°C, hyst = -273.1°C)
+slowPPT:       8.23 W  (cap = 127.00 W)
+
+nvme-pci-0900
+Adapter: PCI adapter
+Composite:    +32.9°C  (low  = -273.1°C, high = +84.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +32.9°C  (low  = -273.1°C, high = +65261.8°C)
+Sensor 2:     +41.9°C  (low  = -273.1°C, high = +65261.8°C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +51.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 0:        +51.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 1:        +42.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 2:        +40.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 3:        +51.0°C  (high = +80.0°C, crit = +100.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  (crit = +119.0°C)
+temp2:        +29.8°C  (crit = +119.0°C)
+
+amdgpu-pci-0100
+Adapter: PCI adapter
+vddgfx:      750.00 mV 
+fan1:        2010 RPM  (min =    0 RPM, max = 3700 RPM)
+edge:         +40.0°C  (crit = +94.0°C, hyst = -273.1°C)
+slowPPT:       8.23 W  (cap = 127.00 W)
+
+nvme-pci-0900
+Adapter: PCI adapter
+Composite:    +32.9°C  (low  = -273.1°C, high = +84.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +32.9°C  (low  = -273.1°C, high = +65261.8°C)
+Sensor 2:     +41.9°C  (low  = -273.1°C, high = +65261.8°C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +51.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 0:        +51.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 1:        +42.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 2:        +40.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 3:        +51.0°C  (high = +80.0°C, crit = +100.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  (crit = +119.0°C)
+temp2:        +29.8°C  (crit = +119.0°C)
+
+amdgpu-pci-0100
+Adapter: PCI adapter
+vddgfx:      750.00 mV 
+fan1:        2010 RPM  (min =    0 RPM, max = 3700 RPM)
+edge:         +40.0°C  (crit = +94.0°C, hyst = -273.1°C)
+slowPPT:       8.24 W  (cap = 127.00 W)
+
+nvme-pci-0900
+Adapter: PCI adapter
+Composite:    +32.9°C  (low  = -273.1°C, high = +84.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +32.9°C  (low  = -273.1°C, high = +65261.8°C)
+Sensor 2:     +41.9°C  (low  = -273.1°C, high = +65261.8°C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +51.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 0:        +51.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 1:        +42.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 2:        +40.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 3:        +51.0°C  (high = +80.0°C, crit = +100.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  (crit = +119.0°C)
+temp2:        +29.8°C  (crit = +119.0°C)
+
+amdgpu-pci-0100
+Adapter: PCI adapter
+vddgfx:      750.00 mV 
+fan1:        2010 RPM  (min =    0 RPM, max = 3700 RPM)
+edge:         +40.0°C  (crit = +94.0°C, hyst = -273.1°C)
+slowPPT:       8.26 W  (cap = 127.00 W)
+
+nvme-pci-0900
+Adapter: PCI adapter
+Composite:    +32.9°C  (low  = -273.1°C, high = +84.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +32.9°C  (low  = -273.1°C, high = +65261.8°C)
+Sensor 2:     +41.9°C  (low  = -273.1°C, high = +65261.8°C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +51.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 0:        +51.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 1:        +42.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 2:        +40.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 3:        +51.0°C  (high = +80.0°C, crit = +100.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  (crit = +119.0°C)
+temp2:        +29.8°C  (crit = +119.0°C)
+
+amdgpu-pci-0100
+Adapter: PCI adapter
+vddgfx:      750.00 mV 
+fan1:        2010 RPM  (min =    0 RPM, max = 3700 RPM)
+edge:         +40.0°C  (crit = +94.0°C, hyst = -273.1°C)
+slowPPT:       9.00 W  (cap = 127.00 W)
+
+nvme-pci-0900
+Adapter: PCI adapter
+Composite:    +32.9°C  (low  = -273.1°C, high = +84.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +32.9°C  (low  = -273.1°C, high = +65261.8°C)
+Sensor 2:     +41.9°C  (low  = -273.1°C, high = +65261.8°C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +51.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 0:        +51.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 1:        +42.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 2:        +40.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 3:        +51.0°C  (high = +80.0°C, crit = +100.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  (crit = +119.0°C)
+temp2:        +29.8°C  (crit = +119.0°C)
+
+amdgpu-pci-0100
+Adapter: PCI adapter
+vddgfx:      750.00 mV 
+fan1:        2010 RPM  (min =    0 RPM, max = 3700 RPM)
+edge:         +40.0°C  (crit = +94.0°C, hyst = -273.1°C)
+slowPPT:       9.01 W  (cap = 127.00 W)
+
+nvme-pci-0900
+Adapter: PCI adapter
+Composite:    +32.9°C  (low  = -273.1°C, high = +84.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +32.9°C  (low  = -273.1°C, high = +65261.8°C)
+Sensor 2:     +41.9°C  (low  = -273.1°C, high = +65261.8°C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +51.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 0:        +51.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 1:        +42.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 2:        +40.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 3:        +51.0°C  (high = +80.0°C, crit = +100.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  (crit = +119.0°C)
+temp2:        +29.8°C  (crit = +119.0°C)
+
+amdgpu-pci-0100
+Adapter: PCI adapter
+vddgfx:      750.00 mV 
+fan1:        2010 RPM  (min =    0 RPM, max = 3700 RPM)
+edge:         +40.0°C  (crit = +94.0°C, hyst = -273.1°C)
+slowPPT:       9.01 W  (cap = 127.00 W)
+
+nvme-pci-0900
+Adapter: PCI adapter
+Composite:    +32.9°C  (low  = -273.1°C, high = +84.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +32.9°C  (low  = -273.1°C, high = +65261.8°C)
+Sensor 2:     +41.9°C  (low  = -273.1°C, high = +65261.8°C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +51.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 0:        +51.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 1:        +42.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 2:        +40.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 3:        +51.0°C  (high = +80.0°C, crit = +100.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  (crit = +119.0°C)
+temp2:        +29.8°C  (crit = +119.0°C)
+
+amdgpu-pci-0100
+Adapter: PCI adapter
+vddgfx:      750.00 mV 
+fan1:        2010 RPM  (min =    0 RPM, max = 3700 RPM)
+edge:         +40.0°C  (crit = +94.0°C, hyst = -273.1°C)
+slowPPT:       8.25 W  (cap = 127.00 W)
+
+nvme-pci-0900
+Adapter: PCI adapter
+Composite:    +32.9°C  (low  = -273.1°C, high = +84.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +32.9°C  (low  = -273.1°C, high = +65261.8°C)
+Sensor 2:     +41.9°C  (low  = -273.1°C, high = +65261.8°C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +51.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 0:        +51.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 1:        +42.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 2:        +40.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 3:        +51.0°C  (high = +80.0°C, crit = +100.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  (crit = +119.0°C)
+temp2:        +29.8°C  (crit = +119.0°C)
+
+amdgpu-pci-0100
+Adapter: PCI adapter
+vddgfx:      750.00 mV 
+fan1:        2010 RPM  (min =    0 RPM, max = 3700 RPM)
+edge:         +40.0°C  (crit = +94.0°C, hyst = -273.1°C)
+slowPPT:       8.25 W  (cap = 127.00 W)
+
+nvme-pci-0900
+Adapter: PCI adapter
+Composite:    +32.9°C  (low  = -273.1°C, high = +84.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +32.9°C  (low  = -273.1°C, high = +65261.8°C)
+Sensor 2:     +41.9°C  (low  = -273.1°C, high = +65261.8°C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +51.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 0:        +51.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 1:        +42.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 2:        +40.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 3:        +51.0°C  (high = +80.0°C, crit = +100.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  (crit = +119.0°C)
+temp2:        +29.8°C  (crit = +119.0°C)
+
+amdgpu-pci-0100
+Adapter: PCI adapter
+vddgfx:      750.00 mV 
+fan1:        2010 RPM  (min =    0 RPM, max = 3700 RPM)
+edge:         +40.0°C  (crit = +94.0°C, hyst = -273.1°C)
+slowPPT:       8.24 W  (cap = 127.00 W)
+
+nvme-pci-0900
+Adapter: PCI adapter
+Composite:    +32.9°C  (low  = -273.1°C, high = +84.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +32.9°C  (low  = -273.1°C, high = +65261.8°C)
+Sensor 2:     +41.9°C  (low  = -273.1°C, high = +65261.8°C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +51.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 0:        +51.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 1:        +42.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 2:        +40.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 3:        +51.0°C  (high = +80.0°C, crit = +100.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  (crit = +119.0°C)
+temp2:        +29.8°C  (crit = +119.0°C)
+
+amdgpu-pci-0100
+Adapter: PCI adapter
+vddgfx:      800.00 mV 
+fan1:        2010 RPM  (min =    0 RPM, max = 3700 RPM)
+edge:         +40.0°C  (crit = +94.0°C, hyst = -273.1°C)
+slowPPT:       8.23 W  (cap = 127.00 W)
+
+nvme-pci-0900
+Adapter: PCI adapter
+Composite:    +32.9°C  (low  = -273.1°C, high = +84.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +32.9°C  (low  = -273.1°C, high = +65261.8°C)
+Sensor 2:     +41.9°C  (low  = -273.1°C, high = +65261.8°C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +51.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 0:        +51.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 1:        +42.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 2:        +40.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 3:        +51.0°C  (high = +80.0°C, crit = +100.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  (crit = +119.0°C)
+temp2:        +29.8°C  (crit = +119.0°C)
+
+amdgpu-pci-0100
+Adapter: PCI adapter
+vddgfx:      750.00 mV 
+fan1:        2010 RPM  (min =    0 RPM, max = 3700 RPM)
+edge:         +40.0°C  (crit = +94.0°C, hyst = -273.1°C)
+slowPPT:       8.22 W  (cap = 127.00 W)
+
+nvme-pci-0900
+Adapter: PCI adapter
+Composite:    +32.9°C  (low  = -273.1°C, high = +84.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +32.9°C  (low  = -273.1°C, high = +65261.8°C)
+Sensor 2:     +41.9°C  (low  = -273.1°C, high = +65261.8°C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +51.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 0:        +51.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 1:        +42.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 2:        +40.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 3:        +51.0°C  (high = +80.0°C, crit = +100.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  (crit = +119.0°C)
+temp2:        +29.8°C  (crit = +119.0°C)
+
+amdgpu-pci-0100
+Adapter: PCI adapter
+vddgfx:      750.00 mV 
+fan1:        2010 RPM  (min =    0 RPM, max = 3700 RPM)
+edge:         +40.0°C  (crit = +94.0°C, hyst = -273.1°C)
+slowPPT:       8.21 W  (cap = 127.00 W)
+
+nvme-pci-0900
+Adapter: PCI adapter
+Composite:    +32.9°C  (low  = -273.1°C, high = +84.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +32.9°C  (low  = -273.1°C, high = +65261.8°C)
+Sensor 2:     +41.9°C  (low  = -273.1°C, high = +65261.8°C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +51.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 0:        +51.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 1:        +42.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 2:        +40.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 3:        +51.0°C  (high = +80.0°C, crit = +100.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  (crit = +119.0°C)
+temp2:        +29.8°C  (crit = +119.0°C)
+
+amdgpu-pci-0100
+Adapter: PCI adapter
+vddgfx:      800.00 mV 
+fan1:        2010 RPM  (min =    0 RPM, max = 3700 RPM)
+edge:         +40.0°C  (crit = +94.0°C, hyst = -273.1°C)
+slowPPT:       8.21 W  (cap = 127.00 W)
+
+nvme-pci-0900
+Adapter: PCI adapter
+Composite:    +32.9°C  (low  = -273.1°C, high = +84.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +32.9°C  (low  = -273.1°C, high = +65261.8°C)
+Sensor 2:     +41.9°C  (low  = -273.1°C, high = +65261.8°C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +51.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 0:        +51.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 1:        +42.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 2:        +40.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 3:        +51.0°C  (high = +80.0°C, crit = +100.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  (crit = +119.0°C)
+temp2:        +29.8°C  (crit = +119.0°C)
+
+amdgpu-pci-0100
+Adapter: PCI adapter
+vddgfx:      750.00 mV 
+fan1:        2010 RPM  (min =    0 RPM, max = 3700 RPM)
+edge:         +40.0°C  (crit = +94.0°C, hyst = -273.1°C)
+slowPPT:       8.21 W  (cap = 127.00 W)
+
+nvme-pci-0900
+Adapter: PCI adapter
+Composite:    +32.9°C  (low  = -273.1°C, high = +84.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +32.9°C  (low  = -273.1°C, high = +65261.8°C)
+Sensor 2:     +41.9°C  (low  = -273.1°C, high = +65261.8°C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +51.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 0:        +51.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 1:        +42.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 2:        +40.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 3:        +51.0°C  (high = +80.0°C, crit = +100.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  (crit = +119.0°C)
+temp2:        +29.8°C  (crit = +119.0°C)
+
+amdgpu-pci-0100
+Adapter: PCI adapter
+vddgfx:      750.00 mV 
+fan1:        2010 RPM  (min =    0 RPM, max = 3700 RPM)
+edge:         +40.0°C  (crit = +94.0°C, hyst = -273.1°C)
+slowPPT:       8.22 W  (cap = 127.00 W)
+
+nvme-pci-0900
+Adapter: PCI adapter
+Composite:    +32.9°C  (low  = -273.1°C, high = +84.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +32.9°C  (low  = -273.1°C, high = +65261.8°C)
+Sensor 2:     +41.9°C  (low  = -273.1°C, high = +65261.8°C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +51.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 0:        +51.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 1:        +42.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 2:        +40.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 3:        +51.0°C  (high = +80.0°C, crit = +100.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  (crit = +119.0°C)
+temp2:        +29.8°C  (crit = +119.0°C)
+
+amdgpu-pci-0100
+Adapter: PCI adapter
+vddgfx:      750.00 mV 
+fan1:        2010 RPM  (min =    0 RPM, max = 3700 RPM)
+edge:         +40.0°C  (crit = +94.0°C, hyst = -273.1°C)
+slowPPT:       8.21 W  (cap = 127.00 W)
+
+nvme-pci-0900
+Adapter: PCI adapter
+Composite:    +32.9°C  (low  = -273.1°C, high = +84.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +32.9°C  (low  = -273.1°C, high = +65261.8°C)
+Sensor 2:     +41.9°C  (low  = -273.1°C, high = +65261.8°C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +51.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 0:        +51.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 1:        +42.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 2:        +40.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 3:        +51.0°C  (high = +80.0°C, crit = +100.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  (crit = +119.0°C)
+temp2:        +29.8°C  (crit = +119.0°C)
+
+amdgpu-pci-0100
+Adapter: PCI adapter
+vddgfx:      750.00 mV 
+fan1:        2010 RPM  (min =    0 RPM, max = 3700 RPM)
+edge:         +41.0°C  (crit = +94.0°C, hyst = -273.1°C)
+slowPPT:       8.21 W  (cap = 127.00 W)
+
+nvme-pci-0900
+Adapter: PCI adapter
+Composite:    +32.9°C  (low  = -273.1°C, high = +84.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +32.9°C  (low  = -273.1°C, high = +65261.8°C)
+Sensor 2:     +41.9°C  (low  = -273.1°C, high = +65261.8°C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +51.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 0:        +51.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 1:        +42.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 2:        +40.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 3:        +51.0°C  (high = +80.0°C, crit = +100.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  (crit = +119.0°C)
+temp2:        +29.8°C  (crit = +119.0°C)
+
+amdgpu-pci-0100
+Adapter: PCI adapter
+vddgfx:      750.00 mV 
+fan1:        2010 RPM  (min =    0 RPM, max = 3700 RPM)
+edge:         +41.0°C  (crit = +94.0°C, hyst = -273.1°C)
+slowPPT:       8.21 W  (cap = 127.00 W)
+
+nvme-pci-0900
+Adapter: PCI adapter
+Composite:    +32.9°C  (low  = -273.1°C, high = +84.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +32.9°C  (low  = -273.1°C, high = +65261.8°C)
+Sensor 2:     +41.9°C  (low  = -273.1°C, high = +65261.8°C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +51.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 0:        +51.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 1:        +42.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 2:        +40.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 3:        +51.0°C  (high = +80.0°C, crit = +100.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  (crit = +119.0°C)
+temp2:        +29.8°C  (crit = +119.0°C)
+
+amdgpu-pci-0100
+Adapter: PCI adapter
+vddgfx:      750.00 mV 
+fan1:        2010 RPM  (min =    0 RPM, max = 3700 RPM)
+edge:         +41.0°C  (crit = +94.0°C, hyst = -273.1°C)
+slowPPT:       8.21 W  (cap = 127.00 W)
+
+nvme-pci-0900
+Adapter: PCI adapter
+Composite:    +32.9°C  (low  = -273.1°C, high = +84.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +32.9°C  (low  = -273.1°C, high = +65261.8°C)
+Sensor 2:     +41.9°C  (low  = -273.1°C, high = +65261.8°C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +51.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 0:        +51.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 1:        +42.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 2:        +40.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 3:        +51.0°C  (high = +80.0°C, crit = +100.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  (crit = +119.0°C)
+temp2:        +29.8°C  (crit = +119.0°C)
+
+amdgpu-pci-0100
+Adapter: PCI adapter
+vddgfx:      750.00 mV 
+fan1:        2010 RPM  (min =    0 RPM, max = 3700 RPM)
+edge:         +41.0°C  (crit = +94.0°C, hyst = -273.1°C)
+slowPPT:       8.21 W  (cap = 127.00 W)
+
+nvme-pci-0900
+Adapter: PCI adapter
+Composite:    +32.9°C  (low  = -273.1°C, high = +84.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +32.9°C  (low  = -273.1°C, high = +65261.8°C)
+Sensor 2:     +41.9°C  (low  = -273.1°C, high = +65261.8°C)
+
+coretemp-isa-0000
+Adapter: ISA adapter
+Package id 0:  +51.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 0:        +51.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 1:        +42.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 2:        +40.0°C  (high = +80.0°C, crit = +100.0°C)
+Core 3:        +51.0°C  (high = +80.0°C, crit = +100.0°C)
+
+acpitz-acpi-0
+Adapter: ACPI interface
+temp1:        +27.8°C  (crit = +119.0°C)
+temp2:        +29.8°C  (crit = +119.0°C)
+
+amdgpu-pci-0100
+Adapter: PCI adapter
+vddgfx:      750.00 mV 
+fan1:        2010 RPM  (min =    0 RPM, max = 3700 RPM)
+edge:         +40.0°C  (crit = +94.0°C, hyst = -273.1°C)
+slowPPT:       8.21 W  (cap = 127.00 W)
+
+nvme-pci-0900
+Adapter: PCI adapter
+Composite:    +32.9°C  (low  = -273.1°C, high = +84.8°C)
+                       (crit = +84.8°C)
+Sensor 1:     +32.9°C  (low  = -273.1°C, high = +65261.8°C)
+Sensor 2:     +41.9°C  (low  = -273.1°C, high = +65261.8°C)
+

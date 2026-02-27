@@ -1,0 +1,56 @@
+*pexRulesFile: $PDK_DIR/calibre/ruledirs/rcx/rcxControl_calibre_asap7.rul
+*pexRunDir: $PWD/pex
+*pexLayoutPaths: nand3x1_02.calibre.db
+*pexLayoutPrimary: nand3x1_02
+*pexLayoutLibrary: test_designlib_extraction_01
+*pexLayoutView: layout
+*pexLayoutGetFromViewer: 1
+*pexSourcePath: nand3x1_02.src.net
+*pexSourcePrimary: nand3x1_02
+*pexSourceLibrary: test_designlib_extraction_01
+*pexSourceView: schematic
+*pexSourceGetFromViewer: 1
+*pexPexTopLevelExcludeNets: 1
+*pexPexTopLevelExcludeNetsValue: VDD! VSS! vdd! vss!
+*pexPexExtractSelectedNets: 1
+*pexPexExtractionModeHybrid: 1
+*pex3DTopLevelExcludeNets: 1
+*pex3DTopLevelExcludeNetsValue: vdd! vss! VDD! VSS!
+*pex3DExtractSelectedNets: 1
+*pexPexGroundName: 1
+*pexPexGroundNameValue: vss!
+*pexHCellsFile: 
+*pexxCellsFile: 
+*pexPowerNames: VDD! vdd!
+*pexGroundNames: VSS! vss!
+*pexReportFile: nand3x1_02.lvs.report
+*pexPexNetlistFile: nand3x1_02.pex.netlist
+*pexPexNetlistFormat: HSPICE
+*pexPexReport: 1
+*pexPexReportFile: nand3x1_02.pex.report
+*pexPexRarea: 1
+*pexPexLocation: 1
+*pexPexValue: 1
+*pexStartRVE: 1
+*pexPexNetlistNoxrefNetNames: 0
+*pexPexEnableTICER: 1
+*pexPexTICERThreshold: 1000000000000
+*pexPexReduceCC: 1
+*pexPexReduceCCAbsolute: 10
+*pexPexReduceCCRatio: 0.2
+*pexInductFreqGHz: 1.79769e+299
+*pexInductUseDefaultRange: 0
+*pexInductRange: 1.79769e+308
+*cmnWarnLayoutOverwrite: 0
+*cmnWarnSourceOverwrite: 0
+*cmnShowOptions: 1
+*cmnTranscriptFile: /home/vvashish/7nm_release_150715a/pex/inv_xrc_test_01.pex.transcript.01
+*cmnUseCBforRVE: 0
+*cmnRunHier: 2
+*cmnRunMT: 1
+*cmnSlaveHosts: {use {}} {hostName {}} {cpuCount {}} {a32a64 {}} {rsh {}} {maxMem {}} {workingDir {}} {layerDir {}} {mgcLibPath {}} {launchName {}}
+*cmnLSFSlaveTbl: {use 1} {totalCpus 1} {minCpus 1} {architecture {{}}} {minMemory {{}}} {resourceOptions {{}}} {submitOptions {{}}}
+*cmnGridSlaveTbl: {use 1} {totalCpus 1} {minCpus 1} {architecture {{}}} {minMemory {{}}} {resourceOptions {{}}} {submitOptions {{}}}
+*cmnFDILayoutLibrary: test_designlib_extraction_01
+*cmnFDILayoutView: layout
+*cmnFDIDEFLayoutPath: nand3x1_02.def

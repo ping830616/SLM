@@ -1,0 +1,14 @@
+Error: Current design is not defined. (UID-4)
+0
+ 
+****************************************
+Report : constraint
+        -all_violators
+        -verbose
+Design : adder32
+Version: S-2021.06-SP5-4
+Date   : Sat Mar 30 18:19:09 2024
+****************************************
+
+
+1

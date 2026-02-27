@@ -1,0 +1,66 @@
+********************************************************************************
+Product   : Virtuoso(R) XStream In
+Program   : @(#)$CDS: strmin version 6.1.8-64b 09/28/2022 10:57 (cpgsrv12) $
+          : sub-version  IC6.1.8-64b.500.28 
+Started at: 05-Jul-2023  23:57:41
+User Name : aavyas1
+Host Name : eceesrv02
+Directory : /home/aavyas1/libs/asap7_rundir
+CADENCE Design Systems, Inc.
+********************************************************************************
+Info: Cellview Rev Num:99,  Tech Rev Num:59
+
+WARNING (XSTRM-75): Target library 'VirtuosoDesignLibName' is attached to the technology library 'asap7_TechLib'. Therefore, the technology file is opened in read-only mode. All the undefined layer-purpose pairs will be dropped.
+INFO (XSTRM-217): Reading the layer map file, /home/aavyas1/libs/asap7/asap7PDK/cdslib/asap7_TechLib/asap7_TechLib.layermap
+WARNING (XSTRM-38): The library asap7sc7p5t_24 in the refLibList file strminref.txt could not be found. This is because the library 'asap7sc7p5t_24' specified in refLibList file does not exist. Ensure that the library 'asap7sc7p5t_24' is defined in the library definition file and also exists in the location specified in the library definition file.
+INFO (XSTRM-217): Reading the refliblist file, strminref.txt
+INFO (XSTRM-217): Reading the object map file, /home/aavyas1/libs/asap7/asap7PDK/cdslib/asap7_TechLib/asap7_TechLib.objectmap
+INFO (XSTRM-163): You have not used the '-viaMap' option. If a viaMap file, corresponding technology file or technology library exist, then use the '-viaMap' option for creating oaVia instances in the Streamed-In library. Using the '-viaMap' option improves performance and VM usage of applications using the Streamed-In design.
+
+Summary of Options:
+	library				VirtuosoDesignLibName
+	strmFile			adder.gds
+	logFile				strmIn.log
+	topCell				adder
+	view				layout
+	case				Preserve
+	layerMap			/home/aavyas1/libs/asap7/asap7PDK/cdslib/asap7_TechLib/asap7_TechLib.layermap
+	propSeparator			,
+	refLibList				strminref.txt
+	attachTechFileOfLib				asap7_TechLib
+	scale				0.250000
+	objectMap			 /home/aavyas1/libs/asap7/asap7PDK/cdslib/asap7_TechLib/asap7_TechLib.objectmap
+
+WARNING (XSTRM-267): The referenced cell "FILLERxp5_ASAP7_75t_R" was not found. The OpenAccess design data was created for this cell without any reference. Ensure that the referenced cell exists and library is defined in the cds.lib file.
+WARNING (XSTRM-267): The referenced cell "FILLER_ASAP7_75t_R" was not found. The OpenAccess design data was created for this cell without any reference. Ensure that the referenced cell exists and library is defined in the cds.lib file.
+WARNING (XSTRM-267): The referenced cell "TAPCELL_ASAP7_75t_R" was not found. The OpenAccess design data was created for this cell without any reference. Ensure that the referenced cell exists and library is defined in the cds.lib file.
+WARNING (XSTRM-267): The referenced cell "XNOR2xp5_ASAP7_75t_R" was not found. The OpenAccess design data was created for this cell without any reference. Ensure that the referenced cell exists and library is defined in the cds.lib file.
+WARNING (XSTRM-267): The referenced cell "AOI32xp33_ASAP7_75t_R" was not found. The OpenAccess design data was created for this cell without any reference. Ensure that the referenced cell exists and library is defined in the cds.lib file.
+WARNING (XSTRM-267): The referenced cell "AND2x2_ASAP7_75t_R" was not found. The OpenAccess design data was created for this cell without any reference. Ensure that the referenced cell exists and library is defined in the cds.lib file.
+WARNING (XSTRM-267): The referenced cell "XOR2xp5_ASAP7_75t_R" was not found. The OpenAccess design data was created for this cell without any reference. Ensure that the referenced cell exists and library is defined in the cds.lib file.
+WARNING (XSTRM-267): The referenced cell "DFFHQNx1_ASAP7_75t_R" was not found. The OpenAccess design data was created for this cell without any reference. Ensure that the referenced cell exists and library is defined in the cds.lib file.
+INFO (XSTRM-220): 1. Translating STRUCTURE VIA23 as cellView VirtuosoDesignLibName/VIA23/layout.
+INFO (XSTRM-220): 2. Translating STRUCTURE VIA12 as cellView VirtuosoDesignLibName/VIA12/layout.
+INFO (XSTRM-220): 3. Translating STRUCTURE adder_VIA0 as cellView VirtuosoDesignLibName/adder_VIA0/layout.
+INFO (XSTRM-220): 4. Translating STRUCTURE adder_VIA1 as cellView VirtuosoDesignLibName/adder_VIA1/layout.
+INFO (XSTRM-220): 5. Translating STRUCTURE adder_VIA2 as cellView VirtuosoDesignLibName/adder_VIA2/layout.
+INFO (XSTRM-220): 6. Translating STRUCTURE adder as cellView VirtuosoDesignLibName/adder/layout.
+WARNING (XSTRM-58): Failed to create the new layer-purpose pair 'TEXT:drawing'. It will be skipped and all the shapes on this layer-purpose pair will be dropped.
+
+Summary of Objects Translated:
+	Instances:                              172
+	CustomVias:                             0
+	StandardVias:                           20
+	CdsGenVias:                             0
+	Arrays:                                 0
+	Polygons:                               0
+	Paths:                                  67
+	PathSegs:                               0
+	Rectangles:                             83
+	Text:                                   10
+	Node:                                   0
+	Line:                                   0
+	Cells:                                  6
+
+Elapsed Time: 1.1s   User Time: 0.1s   CPU Time: 0.1s   Peak VM: 77236KB  CPUs Used: 2
+INFO (XSTRM-234): Translation completed. '0' error(s) and '11' warning(s) found.

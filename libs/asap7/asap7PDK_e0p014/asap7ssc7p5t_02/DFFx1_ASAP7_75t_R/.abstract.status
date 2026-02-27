@@ -1,0 +1,6 @@
+cUiSetViewStatus {DFFx1m_ASAP7_75t} {layout} {1}
+cUiSetViewStatus {DFFx1m_ASAP7_75t} {logical} {0}
+cUiSetViewStatus {DFFx1m_ASAP7_75t} {abstract.pin} {0}
+cUiSetViewStatus {DFFx1m_ASAP7_75t} {abstract.ext} {0}
+cUiSetViewStatus {DFFx1m_ASAP7_75t} {abstract} {0}
+cUiSetViewStatus {DFFx1m_ASAP7_75t} {abstract.ver} {0}

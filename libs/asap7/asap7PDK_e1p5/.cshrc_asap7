@@ -1,0 +1,43 @@
+############################################################################
+#
+# File     : cshrc file for eecad machines
+#
+############################################################################
+
+# All the paths to the tools have already been set in the eecad machines.
+# The only environmental variable that the students need to set is the
+# PDK_DIR. This can be done by sourcing this file. 
+
+# CDS path is different on the eecad machines (/usr/local/ instead of /cad/)
+setenv CDSHOME /usr/local/cadence/IC617
+setenv CDS_INST_DIR $CDSHOME
+setenv CDS $CDSHOME
+set path=($CDSHOME/bin $path)
+set path=($CDSHOME/tools/bin $path)
+set path=($CDSHOME/tools/dfII/bin $path)
+setenv CDS_Netlisting_Mode Analog
+
+# For Calibre GUI and menu entry
+
+setenv MGC_HOME /usr/local/mentor/calibre/aoi_cal_2017.4_35.25
+
+# Setting environmental variable 'PDK_DIR' to the path where the ASAP7 PDK
+# bundle is located.
+
+setenv PDK_DIR /afs/asu.edu/class/e/e/e/eee525b/asap7/asap7PDK
+setenv CDS_LIC_FILE 5280@enlicense4.eas.asu.edu
+rm -rf asap7_drm.pdf 
+ln -s $PDK_DIR/docs/asap7_drm.pdf asap7_drm.pdf 
+
+setenv MGC_RVE_CTO_FILE $PWD/rve_vis_asap7.cto
+
+# These environmental variables specify the metal grids offsets from either
+# X or Y axis, depending on the metal routing direction. The default offset
+# value is 0 nm. To offset a particular grid by 'p' nm, specify the
+# variable value as p*10.  Thus, for an offset of 24 nm, the corresponding
+# variable value is 240.
+
+setenv VAR_M4_YOFFSET "0"
+setenv VAR_M5_XOFFSET "0"
+setenv VAR_M6_YOFFSET "0"
+setenv VAR_M7_XOFFSET "0"

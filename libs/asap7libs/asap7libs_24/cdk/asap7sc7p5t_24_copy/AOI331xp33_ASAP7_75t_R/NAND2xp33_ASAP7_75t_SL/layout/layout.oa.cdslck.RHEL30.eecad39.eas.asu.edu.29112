@@ -1,0 +1,16 @@
+#
+# Edit Lock-Stake file. CAUTION: Please do not change.
+#
+# Information about current Edit Lock Owner.
+#
+LockStakeVersion               1.1
+LoginName                      aagarw53
+HostName                       eecad39.eas.asu.edu
+ProcessIdentifier              29112
+ProcessCreationTime_UTC        1536875776
+ProcessCreationTime_Readable   Thu Sep 13 14:56:16 2018 MST
+AppIdentifier                  OA File System Design Manager
+OSType                         unix
+ReasonForPlacingEditLock       OpenAccess edit lock
+FilePathUsedToEditLock         /afs/asu.edu/users/a/a/g/aagarw53/525_fall2018/asap7_rundir/asap7sc7p5t_24/NAND2xp33_ASAP7_75t_SL/layout/layout.oa.cdslck
+TimeEditLocked                 Thu Sep 13 15:10:59 2018 MST

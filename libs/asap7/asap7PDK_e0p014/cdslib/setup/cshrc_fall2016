@@ -1,0 +1,38 @@
+############################################################################
+#
+# File     : cshrc file for eecad machines
+#
+############################################################################
+
+# All the paths to the tools have already been set in the eecad machines.
+# The only environmental variable that the students need to set is the
+# PDK_DIR. This can be done by sourcing this file. 
+
+# CDS path is different on the eecad machines (/usr/local/ instead of /cad/)
+setenv CDSHOME /usr/local/cadence/IC615
+setenv CDS_INST_DIR $CDSHOME
+setenv CDS $CDSHOME
+set path=($CDSHOME/bin $path)
+set path=($CDSHOME/tools/bin $path)
+set path=($CDSHOME/tools/dfII/bin $path)
+setenv CDS_Netlisting_Mode Analog
+
+set path=(/usr/local/cadence/EDI142/bin $path)
+set path=(/usr/local/cadence/RC142/bin $path)
+set path =(/usr/local/synopsys/primetime_2015.06/bin $path)
+set path = (/usr/local/synopsys/cscope_2015.03/ai_bin $path)
+setenv SNPSLMD_LICENSE_FILE 27020@enlicense9.eas.asu.edu
+
+# For Calibre GUI and menu entry
+
+setenv MGC_HOME /usr/local/mentor/calibre/aoi_cal_2015.2_36.27
+
+# Setting environmental variable 'PDK_DIR' to the path where the ASAP7 PDK
+# bundle is located.
+
+setenv PDK_DIR /afs/asu.edu/class/e/e/e/eee525b/asap7/asap7PDK
+##comment the below two lines after first run
+rm -rf asap7_drm.pdf 
+ln -s $PDK_DIR/docs/asap7_drm.pdf asap7_drm.pdf 
+
+setenv MGC_RVE_CTO_FILE $PWD/rve_vis_asap7.cto

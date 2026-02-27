@@ -1,0 +1,19 @@
+SOFTINCLUDE $CDS/share/cdssetup/cds.lib
+DEFINE sample  $CDS/tools/dfII/samples/cdslib/sample
+
+
+#-----------------------
+# ASAP7 TechLibrary:
+#-----------------------
+DEFINE asap7_TechLib /home/aavyas1/libs/asap7/asap7PDK/cdslib/asap7_TechLib
+#------------------------------
+# Sample Standard Cell Library: 
+#------------------------------
+DEFINE asap7ssc7p5t /home/aavyas1/libs/asap7/asap7PDK/asap7ssc7p5t_05
+DEFINE asap7sc7p5t_24 /home/aavyas1/libs/asap7libs/asap7libs_24/cdk/asap7sc7p5t_24
+#-----------------------
+# User Libraries: 
+#-----------------------
+#Removed by ddDeleteObj: DEFINE VirtuosoDesignLibName /home/aavyas1/libs/asap7_rundir/VirtuosoDesignLibName
+DEFINE VirtuosoDesignLibName /home/aavyas1/libs/asap7_rundir/VirtuosoDesignLibName
+DEFINE avTech /usr/local/tools/cadence/ASSURA_618_04.16.001/tools.lnx86/assura/etc/avtech/avTech

@@ -1,0 +1,34 @@
+*lvsRulesFile: /afs/asu.edu/class/e/e/e/eee525b/asap7/asap7PDK_e1p5/calibre/rundirs/lvs/runset_dir_lvs/lvsRunset_asap7
+*lvsRunDir: $PWD/lvs
+*lvsLayoutPaths: dot_product.calibre.db
+*lvsLayoutPrimary: dot_product
+*lvsLayoutLibrary: dot_prod
+*lvsLayoutView: layout
+*lvsLayoutGetFromViewer: 1
+*lvsSourcePath: /afs/asu.edu/users/s/s/h/sshreed2/eee525_f19/innovus/dot_product.sp
+*lvsSourcePrimary: dot_product
+*lvsSourceLibrary: dot_prod
+*lvsSourceView: schematic
+*lvsSpiceFile: dot_product.sp
+*lvsAutoMatch: 1
+*lvsHCellsFile: 
+*lvsPowerNames: vdd! VDD! vdd VDD
+*lvsGroundNames: VSS VSS! GND GND!
+*lvsERCDatabase: dot_product.erc.results
+*lvsERCSummaryFile: dot_product.erc.summary
+*lvsReportFile: dot_product.lvs.report
+*lvsViewReport: 0
+*lvsMaskDBFile: tc24.maskdb
+*lvsReportMaximumAll: 1
+*cmnWarnLayoutOverwrite: 0
+*cmnWarnSourceOverwrite: 0
+*cmnShowOptions: 1
+*cmnSaveRunsetChanges: 0
+*cmnRunMT: 1
+*cmnRunHyper: 1
+*cmnSlaveHosts: {use {}} {hostName {}} {cpuCount {}} {a32a64 {}} {rsh {}} {maxMem {}} {workingDir {}} {layerDir {}} {mgcLibPath {}} {launchName {}}
+*cmnLSFSlaveTbl: {use 1} {totalCpus 1} {minCpus 1} {architecture {{}}} {minMemory {{}}} {resourceOptions {{}}} {submitOptions {{}}}
+*cmnGridSlaveTbl: {use 1} {totalCpus 1} {minCpus 1} {architecture {{}}} {minMemory {{}}} {resourceOptions {{}}} {submitOptions {{}}}
+*cmnFDILayoutLibrary: dot_prod
+*cmnFDILayoutView: layout
+*cmnFDIDEFLayoutPath: dot_product.def

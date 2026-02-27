@@ -1,0 +1,121 @@
+\o Program:		@(#)$CDS: libManager version 6.1.8 - CAT37 09/08/2022 08:39 (sjfdcl1034) $
+\o Sub version:		sub-version  s284 
+\o Arguments:		-mpssession virtuoso18808 -mpshost eceesrv02 
+\o Working Directory:	eceesrv02:/home/aavyas1/libs/asap7_rundir
+\o 64-bit offsets
+\o Qt version: 		5.9.1
+\o Log file is "/home/aavyas1/libs/asap7_rundir/libManager.log".
+\o Opening libManager window.
+\a nrSetCurrentWindow(cdsLibManager)
+\a nrResizeWindow(cdsLibManager list(597 536 602 491))
+\o changeWorkingDir("/home/aavyas1/libs/asap7_rundir") unnecessary.
+\o ddSetForcedLib("") unnecessary.
+\o MPS service: map window
+\o Library Manager customization server connected.
+\w Warning: The directory: '/usr/local/cadence/IC617/tools/dfII/samples/cdslib/sample' does not exist
+\w 	but was defined in libFile '/home/aavyas1/libs/asap7_rundir/cds.lib' for Lib 'sample'.
+\a cdsLibManager->libListBox->value = "VirtuosoDesignLibName"
+\a cdsLibManager->libLineEdit->value = "VirtuosoDesignLibName"
+\a cdsLibManager->cellListBox->value = "adder"
+\a cdsLibManager->cellLineEdit->value = "adder"
+\a cdsLibManager->viewListBox->value = "layout"
+\a cdsLibManager->viewLineEdit->value = "layout"
+\a cdsLibManager->viewListBox->value = nil
+\a cdsLibManager->viewLineEdit->value = ""
+\a cdsLibManager->viewListBox->value = "layout"
+\a cdsLibManager->viewLineEdit->value = "layout"
+\o MPS request: edit design
+\a nrListItemAction(cdsLibManager->gdmXTView 0 0)
+\a cdsLibManager->libListBox->value = nil
+\a cdsLibManager->libLineEdit->value = ""
+\a cdsLibManager->cellListBox->value = nil
+\a cdsLibManager->viewLineEdit->value = ""
+\a cdsLibManager->viewListBox->value = nil
+\a cdsLibManager->cellLineEdit->value = ""
+\w Warning: The directory: '/usr/local/cadence/IC617/tools/dfII/samples/cdslib/sample' does not exist
+\w 	but was defined in libFile '/home/aavyas1/libs/asap7_rundir/cds.lib' for Lib 'sample'.
+\a cdsLibManager->libListBox->value = "VirtuosoDesignLibName"
+\a cdsLibManager->libLineEdit->value = "VirtuosoDesignLibName"
+\a cdsLibManager->cellListBox->value = "adder"
+\a cdsLibManager->cellLineEdit->value = "adder"
+\a cdsLibManager->viewListBox->value = "layout"
+\a cdsLibManager->viewLineEdit->value = "layout"
+\a cdsLibManager->viewLineEdit->value = ""
+\a cdsLibManager->viewListBox->value = nil
+\a cdsLibManager->viewListBox->value = "layout"
+\a cdsLibManager->viewLineEdit->value = "layout"
+\a cdsLibManager->libListBox->value = nil
+\a cdsLibManager->libLineEdit->value = ""
+\a cdsLibManager->cellListBox->value = nil
+\a cdsLibManager->viewLineEdit->value = ""
+\a cdsLibManager->viewListBox->value = nil
+\a cdsLibManager->cellLineEdit->value = ""
+\w Warning: The directory: '/usr/local/cadence/IC617/tools/dfII/samples/cdslib/sample' does not exist
+\w 	but was defined in libFile '/home/aavyas1/libs/asap7_rundir/cds.lib' for Lib 'sample'.
+\a cdsLibManager->libListBox->value = "VirtuosoDesignLibName"
+\a cdsLibManager->libLineEdit->value = "VirtuosoDesignLibName"
+\a cdsLibManager->cellListBox->value = "adder"
+\a cdsLibManager->cellLineEdit->value = "adder"
+\a cdsLibManager->viewListBox->value = "layout"
+\a cdsLibManager->viewLineEdit->value = "layout"
+\a cdsLibManager->viewLineEdit->value = ""
+\a cdsLibManager->viewListBox->value = nil
+\a cdsLibManager->viewListBox->value = "layout"
+\a cdsLibManager->viewLineEdit->value = "layout"
+\a nrSetCurrentWindow(cdsLibManager)
+\a cdsLibManager->libListBox->value = "asap7_TechLib"
+\a cdsLibManager->libLineEdit->value = "asap7_TechLib"
+\a cdsLibManager->cellLineEdit->value = ""
+\a cdsLibManager->cellListBox->value = nil
+\a cdsLibManager->viewLineEdit->value = ""
+\a cdsLibManager->viewListBox->value = nil
+\a cdsLibManager->libListBox->value = "asap7ssc7p5t"
+\a cdsLibManager->libLineEdit->value = "asap7ssc7p5t"
+\a cdsLibManager->libListBox->value = "avTech"
+\a cdsLibManager->libLineEdit->value = "avTech"
+\a cdsLibManager->libListBox->value = "cdsDefTechLib"
+\a cdsLibManager->libLineEdit->value = "cdsDefTechLib"
+\a cdsLibManager->libListBox->value = "asap7_TechLib"
+\a cdsLibManager->libLineEdit->value = "asap7_TechLib"
+\a cdsLibManager->libListBox->value = "VirtuosoDesignLibName"
+\a cdsLibManager->libLineEdit->value = "VirtuosoDesignLibName"
+\a nrResizeWindow(cdsLibManager list(597 536 602 769))
+\a nrSetCurrentWindow(cdsLibManager)
+\a nrResizeWindow(cdsLibManager list(597 536 602 760))
+\a cdsLibManager->cellListBox->value = "adder"
+\a cdsLibManager->cellLineEdit->value = "adder"
+\a cdsLibManager->viewListBox->value = "layout"
+\a cdsLibManager->viewLineEdit->value = "layout"
+\a cdsLibManager->cellLineEdit->value = ""
+\a cdsLibManager->cellListBox->value = nil
+\a cdsLibManager->viewLineEdit->value = ""
+\a cdsLibManager->viewListBox->value = nil
+\a cdsLibManager->cellListBox->value = "adder"
+\a cdsLibManager->cellLineEdit->value = "adder"
+\a cdsLibManager->viewListBox->value = "layout"
+\a cdsLibManager->viewLineEdit->value = "layout"
+\a cdsLibManager->viewLineEdit->value = ""
+\a cdsLibManager->viewListBox->value = nil
+\o MPS request: edit design
+\a nrListItemAction(cdsLibManager->cellListBox 2 0)
+\a cdsLibManager->libListBox->value = nil
+\a cdsLibManager->libLineEdit->value = ""
+\a cdsLibManager->cellLineEdit->value = ""
+\a cdsLibManager->cellListBox->value = nil
+\w Warning: The directory: '/usr/local/cadence/IC617/tools/dfII/samples/cdslib/sample' does not exist
+\w 	but was defined in libFile '/home/aavyas1/libs/asap7_rundir/cds.lib' for Lib 'sample'.
+\a cdsLibManager->libListBox->value = "VirtuosoDesignLibName"
+\a cdsLibManager->libLineEdit->value = "VirtuosoDesignLibName"
+\a cdsLibManager->cellListBox->value = "adder"
+\a cdsLibManager->cellLineEdit->value = "adder"
+\a cdsLibManager->viewListBox->value = "layout"
+\a cdsLibManager->viewLineEdit->value = "layout"
+\a cdsLibManager->viewLineEdit->value = ""
+\a cdsLibManager->viewListBox->value = nil
+\a cdsLibManager->viewListBox->value = "layout"
+\a cdsLibManager->viewLineEdit->value = "layout"
+\a nrSetCurrentWindow(cdsLibManager)
+\a nrSetCurrentWindow(cdsLibManager)
+\o MPS service: shutdown
+\o libManager is exiting.
+\a exit(0)
